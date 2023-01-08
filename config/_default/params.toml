@@ -4,7 +4,7 @@ tagline = "Most Functional Netlify Theme for Affiliates"
 contacteMail = "yousafblogger@gmail.com"
 
 [colors]
-bodyBG = "#ff0000"
+bodyBG = "#D3D3D3"
 
 [amznTracking]
 global = "salesmag-20"
