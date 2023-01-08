@@ -5,7 +5,7 @@ contacteMail = "yousafblogger@gmail.com"
 
 [colors]
 bodyBG = ""
-sectionBG = "#4e9e8e"
+sectionBG = ""
 
 [amznTracking]
 global = "salesmag-20"
