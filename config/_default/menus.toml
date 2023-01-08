@@ -43,5 +43,5 @@ url = "/elements/"
 
 [[footer]]
 weight = 1
-name = "Contact Form"
-url = "/contact-form/"
+name = "Contact Us"
+url = "/contact-us/"
