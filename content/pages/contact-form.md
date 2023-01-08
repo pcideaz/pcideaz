@@ -1,10 +1,10 @@
 ---
-title: Contact Form
-seo_title: Contact Form
+title: Contact Us
 type: pages
 draft: false
-url: contact-form
-date: 2022-02-16T16:25:31.498Z
+seo_title: Contact Us
+url: contact-us
+date: 2023-01-08T09:37:34.311Z
 ---
 Thank you for contacting us. We will get back to you at our earliest opportunity.
 
