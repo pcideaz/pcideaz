@@ -17,7 +17,7 @@ If you're looking for a fresh new look for your website, you'll love the new Net
 
 #### Simple default styles for headings
 
-##### Simple default styles for headings
+> ##### Simple default styles for headings
 
 ###### Simple default styles for headings
 
@@ -44,7 +44,6 @@ attr
 HTML
 
 - - -
-
 
 {{< youtube K4TOrB7at0Y >}}
 
