@@ -29,11 +29,6 @@ name = "Privacy Policy"
 url = "/privacy-policy/"
 
 [[footer]]
-weight = 1
-name = "Elements"
-url = "/elements/"
-
-[[footer]]
 weight = 4
 name = "Contact Us"
 url = "/contact-us/"
@@ -44,6 +39,6 @@ name = "About Us"
 url = "/about-us/"
 
 [[footer]]
-weight = 100
+weight = 7
 url = "/sitemap.xml/"
 name = "Sitemap"
