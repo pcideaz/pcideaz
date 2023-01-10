@@ -4,7 +4,7 @@ name = "Home"
 url = "/"
 
 [[main]]
-weight = 1
+weight = 2
 name = "Buying Guides"
 url = "#"
 
