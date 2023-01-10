@@ -10,8 +10,8 @@ url = "#"
 
 [[main]]
 weight = 3
-name = "Elements"
-url = "/elements/"
+name = "Blog"
+url = "/knowledge-base/"
 
 [[footer]]
 weight = 1
