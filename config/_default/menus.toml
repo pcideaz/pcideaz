@@ -38,10 +38,35 @@ url = "https://www.facebook.com/hey.yousaf"
 
 [[footer]]
 weight = 1
+name = "Terms of Service"
+url = "/terms-of-service/"
+
+[[footer]]
+weight = 2
+name = "Affiliate Disclosure"
+url = "/affiliate-disclosure/"
+
+[[footer]]
+weight = 3
+name = "Privacy Policy"
+url = "/privacy-policy/"
+
+[[footer]]
+weight = 1
 name = "Elements"
 url = "/elements/"
 
 [[footer]]
-weight = 1
+weight = 4
 name = "Contact Us"
 url = "/contact-us/"
+
+[[footer]]
+weight = 5
+name = "About Us"
+url = "/about-us/"
+
+[[footer]]
+weight = 6
+url = "/sitemap.xml/"
+name = "Sitemap"
