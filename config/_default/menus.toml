@@ -67,6 +67,6 @@ name = "About Us"
 url = "/about-us/"
 
 [[footer]]
-weight = 20
+weight = 100
 url = "/sitemap.xml/"
 name = "Sitemap"
