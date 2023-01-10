@@ -1,7 +1,7 @@
 ---
 title: Elements
 type: pages
-draft: false
+draft: true
 url: elements
 date: 2022-02-16T16:26:54.217Z
 ---
