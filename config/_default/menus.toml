@@ -5,7 +5,7 @@ url = "/"
 
 [[main]]
 weight = 1
-name = "Layouts"
+name = "Buying Guides"
 url = "#"
 
 [[main]]
