@@ -4,44 +4,41 @@ name = "Home"
 url = "/"
 
 [[main]]
-weight = 1
-name = "Layouts"
+weight = 2
+name = "Buying Guides"
 url = "#"
 
 [[main]]
-weight = 1
-name = "Affiliate Post"
-url = "/affiliate-post/"
-parent = "Layouts"
+weight = 3
+name = "Blog"
+url = "/knowledge-base/"
 
-[[main]]
+[[footer]]
+weight = 1
+name = "Terms of Service"
+url = "/terms-of-service/"
+
+[[footer]]
 weight = 2
-name = "Normal Post"
-url = "/the-senate-that-our-ability-to-use-the-force-has-diminished/"
-parent = "Layouts"
+name = "Affiliate Disclosure"
+url = "/affiliate-disclosure/"
 
-[[main]]
+[[footer]]
 weight = 3
-name = "Single Review Post"
-url = "/review-page-single/"
-parent = "Layouts"
+name = "Privacy Policy"
+url = "/privacy-policy/"
 
-[[main]]
-weight = 3
-name = "Elements"
-url = "/elements/"
-
-[[main]]
+[[footer]]
 weight = 4
-name = "Buy this Theme"
-url = "https://www.facebook.com/hey.yousaf"
+name = "Contact Us"
+url = "/contact-us/"
 
 [[footer]]
-weight = 1
-name = "Elements"
-url = "/elements/"
+weight = 5
+name = "About Us"
+url = "/about-us/"
 
 [[footer]]
-weight = 1
-name = "Contact Form"
-url = "/contact-form/"
+weight = 7
+url = "/sitemap.xml/"
+name = "Sitemap"
