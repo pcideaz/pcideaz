@@ -19,7 +19,9 @@ meta_Description = "If you're looking to create a professional website that will
 image = "/images/logo.png"
 
 [verifications]
-googleSiteVerify = "<meta name=\"google-site-verification\" content=\"CVH6Skbyhocna87B4-iPnbPCAwxnwI0Pd5ZxU9P2oG8\" />"
+googleSiteVerify = "google-site-verification: google999cb0d5d20dbe22.html"
+BingWebmaster = ""
+PinterestVerify = "<meta name=\"google-site-verification\" content=\"CVH6Skbyhocna87B4-iPnbPCAwxnwI0Pd5ZxU9P2oG8\" />"
 
 [social_accounts]
 sitefbAccount = "https://facebook.com/"
