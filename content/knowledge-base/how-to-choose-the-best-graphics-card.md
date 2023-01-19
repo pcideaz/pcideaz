@@ -30,8 +30,6 @@ Overall, it all depends upon the load you will put on the card. If you’re an e
 
 ## Desktop vs. laptop graphics cards
 
-240 words = 4 x 60 words
-
 There are separate graphics cards for desktops and laptops since both have their distinct considerations. You can find several differences between both types of cards but the most important ones are related to form factor, performance, speed, and price. So, you must keep in mind that a laptop’s card can’t be utilized with a desktop. Consider the factors below:
 
 ### Form factor
@@ -47,8 +45,6 @@ Most of the time, users don’t use laptops for load-intensive purposes like gam
 We have noticed a fascinating trend in the cards when it comes to the price. The laptop cards are mostly less performing than the desktop cards but have higher prices. It was a strange discovery for me. But then we realized that manufacturers have to go through a tough time when building a smaller card, and they need to manage everything without disturbing the portability. 
 
 ## Graphics card memory: how much is enough?
-
-134 words = 2 x 67 words
 
 It’s the most asked question and searched question on the internet when choosing to find a graphics card. In general, a graphics card with more memory can perform better than one with lesser video memory. It helps the card effectively do all the calculations and render during load-taking conditions. No doubt, the more the memory, the more the rendering output, but we still need to know some facts about its limits.
 
