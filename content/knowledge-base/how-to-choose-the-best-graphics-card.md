@@ -1,7 +1,7 @@
 ---
 title: " How to choose the best graphics card?"
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Choosing Best GPU
 seo_title: How to choose the best graphics card?
@@ -9,6 +9,7 @@ url: graphics-cards/how-to-choose-graphics-card/
 author: Zohaib Hassan
 date: 2023-01-19T18:09:40.938Z
 updateDate: 2023-01-19T18:09:40.992Z
+featured_Image: /uploads/how-to-choose-the-best-graphics-card.jpg
 categories:
   - Graphics Cards
 ---
