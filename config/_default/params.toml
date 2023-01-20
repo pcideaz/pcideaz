@@ -3,6 +3,7 @@ icon = "/images/favicon.png"
 tagline = "Most Functional Netlify Theme for Affiliates"
 contacteMail = "zohaibhxn@gmail.com"
 G4analytics = "UA-229521957-1"
+img_section = []
 
 [colors]
 bodyBG = ""
@@ -29,9 +30,6 @@ sitetwitterAccount = "https://twitter.com/"
 siteinstagramAccount = "https://instagram.com/"
 sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
-
-[[img_section]]
-imgcat = "Graphics Cards"
 
 [post_setting]
 featured_img = true
