@@ -1,7 +1,7 @@
 ---
 title: How graphics card work?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Working of GPU
 seo_title: How graphics card work? - Functions, parts & more
@@ -11,6 +11,7 @@ url: graphics-cards/how-graphics-card-work/
 author: Zohaib Hassan
 date: 2023-01-19T18:44:38.946Z
 updateDate: 2023-01-19T18:44:39.022Z
+featured_Image: /uploads/how-graphics-card-work.webp
 categories:
   - Graphics Cards
 ---
