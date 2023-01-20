@@ -31,6 +31,12 @@ siteinstagramAccount = "https://instagram.com/"
 sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
+[[scroll_section]]
+scrollcat = "Motherboards"
+
+[[scroll_section]]
+scrollcat = "Graphics Cards"
+
 [post_setting]
 featured_img = true
 show_comments = true
