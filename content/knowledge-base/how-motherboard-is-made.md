@@ -1,7 +1,7 @@
 ---
 title: How motherboard is made?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: How motherboard is made?
 seo_title: How motherboard is made? - Process explained
@@ -12,6 +12,7 @@ url: motherboards/how-motherboard-is-made/
 author: Abdullah Sarfraz
 date: 2023-01-20T12:30:08.159Z
 updateDate: 2023-01-20T12:30:08.237Z
+featured_Image: /uploads/how-motherboard-is-made.webp
 categories:
   - Motherboards
 ---
