@@ -9,6 +9,7 @@ url: ram/how-to-choose-the-best-ram-for-gaming/
 author: Zohaib Hassan
 date: 2023-01-20T17:39:57.381Z
 updateDate: 2023-01-20T17:39:57.435Z
+featured_Image: /uploads/how-to-choose-the-best-ram-for-gaming.webp
 categories:
   - RAM
 ---
