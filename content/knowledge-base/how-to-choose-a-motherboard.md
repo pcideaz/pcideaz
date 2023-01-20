@@ -1,7 +1,7 @@
 ---
 title: How to choose motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Choosing motherboard
 seo_title: How to choose motherboard? - Explained
