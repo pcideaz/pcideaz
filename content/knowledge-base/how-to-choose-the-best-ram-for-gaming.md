@@ -40,7 +40,7 @@ The DDR technology isn’t backward compatible due to different timings, voltage
 
 ### Form Factor
 
-The [form factor](https://en.wikipedia.org/wiki/Form_factor_(design)) is a physical factor related to the RAM sticks. You may say that it is the overall height of the modules. We often ignore this factor when building a bigger system because it’s not an issue in that case. But you double-check this factor if you want to sculpt a compact system for gaming or any other usage. There are three types of form factors in which all the volatile memory kits come, and those are:
+The form factor is a physical factor related to the RAM sticks. You may say that it is the overall height of the modules. We often ignore this factor when building a bigger system because it’s not an issue in that case. But you double-check this factor if you want to sculpt a compact system for gaming or any other usage. There are three types of form factors in which all the volatile memory kits come, and those are:
 
 **DIMM**: DIMM or dual in-line memory module sticks have larger heights and are used only on desktops due to their height. You can further find numerous sizes under the umbrella of this common type of form factor.
 
