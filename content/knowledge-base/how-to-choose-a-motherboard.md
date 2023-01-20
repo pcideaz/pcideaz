@@ -8,6 +8,7 @@ seo_title: How to choose motherboard? - Explained
 meta_Description: How to choose a motherboard? Let’s uncover all the factors a
   user must consider when finding a suitable motherboard for their computer!
 url: motherboards/how-to-choose-motherboard/
+author: Zohaib Hassan
 date: 2023-01-20T11:18:53.947Z
 updateDate: 2023-01-20T11:21:26.822Z
 categories:
