@@ -1,7 +1,7 @@
 ---
 title: How to choose the best RAM for gaming?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Choosing RAM for Gaming
 seo_title: How to choose the best RAM for gaming?
