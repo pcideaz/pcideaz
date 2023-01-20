@@ -1,7 +1,7 @@
 ---
 title: What can damage the Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Causes and safety for motherboard
 seo_title: What can damage the Motherboard? Symptoms & Solution
@@ -11,6 +11,7 @@ url: motherboards/what-can-damage-the-motherboard/
 author: Zohaib Hassan
 date: 2023-01-20T17:03:19.615Z
 updateDate: 2023-01-20T17:03:19.672Z
+featured_Image: /uploads/what-can-damage-the-motherboard.webp
 categories:
   - Motherboards
 ---
