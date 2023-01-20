@@ -5,6 +5,7 @@ draft: true
 trending: true
 trendname: Choosing RAM for Gaming
 seo_title: How to choose the best RAM for gaming?
+url: ram/how-to-choose-the-best-ram-for-gaming/
 author: Zohaib Hassan
 date: 2023-01-20T17:39:57.381Z
 updateDate: 2023-01-20T17:39:57.435Z
