@@ -12,4 +12,6 @@ url: motherboards/how-motherboard-is-made/
 author: Abdullah Sarfraz
 date: 2023-01-20T12:30:08.159Z
 updateDate: 2023-01-20T12:30:08.237Z
+categories:
+  - Motherboards
 ---
