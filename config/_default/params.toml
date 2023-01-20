@@ -30,6 +30,9 @@ siteinstagramAccount = "https://instagram.com/"
 sitepinterestAccount = "https://pinterest.com/"
 siteYouTubeAccount = "https://youtube.com/"
 
+[[img_section]]
+imgcat = "Graphics Cards"
+
 [post_setting]
 featured_img = true
 show_comments = true
