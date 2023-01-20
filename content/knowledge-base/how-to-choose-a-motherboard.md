@@ -11,6 +11,7 @@ url: motherboards/how-to-choose-motherboard/
 author: Zohaib Hassan
 date: 2023-01-20T11:18:53.947Z
 updateDate: 2023-01-20T11:21:26.822Z
+featured_Image: /uploads/how-to-choose-motherboard.webp
 categories:
   - Motherboards
 ---
