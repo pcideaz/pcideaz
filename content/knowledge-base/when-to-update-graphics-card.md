@@ -22,37 +22,37 @@ Keeping your graphics card updated with the latest drivers is essential for gett
 
 ## When to update graphics card?
 
-Determining when it's time to upgrade your graphics card can be tricky. You don't want to end up with a card that's too outdated, but you also don't want to spend too much on something you might not need. So, how do you know when it's time? 
+Determining when it's time to upgrade your graphics card can be tricky. You don't want to end up with a card that's too outdated, but you also don't want to spend too much on something you might not need. So, how do you know when it's time?
 
-* ### When your graphics card is aged:
+### When your graphics card is aged:
 
 First, take a look at your current graphics card. What kind is it? If it's a model from a few years ago, it might be time for an upgrade. But even if you have the most recent card on the market, there are other factors to consider. How powerful does your computer need to be for the games and activities you enjoy? If you're not pushing your system to its limits, you might not need an upgrade quite yet. 
 
-* ### When you can’t play recent games:
+### When you can’t play recent games:
 
 Secondly, the Most Recent Games Cannot Be Played. To game and play the newest games, you need a graphics card, and a good one is required. Newer games need a graphics card that can maintain it because they are bigger and more graphically advanced.
 
-* ### When your graphics card died:
+### When your graphics card died:
 
 Thirdly, You have a dying graphics card. Usually, you won't notice that your graphics card is dying until you can't restart your computer. Poor manufacturing, static overload, or moisture buildup on the card may all be the reason. excessive dirt or dust on the cooling components causing overheating. Failure of the graphics card could result from using it with games that employ incorrect software drivers. So to avoid this you need to update the graphics card.
 
-* ### Due to GPU bottleneck:
+### Due to GPU bottleneck:
 
 The other one is GPU slowdown or GPU bottleneck. This indicates that the GPU is not performing at its best, which may lead to fewer frames per second being produced. So the bottleneck makes the GPU performance limited. This is one of the main reasons to update your graphics card.
 
-* ### When you use several monitors: 
+### When you use several monitors: 
 
 Also when you want to use several monitors then you have to upgrade your graphics card. If you have a low-end GPU, and you use dual or multiple monitors then you see an impact. So for enjoying multitasking you need to upgrade your GPU.
 
-* ### When you have a good budget:
+### When you have a good budget:
 
 Another thing to keep in mind is your budget. Upgrading your graphics card can be expensive, so make sure you're prepared for the cost before you make any decisions.
 
-* ### When you need heavy graphics processing:
+### When you need heavy graphics processing:
 
 Perhaps the most obvious is that new graphics cards often come with better features and performance than older ones. This can be important for gaming, multimedia editing, and other activities that require heavy graphics processing.
 
-* ### When you need advanced security:
+### When you need advanced security:
 
 Another reason to update your graphics card is security. Graphics processors are increasingly becoming targets for cybercriminals, and the latest updates often include security patches to protect your system.
 
