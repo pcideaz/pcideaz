@@ -37,6 +37,9 @@ scrollcat = "Motherboards"
 [[scroll_section]]
 scrollcat = "Graphics Cards"
 
+[[scroll_section]]
+scrollcat = "RAM"
+
 [post_setting]
 featured_img = true
 show_comments = true
