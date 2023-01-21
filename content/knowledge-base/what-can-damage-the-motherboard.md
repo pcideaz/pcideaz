@@ -39,9 +39,9 @@ A motherboard may overheat due to CPU and motherboard fan blockage. Your Motherb
 
 Electronic components on the Motherboard of your computer or laptop may come loose and be harmed if you drop it since the Motherboard may have moveable bits and components linked to it. Additionally, this can result in a short circuit in your computer, which might harm the Motherboard.
 
-### **Normal Damage:**
+**Normal Damage:**
 
-### Life is hugely electronic. They aren't indestructible. Similarly, the Motherboard will be increasingly susceptible to harm as it ages.
+Life is hugely electronic. They aren't indestructible. Similarly, the Motherboard will be increasingly susceptible to harm as it ages.
 
 **Prevention:** It is best to use something other than a motherboard that is in poorer condition and to replace it with a new motherboard.
 
