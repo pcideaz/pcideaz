@@ -42,7 +42,7 @@ scrollcat = "RAM"
 
 [post_setting]
 featured_img = true
-show_comments = true
+show_comments = false
 
 [home_setting]
 footerText = "With built-in conversion tracking and easy integration with your favorite affiliate networks, this is the perfect solution for anyone looking to improve their affiliate marketing efforts."
