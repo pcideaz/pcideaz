@@ -10,7 +10,7 @@ meta_Description: How graphics card work? Graphics cards are responsible for
 url: graphics-cards/how-graphics-card-work/
 author: Zohaib Hassan
 date: 2023-01-19T18:44:38.946Z
-updateDate: 2023-01-19T18:44:39.022Z
+updateDate: 2023-01-22T07:02:32.796Z
 featured_Image: /uploads/how-graphics-card-work.webp
 categories:
   - Graphics Cards
