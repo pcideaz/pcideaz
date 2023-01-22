@@ -45,7 +45,9 @@ The first and most obvious way to check all the details about your motherboard i
 | -    Applicable even when the computer is even dead |
 | -   Easy to apply |
 | -   Even some beginners can find motherboard details using this method |
+
 | **C﻿ons** |
+| --------- |
 | -   Need PC to be disassembled |
 | -   Time taking          |
 
