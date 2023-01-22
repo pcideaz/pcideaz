@@ -1,7 +1,7 @@
 ---
 title: What motherboard do I have?
 type: knowledge-base
-draft: false
+draft: true
 trending: true
 trendname: Find Motherboard
 seo_title: What motherboard do I have? - [Windows, Mac & Linux]
