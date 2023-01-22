@@ -27,7 +27,11 @@ The short answer is yes, but you must also consider some factors. If a graphics 
 
 Many kinds of slots are available on motherboards for attaching other peripherals. Every motherboard has **PCIe Express slots** to connect a graphics card. You must have seen something like PCIe 4.0 in a motherboard’s specifications section. This is one of the slots’ types to accommodate a graphics card—the “4.0” at the end represents the generation. The latest version of it is PCIe 5.0, but PCIe 6.0 will also be in the market at the end of 2022 or starting of 2023. These expansion slots are used to connect a graphics card to a motherboard.
 
-**Note**: the graphics cards are **backward compatible** with the PCIe express expansion slots. If you have PCIe 4.0 compatible graphics, it can connect with PCIe 3.0 or 2.0. But it does affect the overall performance, data flow, and bandwidth.
+- - -
+
+> **Note**: the graphics cards are **backward compatible** with the PCIe express expansion slots. If you have PCIe 4.0 compatible graphics, it can connect with PCIe 3.0 or 2.0. But it does affect the overall performance, data flow, and bandwidth.
+
+- - -
 
 In addition, you must also check the length of the PCIe slot. The length of the PCIe slot means the total number of pins in the slot. For example, the PCIe x16 slot comes with sixteen pins to connect with a compatible 16-pin graphics card connector. But PCIe x8 and PCIe x4 connections are also available on the motherboard. Most of the time, the PCIe x16 connection is preferred to accommodate a graphics card. But you can also use the x8 or x4 version to do the same thing. In short, consider all the specifications mentioned above.
 
