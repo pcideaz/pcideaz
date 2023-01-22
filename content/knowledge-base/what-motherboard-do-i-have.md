@@ -36,16 +36,16 @@ Let’s explore each technique in detail!
 
 The first and most obvious way to check all the details about your motherboard is by visually analyzing it. In this method, you'll need to **open up your computer** and disassemble some components to peek at the component to check it visually. Note the **model number,** which is silkscreened on almost all contemporary motherboards. Once that is done, move towards checking the **manufacturer** and **model number**. The physical component will display the motherboard's manufacturer and model number.
 
-| **P﻿ros**                                                               |
-| ---------------------------------------------------------------------- |
-|     Applicable even when the computer is even dead                     |
-|     Easy to apply                                                      |
-|     Even some beginners can find motherboard details using this method |
+| **P﻿ros**                                                                 |
+| ------------------------------------------------------------------------- |
+| **\-** Applicable even when the computer is even dead                     |
+| **\-** Easy to apply                                                      |
+| **\-** Even some beginners can find motherboard details using this method |
 
-| **C﻿ons**                       |
-| ------------------------------- |
-| \-   Need PC to be disassembled |
-| \-   Time taking                |
+| **C﻿ons**                         |
+| --------------------------------- |
+| **\-** Need PC to be disassembled |
+| **\-** Time taking                |
 
 ## 2. Checking motherboard on Windows
 
