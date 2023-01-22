@@ -7,8 +7,12 @@ trendname: Connecting fans on motherboard
 seo_title: How to connect fans on motherboard? - [Method & Tips]
 meta_Description: How are motherboard fans connected? Read this post and get all
   possible tips, a step-by-step method, testing methods, and more to do it.
+url: motherboards/how-to-connect-fans-on-motherboard/
+author: Abdullah Sarfraz
 date: 2023-01-22T20:11:29.124Z
 updateDate: 2023-01-22T20:11:29.179Z
+categories:
+  - Motherboards
 ---
 The motherboard is an essential PC component that holds many other computer elements such as processor, graphics card, RAM, etc. A substantial layer of non-conductive material, usually hard plastic, serves as the motherboard's basis. It connects to hard drives, disc drives, and front panel ports, and it features sockets for the CPU, RAM, and expansion cards. Some fans are attached to the motherboard to take the hot air away from the computer and maintain optimal temperature. These are necessary to maintain the right temperature. 
 
