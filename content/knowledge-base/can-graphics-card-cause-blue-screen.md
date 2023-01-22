@@ -8,7 +8,7 @@ seo_title: Can graphics card cause blue screen? - PCIdeaz
 meta_Description: Can a graphics card cause a blue screen? The graphic card can
   cause a blue screen only when it’s running hotter or has some bad drivers.
 url: graphics-cards/can-graphics-card-cause-blue-screen/
-author: Zohaib Hassan.
+author: Zohaib Hassan
 date: 2023-01-22T18:20:03.928Z
 updateDate: 2023-01-22T18:20:03.985Z
 categories:
