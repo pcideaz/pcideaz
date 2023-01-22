@@ -5,6 +5,9 @@ draft: true
 trending: true
 trendname: Graphics Card & Video Card
 seo_title: Are graphics card and video card the same? Explained
+meta_Description: Are graphics card and video card the same? Both aren’t the
+  same, but they have many similarities. A video card is necessary to show
+  visuals.
 author: Abdullah Sarfraz
 date: 2023-01-22T18:05:41.434Z
 updateDate: 2023-01-22T18:05:41.478Z
