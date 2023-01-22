@@ -35,10 +35,13 @@ Let’s explore each technique in detail!
 
 The first and most obvious way to check all the details about your motherboard is by visually analyzing it. In this method, you'll need to **open up your computer** and disassemble some components to peek at the component to check it visually. Note the **model number,** which is silkscreened on almost all contemporary motherboards. Once that is done, move towards checking the **manufacturer** and **model number**. The physical component will display the motherboard's manufacturer and model number.
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+
+
+
+
+
+
+
 
 ## 2. Checking motherboard on Windows
 
@@ -52,7 +55,7 @@ This is the ideal course of action since it will instantly provide you with all 
 * **Step 2**: Type “**cmd**" to access the **Command Prompt** > press the **Enter key** from the keyboard to launch the Command Prompt.
 * **Step 3**: In the Command Prompt, **type** the **following phrase**: "*wmic baseboard get product, manufacturer, version, serialnumber*".
 
-***Note**: The Command Prompt will display the motherboard’s model name and manufacturer.*
+**\*Note**: The Command Prompt will display the motherboard’s model name and manufacturer.*
 
 * **Step 4**: **Copy** all **motherboard details** to the **clipboard** or **note** it down on paper and use it as you wish.
 
@@ -63,7 +66,7 @@ Another way to find out the motherboard details in Windows is by using the syste
 * **Step 1**: Press the Windows key + R from the keyboard to open the Run window.
 * **Step 2**: **Type** “*msinfo32*” > **click OK** or **press Enter** from the keyboard.
 
-***Note**: this will open the Windows System Information section. You can find everything about your computer here, including its model, processor, RAM, storage, motherboard details, etc. If not, try the first method.*
+**\*Note**: this will open the Windows System Information section. You can find everything about your computer here, including its model, processor, RAM, storage, motherboard details, etc. If not, try the first method.*
 
 * **Step 3**: Find the motherboard’s information mentioned next to the **Baseboard Manufacturer**, **BaseBoard Product**, and **BaseBoard Version** > **note it** on some page or copy it to the clipboard.
 
