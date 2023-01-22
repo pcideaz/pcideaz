@@ -2,7 +2,9 @@
 title: Are graphics card and video card the same?
 type: knowledge-base
 draft: true
-trending: false
+trending: true
+trendname: Graphics Card & Video Card
+seo_title: Are graphics card and video card the same? Explained
 author: Abdullah Sarfraz
 date: 2023-01-22T18:05:41.434Z
 updateDate: 2023-01-22T18:05:41.478Z
