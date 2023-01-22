@@ -11,7 +11,7 @@ meta_Description: How motherboard is made? After PCB is designed, it goes
 url: motherboards/how-motherboard-is-made/
 author: Abdullah Sarfraz
 date: 2023-01-20T12:30:08.159Z
-updateDate: 2023-01-20T12:30:08.237Z
+updateDate: 2023-01-22T18:26:35.333Z
 featured_Image: /uploads/how-motherboard-is-made.webp
 categories:
   - Motherboards
