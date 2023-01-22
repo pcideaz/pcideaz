@@ -5,8 +5,14 @@ draft: true
 trending: true
 trendname: How motherboard works?
 seo_title: How motherboard works? - Explained
+meta_Description: How motherboard works? It holds most of the PC parts,
+  supervises their performance, and lets them communicate, making up a whole
+  computer.
+author: Zohaib Hassan
 date: 2023-01-22T18:34:16.938Z
 updateDate: 2023-01-22T18:34:17.010Z
+categories:
+  - Motherboards
 ---
 A motherboard is the computer’s most important component since it keeps all its parts together in one location and enables them to communicate with one another. None of the computer's parts, including the hard drive and CPU, could communicate without it. An effective computer requires a fully operating motherboard. It is the primary circuit board of the computer and may be expanded by connecting more circuit boards to it, which is why it is called a motherboard.
 
