@@ -14,6 +14,32 @@ date: 2023-01-27T12:28:06.782Z
 updateDate: 2023-01-27T12:28:06.828Z
 categories:
   - Graphics Cards
+faqs:
+  - question: Does a graphics card need drivers to operate?
+    answer: The operating system will install a generic driver that enables a
+      graphics card to function without you having to install drivers. However,
+      this is only a temporary fix because your GPU's performance will
+      significantly decrease. If you install the graphics card drivers, you can
+      only use the more graphically demanding apps, such as games, video editing
+      programs, etc.
+  - question: Which graphics card types are available?
+    answer: "Graphics cards come in three basic categories: integrated, dedicated,
+      and hybrid. Integrated cards share memory with the CPU because they are
+      part of the CPU. They are typically present in laptops and less expensive
+      PCs. Dedicated cards typically operate quicker than integrated cards since
+      they have their memory. They are the finest option for power users and
+      gamers. Combining the two, hybrid cards have both dedicated and shared
+      memory."
+  - question: Could I plug in a new graphics card?
+    answer: >-
+      If your computer does not already have a graphics card installed, you can
+      plug it into the motherboard's PCI Express slot. However, you must tighten
+      the screw holding the graphics card to the casing and connect the power
+      cable from your computer's power source. You will need to install the
+      drivers for your new graphics card. 
+
+
+      This will allow your operating system to use your graphics card at its full potential, and now it can perform more advanced graphical tasks. If you accidentally pull the HDMI cable, the graphics card will move, adding tension to the PCI Express slot. I've seen it happen more than once!
 ---
 A graphics card is a crucial component when upgrading or building a computer. It can significantly enhance the performance of your system, especially for gaming or other visually intensive tasks. The question of whether graphics cards are plug-and-play, meaning they can be easily installed and used without any additional setup, is common. While most graphics cards are plug-and-play, certain additional steps may be necessary to fully benefit from the card's capabilities. 
 
