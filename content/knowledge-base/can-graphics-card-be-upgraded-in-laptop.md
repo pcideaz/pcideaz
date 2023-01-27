@@ -45,11 +45,7 @@ The first, easiest, and recommended way to upgrade the graphics on a laptop is b
 
 You can use a complete desktop GPU with your laptop when using a laptop GPU dock through a suitable Thunderbolt cable and docking station. But for this, you must confirm that your laptop is Thunderbolt 3 or higher appropriate since these docks will not work without the increased bandwidth provided by the Thunderbolt standard. By the way, Thunderbolt 3 and Thunderbolt 4 ports often have a USB-C form factor; to ensure your laptop supports Thunderbolt, look for the Thunderbolt symbol or consult the product instructions.
 
-**Note:** Upgrading the graphics using a GPU dock via Thunderbolt is an excellent way to upgrade the graphics. And while you aren't replacing the graphics card in your laptop, you are upgrading it in a sense.
-
-
-
-
+> **Note:** Upgrading the graphics using a GPU dock via Thunderbolt is an excellent way to upgrade the graphics. And while you aren't replacing the graphics card in your laptop, you are upgrading it in a sense.
 
 | **P﻿ros**                                                                                                                                                                                                                                                                                                                                                         | **C﻿ons**                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,12 +54,6 @@ You can use a complete desktop GPU with your laptop when using a laptop GPU dock
 **3﻿.** Additional features like USB hubs, Ethernet Ports, and support for external drives may be provided depending on the dock. | **1﻿.** Very expensive, often costing more than the graphics card you purchase. GPUs may be included in some eGPU enclosures, but those also often cost much more.\
 **2﻿.** Bandwidth restrictions will limit your GPUs performance.\
 **3﻿,** Thunderbolt 3 and 4 are both slower than the typical PCI Express x16 slot that a desktop GPU is built for, even if it is impossible to measure the exact performance deficit. |
-
-
-
-
-
-
 
 **Which graphics cards work best with laptop GPU docks?** So after that, the question that arises in your mind is, what are the best graphic cards with a laptop GPU dock? The answer is. It would help if you used whatever GPU you can buy that offers your desired characteristics. In addition to the apparent need for a much stronger GPU than your laptop, the decision is primarily up to you. However, I recommend an AMD graphics card for gaming tasks and an Nvidia graphics card for professional activities.
 
