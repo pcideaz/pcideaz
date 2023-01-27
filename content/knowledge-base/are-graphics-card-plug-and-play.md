@@ -8,7 +8,7 @@ seo_title: Are graphics card plug and play? [Everything Explained]
 meta_Description: Are graphics card plug and play? A few factors determine that
   a GPU is plug-and-play ready. Let’s discuss those factors and answer the
   query!
-url: motherboards/are-graphics-card-plug-and-play/
+url: graphics-cards/are-graphics-card-plug-and-play/
 author: Abdullah Sarfraz
 date: 2023-01-27T12:28:06.782Z
 updateDate: 2023-01-27T12:28:06.828Z
