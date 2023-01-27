@@ -47,10 +47,22 @@ You can use a complete desktop GPU with your laptop when using a laptop GPU dock
 
 **Note:** Upgrading the graphics using a GPU dock via Thunderbolt is an excellent way to upgrade the graphics. And while you aren't replacing the graphics card in your laptop, you are upgrading it in a sense.
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+
+
+
+
+| **P﻿ros**                                                                                                                                                                                                                                                                                                             | **C﻿ons** |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 1﻿. Better performance is made possible by desktop GPU supports.\
+2﻿. Better cooling capacity, making performance intensive workloads for long periods more feasible than they would otherwise be on a limited laptop.\
+3﻿. Additional features like USB hubs, Ethernet Ports, and support for external drives may be |           |
+|                                                                                                                                                                                                                                                                                                                       |           |
+
+
+
+
+
+
 
 **Which graphics cards work best with laptop GPU docks?** So after that, the question that arises in your mind is, what are the best graphic cards with a laptop GPU dock? The answer is. It would help if you used whatever GPU you can buy that offers your desired characteristics. In addition to the apparent need for a much stronger GPU than your laptop, the decision is primarily up to you. However, I recommend an AMD graphics card for gaming tasks and an Nvidia graphics card for professional activities.
 
