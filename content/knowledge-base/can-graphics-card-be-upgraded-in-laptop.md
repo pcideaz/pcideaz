@@ -51,12 +51,13 @@ You can use a complete desktop GPU with your laptop when using a laptop GPU dock
 
 
 
-| **P﻿ros**                                                                                                                                                                                                                                                                                                             | **C﻿ons** |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| 1﻿. Better performance is made possible by desktop GPU supports.\
-2﻿. Better cooling capacity, making performance intensive workloads for long periods more feasible than they would otherwise be on a limited laptop.\
-3﻿. Additional features like USB hubs, Ethernet Ports, and support for external drives may be |           |
-|                                                                                                                                                                                                                                                                                                                       |           |
+| **P﻿ros**                                                                                                                                                                                                                                                                                                                                                         | **C﻿ons**                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1﻿.** Better performance is made possible by desktop GPU supports.\
+**2﻿.** Better cooling capacity, making performance intensive workloads for long periods more feasible than they would otherwise be on a limited laptop.\
+**3﻿.** Additional features like USB hubs, Ethernet Ports, and support for external drives may be provided depending on the dock. | **1﻿.** Very expensive, often costing more than the graphics card you purchase. GPUs may be included in some eGPU enclosures, but those also often cost much more.\
+**2﻿.** Bandwidth restrictions will limit your GPUs performance.\
+**3﻿,** Thunderbolt 3 and 4 are both slower than the typical PCI Express x16 slot that a desktop GPU is built for, even if it is impossible to measure the exact performance deficit. |
 
 
 
