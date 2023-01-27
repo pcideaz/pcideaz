@@ -7,9 +7,12 @@ trendname: Motherboard bottleneck CPU
 seo_title: Can motherboard bottleneck CPU? [Answer, Reasons & Fixes]
 meta_Description: Can motherboard bottleneck CPU? Yes, a motherboard can cause a
   CPU to bottleneck. Read this post to find its cause, solution, tips, etc.
+url: motherboards/can-motherboard-bottleneck -cpu/
 author: Zohaib Hassan
 date: 2023-01-27T12:00:01.773Z
 updateDate: 2023-01-27T12:00:01.847Z
+categories:
+  - Motherboards
 ---
 A motherboard is the primary circuit board found in a computer that connects all the components of the computer together. It is also known as a system board or mainboard. The CPU, or central processing unit, is the computer's brain responsible for executing instructions and performing calculations. The motherboard communicates with and directs data flow between the CPU, memory, storage, and other peripherals such as the graphics card, sound card, and network card.
 
