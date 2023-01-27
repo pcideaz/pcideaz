@@ -13,6 +13,22 @@ date: 2023-01-27T11:54:13.013Z
 updateDate: 2023-01-27T11:57:55.790Z
 categories:
   - Motherboards
+faqs:
+  - question: How can a motherboard bottleneck a GPU?
+    answer: >-
+      A graphics card needs an x16 slot on a motherboard with 16 lanes for the
+      best results. Your GPU can get bottlenecked if you install a graphics card
+      in any other slot, such as the x8 slot. 8 or 4 lanes are available in the
+      second or third x16 slots on a standard motherboard. It won't experience
+      bottlenecking on an x8 slot if you have a low-mid-range graphics card that
+      doesn't produce much data and doesn't overload the bandwidth offered by 8
+      lanes. 
+
+
+      On the other side, the same quantity of data can result in performance bottlenecks if you have a high-end GPU that does generate more data. Budget Systems carried out an excellent study on this subject. They used various software and video games to test an NVIDIA Titan X PCIe 3.0 card in x8 and x16 slots. 
+
+
+      The findings are pretty solid in that a high-end graphics card does lag when put into an x8 slot as well as a 16 slot. The only method to achieve maximum performance if you have a modern device but an older motherboard with older-generation PCIe slots is to change your motherboard. When utilizing the cards in earlier PCIe slots, there is a noticeable reduction in DaVinci Resolve's (video editing software) performance.
 ---
 Graphics cards, or GPUs, are one of the essential pieces of hardware in a gaming PC. They're responsible for processing the 3D graphics that make your games look amazing. Since a graphics card in a computer is so important, it’s also essential to know if **can motherboard bottleneck GPU**. But motherboard bottlenecks are a common concern among PC enthusiasts and gamers looking to build or upgrade their systems or graphics cards. 
 
