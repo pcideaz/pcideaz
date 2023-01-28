@@ -1,11 +1,11 @@
 ---
-title: How graphics card are made?
+title: How graphics cards are made?
 type: knowledge-base
 draft: true
 trending: true
 trendname: Making GPU
-seo_title: How graphics card are made? - Explained
-meta_Description: How graphics card are made? Many steps are involved in
+seo_title: How graphics cards are made? - Explained
+meta_Description: How graphics cards are made? Many steps are involved in
   manufacturing a graphics card, including designing PCB, manufacturing,
   testing, etc.
 url: graphics-cards/how-graphics-card-are-made/
@@ -17,9 +17,9 @@ categories:
 ---
 Graphics cards are essential to run many productivity applications and games smoothly. They allow gamers to experience more realistic visuals with higher resolutions, textures, lighting effects, and frame rates than ever before. But how important are graphics cards? It all comes down to what you're using your computer for. A good graphics card is essential if you're a hardcore gamer. But even if you're not a gamer, having a good graphics card can still make a big difference in overall performance, especially if you're doing things like video editing or 3D modeling.
 
-But it’s interesting to discover **how graphics card are made**. If we look at the inside, the components inside them include processors based on various architectures and memory chips that store data. At the same time, it's being processed, along with other specialized circuitry explicitly designed for improving video performance capabilities. Once these parts arrive at the factory, they undergo several steps before becoming a fully assembled product ready to ship out directly into our gaming rig. Let’s explore this article to learn how a graphics card is manufactured!
+But it’s interesting to discover **how graphics cards are made**. If we look at the inside, the components inside them include processors based on various architectures and memory chips that store data. At the same time, it's being processed, along with other specialized circuitry explicitly designed for improving video performance capabilities. Once these parts arrive at the factory, they undergo several steps before becoming a fully assembled product ready to ship out directly into our gaming rig. Let’s explore this article to learn how a graphics card is manufactured!
 
-## How graphics card are made?
+## How graphics cards are made?
 
 We know the importance of the graphics card while playing games, creating content, and doing other load-intensive operations. But it’s also essential to understand how these crucial masterpieces are manufactured. Let’s dive into the most exciting part and explore every fact!
 
