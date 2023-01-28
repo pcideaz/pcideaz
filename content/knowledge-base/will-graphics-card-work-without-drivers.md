@@ -13,6 +13,24 @@ date: 2023-01-28T21:33:54.538Z
 updateDate: 2023-01-28T21:33:54.893Z
 categories:
   - Graphics Cards
+faqs:
+  - question: Why keep the GPU drivers up to date?
+    answer: Keeping your GPU drivers up-to-date ensures you get the best performance
+      possible out of your graphics card. It's important to note that some games
+      or software may require the latest version of the driver to work correctly
+      and to get the best performance.
+  - question: How to identify a compatible GPU driver?
+    answer: >-
+      For this, you need to identify the make and model of your motherboard.
+      This information is usually found on the manufacturer's website or in the
+      documentation that came with your PC. Once you have this information, you
+      can use it to match up compatible graphics cards.
+
+
+      If you're unsure which motherboard you have, there are a few ways to find out. One is to open up **System Information** (on a PC) or **System Preferences** (on a Mac). You can find your motherboard's information under the "**Hardware**" section.
+
+
+      Suppose you haven’t found the motherboard-related information here or want to try another method. In such a case, you can **use an online tool** like **CPU-Z**, which will give you all the information about your motherboard, including the make and model.
 ---
 A graphics card is a piece of hardware in your computer that processes the images you see on the screen. When you play a game, watch a movie or browse the internet, your graphics card turns the digital data into those images you see. Drivers are software that tells your graphics card how to display those images. Think of them as the instructions your graphics card needs to know to do its job. If you don't have the drivers installed, your graphics card can't do its job, and you won't see anything on your screen.
 
