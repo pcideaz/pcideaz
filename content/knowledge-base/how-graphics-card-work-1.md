@@ -7,6 +7,7 @@ trendname: How graphics card work?
 seo_title: How graphics card work? - Functions, parts & more
 meta_Description: How graphics card work? Graphics cards are responsible for
   processing 3D graphics, videos, and photos and showing visuals on the screen.
+url: graphics-cards/how-graphics-card-work/
 author: Abdullah Sarfraz
 date: 2023-01-28T18:27:06.856Z
 updateDate: 2023-01-28T18:27:06.912Z
