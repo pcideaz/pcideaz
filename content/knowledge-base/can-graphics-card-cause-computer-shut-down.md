@@ -12,6 +12,22 @@ date: 2023-01-28T18:04:39.578Z
 updateDate: 2023-01-28T18:04:39.633Z
 categories:
   - Graphics Cards
+faqs:
+  - question: When to replace your graphics card?
+    answer: >-
+      It may be time to replace your graphics card if you're starting to
+      experience any of the following issues:
+
+
+      1. Your games need to catch up or stutter.
+
+      2. You see visual artifacts in your games.
+
+      3. Your games are crashing or freezing.
+
+      4. Your PC is taking a long time to boot up.
+
+      5. You're getting blue screens of death.
 ---
 The graphics processing units (GPUs) in modern computers are essential. Most of a computer's graphics, video, and image processing activities are handled by GPUs. Some customers install additional memory on their graphics cards because they depend so much on their computer's graphics capabilities. They do this to improve their computer system's graphical quality. However, an overloaded graphics card on your computer can result in a power failure and even harm your device.
 
