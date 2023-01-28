@@ -18,10 +18,14 @@ A graphics card, also known as a video card or GPU, is a crucial component of an
 
 In this blog, we will explore the location of graphics cards on both PC and laptops and tell you several facts about the graphics on both computing devices. Whether you're a gamer looking to improve your gaming experience, a professional working with graphics-intensive applications, or just someone looking to upgrade their computer, this blog will provide you with all the information you need to understand where the graphics card is located on your PC and Laptop. Let’s start reading the post!
 
-## Key Takeaways
+- - -
+
+> ## Key Takeaways
 
 * It’s crucial to locate the graphics card on your computer or laptop first when troubleshooting or intending to change it.
 * It may be located on PCIe or AGP for the computer while integrated on the motherboard or near-screen hinge for a laptop. 
+
+- - -
 
 ## Where graphics card is located?
 
