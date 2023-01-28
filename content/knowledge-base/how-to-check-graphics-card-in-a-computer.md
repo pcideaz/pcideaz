@@ -41,7 +41,7 @@ In this article section, we’ll discuss two methods to check the graphics card 
 
 * The **Display adapters** header is located in the "D" section of the Device Manager window's alphabetical list of options.
 
-> **\*Note**: This has a little chip-like symbol that looks like a monitor. To find it, you might have to scroll down.*
+> **Note**: This has a little chip-like symbol that looks like a monitor. To find it, you might have to scroll down.
 
 **Step 4: Double-click** the heading **Display adapters** or click on the **right-facing arrow**.
 
@@ -51,7 +51,7 @@ In this article section, we’ll discuss two methods to check the graphics card 
 
 * The Display adapters section will show your installed graphics card by name. You have a built-in and discrete graphics card if you see more than one name listed.
 
-> **\*Note**: Ensure to research your particular needs before selecting a new graphics card for installation. You can take help from our graphics cards category to get the necessary knowledge, read the reviews about different graphics cards, and choose one.*
+> **Note**: Ensure to research your particular needs before selecting a new graphics card for installation. You can take help from our graphics cards category to get the necessary knowledge, read the reviews about different graphics cards, and choose one.
 
 ### Method 2: Check using settings
 
@@ -62,7 +62,7 @@ The second method on the list to check the graphics card on Windows is by using 
 * **Step 3: Find the Internal Display under the Display Information. Hers, you will see the graphcis card connected to the display.**
 * **Step 4: Verify the manufacturer and model of the graphics card** 
 
-**\*Note**: you can even open the Display adaptor properties to know more about the graphics in your computer. So you must try it if needed.*  
+> **Note**: you can even open the Display adaptor properties to know more about the graphics in your computer. So you must try it if needed.
 
 ## 2. Checking graphics card on macOS Ventura
 
@@ -73,7 +73,7 @@ The most recent version of macOS is called Ventura. So we will discuss the lates
 * **Step 3**: Go to **About** > select **System Report.**
 * **Step 6: Simply select Graphics/Displays located below the Hardware header.**
 
-**\*Note**: Click the **arrow** to the left of **Hardware** to expand the header if it isn't already.*
+> **Note**: Click the **arrow** to the left of **Hardware** to expand the header if it isn't already.
 
 * **Step 7: Look for the grapphics details from this section.**
 
@@ -83,16 +83,16 @@ The most recent version of macOS is called Ventura. So we will discuss the lates
 * **Step 2**: Type “**sudo update-pciids**” in the termal window > press **Enter**.
 * **Step 3: Enter the password > press Enter.**
 
-**\*Note**: The characters from the **password will not appear** when you type in Terminal.*
+> **Note**: The characters from the **password will not appear** when you type in Terminal.
 
 * **Step 4**: Type this command “**lspci -v | less**” once the PCI list is updated > press **Enter**. 
 * **Step 5**: Locate the heading marked as "**Video controller**", "**VGA compatible**", "**3D**", or "**Integrated graphics**" by scrolling up in the Terminal window. 
 
-**\*Note**: the **graphics card’s code ID** would be listed on the left side of any of the above-mentioned headings.* 
+> **Note**: the **graphics card’s code ID** would be listed on the left side of any of the above-mentioned headings.
 
 * **Step 6**: **Copy the code number** to the clipboard or **memorize** it. 
 
-**\*Note**: The format of this number, which is often to the **left of the graphics card's heading**, is as follows: **00:00.0***
+> **Note**: The format of this number, which is often to the **left of the graphics card's heading**, is as follows: **00:00.0**
 
 * **Step 7: Open** a new **Terminal tab** as you did in **Step 1** by clicking **Terminal app icon** or pressing **CTRL + ALT + T** shortcut.
 * **Step 8**: Type “**sudo lspci -v -s**” with your graphics card’s ID you found earlier > **Enter** it.
