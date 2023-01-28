@@ -5,6 +5,11 @@ draft: true
 trending: true
 trendname: Checking GPU in computer
 seo_title: How to check graphics card in a computer? - On all OSs
+meta_Description: How to check graphics card in a computer? This article will
+  tell you simplest methods to check GPU on Windows, macOS, and Linux. Let’s
+  read it!
+url: graphics-cards/how-to-check-graphics-card-in-a-computer/
+author: Abdullah Sarfraz
 date: 2023-01-28T19:37:48.329Z
 updateDate: 2023-01-28T19:37:48.681Z
 ---
