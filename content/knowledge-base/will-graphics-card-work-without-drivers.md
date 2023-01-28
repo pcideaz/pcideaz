@@ -38,18 +38,18 @@ A graphics card is a piece of hardware in your computer that processes the image
 
 You're in the market for a new graphics card, and you're not sure the graphics card will work without drivers. You've heard that some cards require drivers, but you're not sure if that's true for the card you're considering. Don't worry since we're here to help. In this article, we'll give you the lowdown on graphics card drivers and whether or not your card will work without them. So whether you're looking for a new card or just want to ensure your current card will work without issue, read on for the answers you need.
 
-## Key Takeaways
+- - -
 
-#  
+> ## Key Takeaways
 
 * A graphics card relies on drivers to communicate with the operating system and other software on a computer.
-* It may be possible that a graphics card starts operating without the driver, but it won’t be able to utilize its true capabilities. 
+* It may be possible that a graphics card starts operating without the driver, but it won’t be able to utilize its true capabilities.
+
+- - -
 
 ## Will graphics cards work without drivers?
 
-A graphics card relies on drivers to communicate with the operating system and other software on a computer. Without the appropriate drivers, the **graphics card will not function properly**. Drivers are software that acts as a translator between the operating system and the hardware, allowing the operating system to recognize and utilize the graphics card. Without drivers, the operating system would not be able to communicate with the graphics card and display images or videos correctly. 
-
-#  
+A graphics card relies on drivers to communicate with the operating system and other software on a computer. Without the appropriate drivers, the **graphics card will not function properly**. Drivers are software that acts as a translator between the operating system and the hardware, allowing the operating system to recognize and utilize the graphics card. Without drivers, the operating system would not be able to communicate with the graphics card and display images or videos correctly.
 
 Although a few basic display functionality may still work using the operating system's built-in graphics drivers, you will not be able to access some of the features and capabilities of the graphics card. In short, a graphics card will not work correctly without drivers, as the operating system needs the drivers to communicate and utilize the graphics card's features and capabilities. So it is essential to install the correct and up-to-date drivers for the graphics card to ensure that it functions correctly.
 
@@ -81,12 +81,11 @@ GPU drivers also allow users to overclock the GPU, which means increasing the cl
 
 Installing and updating the correct graphics card drivers is essential to ensure you’re getting the most out of your hardware. But how do you know if your graphics card requires drivers?
 
-#  
-
 * **Step 1: Find the drivers**. The first step is to check if your graphics card has a manufacturer’s website. If it does, you can download the latest drivers from there. Alternatively, you can search for generic drivers on the internet. Once you have the drivers downloaded, the installation process is relatively simple.
-* **Step 2: Install the downloaded driver**. All you have to do is run the installer and follow the on-screen instructions. Using Windows, you can also update your graphics card’s drivers through Device Manager. 
 
-#  
+
+* **Step 2: Install the downloaded driver**. All you have to do is run the installer and follow the on-screen instructions. Using Windows, you can also update your graphics card’s drivers through Device Manager.
+
 
 * **Step 3: Complete the setup**. Just open **Device Manager**, select your graphics card, and click “**Update Driver Software**”. You may need to restart your computer after installing or updating your driver to complete the process.
 
