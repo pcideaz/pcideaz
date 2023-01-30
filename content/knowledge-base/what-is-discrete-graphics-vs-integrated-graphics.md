@@ -51,13 +51,14 @@ A **dedicated graphics card** is entirely independent of your CPU. The GPU is 
 
 ### Discrete vs Integrated: Differences
 
-
-
-
-
-
-
-
+|                       | **Discrete graphics**                       | **Integrated graphics**                            |
+| --------------------- | ------------------------------------------- | -------------------------------------------------- |
+| **Other names**       | GPUs or discrete graphics cards.            | On-board graphics.                                 |
+| **Description**       | Connects to the motherboard externally.     | Internally attached to the motherboard or the CPU. |
+| **GPU**               | Has its own graphics processing unit (GPU). | It depends upon the CPU’s processing.              |
+| **RAM**               | Has its own RAM.                            | Uses the system’s RAM.                             |
+| **Power consumption** | Higher                                      | Lower                                              |
+| **Processing power**  | Higher than usual                           | Lower than usual                                   |
 
 ## Discrete vs integrated graphics: which one to choose?
 
