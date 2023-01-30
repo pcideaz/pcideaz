@@ -29,22 +29,7 @@ The argument over integrated vs. dedicated graphics cards (GPUs) is almost as an
 
 ### Integrated graphics
 
-A computer's CPU, or central processing unit, performs the tasks via calculations required to run your computer. While a GPU or graphics processing unit functions similarly to a CPU, its primary responsibility is the processing of data and instructions related to graphics. When a CPU and GPU are found on the same chip, this situation is referred to as **integrated graphics**. As a result, if you select a processor with integrated graphics, it will be able to handle both standard CPU tasks and GPU tasks.
-
-
-| Pros | Cons |
-| ------------ | ------------ |
-| - Suitable for portable computers. <br> - Ideal for battery operation and requires less power. <br> - Produces less heat than discrete graphics.<br> - Has parallel solid processing and graphics. <br> - Appropriate for inter-hardware components.  |  - Not upgradeable or removable. <br> - Unsuitable for cases that require intensive graphics capabilities. <br> You cannot play games with high resolution using this. <br> - Creating high-end visuals is also quite tricky. <br> - Yes, you can play 3D games, but the graphics will need to be a little less detailed.
-
-
-
-
-
-
-
-
-
-
+A computer's CPU, or central processing unit, performs the tasks via calculations required to run your computer. While a GPU or graphics processing unit functions similarly to a CPU, its primary responsibility is the processing of data and instructions related to graphics. When a CPU and GPU are found on the same chip, this situation is referred to as **integrated graphics**. As a result, if you select a processor with integrated graphics, it will be able to handle both standard CPU tasks and GPU tasks
 
 | **Pros**                                             | **Cons**                                                                            |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
