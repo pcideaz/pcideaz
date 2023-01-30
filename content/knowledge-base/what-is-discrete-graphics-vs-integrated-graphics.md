@@ -1,7 +1,7 @@
 ---
 title: "What is discrete graphics vs integrated graphics? "
 type: knowledge-base
-draft: false
+draft: true
 trending: true
 trendname: Discrete vs integrated graphics
 seo_title: "What is discrete graphics vs integrated graphics? "
