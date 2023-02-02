@@ -1,5 +1,5 @@
 ---
-title: When to update graphics card?
+title: When to upgrade graphics card?
 type: knowledge-base
 draft: true
 trending: true
@@ -53,19 +53,13 @@ Most of the time, tech enthusiasts don’t have much time to visit the PC market
 
 ### 8. Have enough budget.
 
-Another reason to upgrade graphics is that when you have plenty of bucks in your pocket, you want to build a high-end PC rather than compromise the performance. In such a case, having a good-quality GPU can help you achieve your dream graphics performance without lowering the fps or refresh rate. For your information, these users are also looking for a future-proof option with all-rounder utility. If you’re one of these enthusiasts, you must check the [graphics card series](https://pcideaz.com/graphics-cards/) on our platform. 
+Another reason to upgrade graphics is that when you have plenty of bucks in your pocket, you want to build a high-end PC rather than compromise the performance. In such a case, having a good-quality GPU can help you achieve your dream graphics performance without lowering the fps or refresh rate. For your information, these users are also looking for a future-proof option with all-rounder utility. If you’re one of these enthusiasts, you must check the graphics card series on our platform. 
 
 ## Benefits of upgrading graphics Card
 
 * **Excellent gaming performance**: The main benefit of upgrading your graphics card is that it can handle the demands of new and upcoming games. Games are becoming increasingly demanding, and if you want to play them at their highest settings, you need a card that can keep up.
-
-
 * **Improve graphics quality**: Another benefit of upgrading is that it can help improve your FPS (frames per second). If you love playing competitive games, you know that even a small boost in FPS can make a big difference.
-
-
 * **Compatibility with the latest software and games**: Updating your graphics card can also help to maintain compatibility with the latest software and games.
-
-
 * **Improves PC’s overall performance**: Lastly, upgrading your graphics card can also help improve your PC's overall performance. If you notice that your computer is lagging or slow, a new graphics card can help solve that problem.
 
 ## What to know when upgrading graphics card?
