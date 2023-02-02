@@ -74,10 +74,17 @@ The M.2 drives connect to the motherboard using the PCIe interface, providing fa
 
 In summary, M.2 is a compact and flexible form factor for computer storage devices, commonly used in high-performance computing and gaming systems due to their fast data transfer speeds and low latency, made possible through the PCIe interface.
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+|                              |                                            |
+| ---------------------------- | ------------------------------------------ |
+| **Pros**                     | **Cons**                                   |
+| Small form factor            | Expensive than SATA drives                 |
+| Faster data transfer speeds  | Limited compatibility with older systems   |
+| Low latency                  | Require specialized tools for installation |
+| Improved performance         | Thermal issue than SATA drives             |
+| Increased storage capacity   |                                            |
+| Improved reliability         |                                            |
+| Enhanced thermal performance |                                            |
+| Easy to upgrade.             |                                            |
 
 ### U.2 drives
 
@@ -87,10 +94,16 @@ One of the critical features of U.2 drives is their "hot-swappable" capability, 
 
 U.2 drives connect to the motherboard using a U.2 connector and typically use the NVMe protocol for data transfer. NVMe provides fast read/write speeds and low latency, making U.2 drives suitable for demanding applications.
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+|                                                      |                                                   |
+| ---------------------------------------------------- | ------------------------------------------------- |
+| **Pros**                                             | **Cons**                                          |
+| High performance and reliability                     | Expensive than SATA and M.2 drives                |
+| Hot-swappable capability                             | Limited U.2 ports on some motherboards            |
+| Supports large storage capacities                    | Higher power consumption than SATA and M.2 drives |
+| Faster data transfer speeds with NVMe protocol       |                                                   |
+| Low latencies                                        |                                                   |
+| Suitable for enterprise and data center applications |                                                   |
+| Improved thermal performance                         |                                                   |
 
 ## Which NVMe drive should you buy?
 
