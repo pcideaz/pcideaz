@@ -36,8 +36,6 @@ The number of watts a motherboard uses depends on the number of components conne
 
 Several motherboard-related and external factors affect the power consumption of a motherboard. Most of them include as follow: 
 
- 
-
 1. Motherboard Model
 2. Processor, graphics card, RAM kits, hard drive, etc.
 3. Number of components connected
@@ -48,19 +46,13 @@ Several motherboard-related and external factors affect the power consumption of
 8. Usage (idle, heavy load)
 9. Integrated modules and chipsets; for example, onboard WiFi, USB connectors, SATA connectors, etc.
 
- 
-
 **Note**: You must consider all these factors and check them for your motherboard when determining the precise wattage it consumes. This is why we have mentioned an estimated value since it varies from user to user.  
 
 ## Calculating the power consumption
 
 The power your motherboard uses depends on a few factors, including the type of motherboard, the components you have installed, and your usage. To calculate how many watts your motherboard uses, you'll need to know the individual wattage requirements for each component, such as CPU, GPU, RAM, storage drives, fans, etc.
 
- 
-
 This should give you an estimate of the minimum amount of power your motherboard will require to function correctly. For example, if your CPU is rated for 65W, your GPU for 50W, and your RAM for 10W, your total wattage requirement would be 125W.
-
- 
 
 Now that you know the components' wattage requirements and the estimated total wattage drawn from your system when in use, you'll better understand how much power your motherboard needs to function correctly.
 
@@ -68,19 +60,14 @@ Now that you know the components' wattage requirements and the estimated total w
 
 The power a motherboard uses can vary significantly depending on your hardware. Still, there are some steps you can take to reduce the amount of electricity consumed.
 
- 
-
 * **Investing in energy-efficient components** is one of the most effective ways to reduce your overall consumption. Look for components with an 80 Plus certification, as these components use less energy when operating. Additionally, buying components with a lower TDP (thermal design power) rating is also a good idea. The lower the TDP, the lower the power consumption.
 
- 
 
 * If you're building a gaming rig or other powerful computer, **look for a power supply with an adjustable wattage output**. This will allow you to customize the power output of your system, which means you can keep it low when not playing games and ramp it up when necessary.
 
- 
 
 * Another way to reduce power consumption is to **keep your computer's CPU under optimal temperature**. Make sure to regularly clean out dust from your fan and heatsink and use thermal paste and thermal pads if necessary. Keeping your CPU cool will reduce its power consumption and extend its lifespan.
 
- 
 
 * Finally, **reducing the number of peripherals attached to your system** can help to decrease power consumption. If possible, switch off any unused peripherals or unplug them entirely. This may not seem like much, but it could help you save some money in the long run.
 
