@@ -2,7 +2,7 @@
 title: Can motherboard affect fps?
 type: knowledge-base
 draft: true
-trending: false
+trending: true
 trendname: Can motherboard affect fps?
 seo_title: Can motherboard affect fps? (A comprehensive guide)
 meta_Description: Can motherboard affect fps? Many users say that a motherboard
@@ -14,6 +14,25 @@ date: 2023-02-08T11:32:56.192Z
 updateDate: 2023-02-08T11:32:56.230Z
 categories:
   - Motherboards
+faqs:
+  - answer: No, not any motherboard can support any GPU. The compatibility between a
+      motherboard and a GPU depends on several factors, such as the PCIe slot
+      version, form factor, power supply, and BIOS support. These factors must
+      be checked and matched before connecting a GPU to a motherboard to avoid
+      performance and stability issues.
+    question: Can any motherboard support any GPU?
+  - answer: The compatibility of a modern graphics card with the oldest motherboard
+      will depend on if the motherboard has an appropriate PCIe slot version,
+      suitable form factor, adequate power supply, and correct BIOS support to
+      connect the graphics card. It is essential to check the specifications of
+      both the GPU and the motherboard to determine compatibility.
+    question: Will new GPUs work in old motherboards?
+  - answer: There is no need to be worried if you have already installed your new
+      GPU without removing the old drivers and are experiencing no issues. It is
+      not the end of the world if you don't uninstall outdated drivers, even if
+      it is typically advisable to do so before switching to a new graphics
+      card.
+    question: What happens if you don't uninstall GPU drivers?
 ---
 A motherboard can indirectly affect FPS (frames per second) in a few ways, but not directly. This is because a motherboard can’t directly influence the number of fps or fps produced in gaming. Moreover, the motherboard is not the primary factor that affects FPS. It is generally overshadowed by the performance of the graphics card, CPU, memory kit installed on it, and all the other components connected to it.
 
