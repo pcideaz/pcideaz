@@ -7,12 +7,12 @@ trendname: Old Mobo & New GPU
 seo_title: Can old motherboard support new GPU? (Compatibility test)
 meta_Description: Can old motherboard support new GPU? ead this GPU-Motherboard
   compatibility guide to learn the ultimate compatibility test and more.
-url: graphics-cards/can-old-motherboard-support-new-gpu/
+url: motherboards/can-old-motherboard-support-new-gpu/
 author: Zohaib Hassan
 date: 2023-02-08T11:18:36.594Z
 updateDate: 2023-02-08T11:18:36.670Z
 categories:
-  - Graphics Cards
+  - Motherboards
 ---
 Yes, an old motherboard can support a new graphics card, depending on a few factors. You can fearlessly connect a new graphics card with an old motherboard if there is an appropriate PCIe slot version on the motherboard to connect the graphics card, a suitable power supply, and correct BIOS support. In short, the compatibility between motherboard and GPU and the answer to this question depends upon these factors and can be yes or no. 
 
