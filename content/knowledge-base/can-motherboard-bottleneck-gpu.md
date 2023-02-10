@@ -11,6 +11,7 @@ url: motherboards/can-motherboard-bottleneck-gpu/
 author: Abdullah Sarfraz
 date: 2023-01-27T11:54:13.013Z
 updateDate: 2023-01-27T11:57:55.790Z
+featured_Image: /uploads/can-motherboard-bottleneck-gpu.jpg
 categories:
   - Motherboards
 faqs:
