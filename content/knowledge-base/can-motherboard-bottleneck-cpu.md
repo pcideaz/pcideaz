@@ -11,6 +11,7 @@ url: motherboards/can-motherboard-bottleneck-cpu/
 author: Zohaib Hassan
 date: 2023-01-27T12:00:01.773Z
 updateDate: 2023-01-27T12:00:01.847Z
+featured_Image: /uploads/can-motherboard-bottleneck-cpu.jpg
 categories:
   - Motherboards
 ---
