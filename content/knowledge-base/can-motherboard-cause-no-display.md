@@ -12,6 +12,7 @@ url: motherboards/can-motherboard-cause-no-display/
 author: Zohaib Hassan
 date: 2023-01-27T12:15:04.394Z
 updateDate: 2023-01-27T12:15:04.476Z
+featured_Image: /uploads/can-motherboard-cause-no-display.jpg
 categories:
   - Motherboards
 ---
