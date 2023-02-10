@@ -11,6 +11,7 @@ url: motherboards/when-to-upgrade-motherboard/
 author: Abdullah Sarfraz
 date: 2023-01-24T20:16:01.565Z
 updateDate: 2023-01-24T20:25:22.939Z
+featured_Image: /uploads/when-to-upgrade-motherboard.jpg
 categories:
   - Motherboards
 ---
