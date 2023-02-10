@@ -8,7 +8,7 @@ seo_title: How graphics cards are made? - Explained
 meta_Description: How graphics cards are made? Many steps are involved in
   manufacturing a graphics card, including designing PCB, manufacturing,
   testing, etc.
-url: graphics-cards/how-graphics-card-are-made/
+url: graphics-cards/how-graphics-cards-are-made/
 author: Zohaib Hassan
 date: 2023-01-28T19:30:15.841Z
 updateDate: 2023-01-28T19:30:16.081Z
