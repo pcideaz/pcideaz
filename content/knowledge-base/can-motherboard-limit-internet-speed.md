@@ -11,6 +11,7 @@ url: motherboards/can-motherboard-limit-internet-speed/
 author: Zohaib Hassan
 date: 2023-01-27T12:11:00.695Z
 updateDate: 2023-01-27T12:11:00.744Z
+featured_Image: /uploads/can-motherboard-limit-internet-speed.jpg
 categories:
   - Motherboards
 ---
