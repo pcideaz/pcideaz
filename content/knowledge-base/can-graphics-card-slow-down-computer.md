@@ -8,7 +8,7 @@ seo_title: Can graphics card slow down computer? Answer, reason & fixes
 meta_Description: Can a graphics card slow down my computer? Read this post to
   get your answer, possible reasons for the computer to slow down, and fixes.
 meta_Keywords: ""
-url: graphics card/can-graphics-card-slow-down-computer/
+url: graphics-cards/can-graphics-card-slow-down-computer/
 author: Zohaib Hassan
 date: 2023-02-08T12:29:55.765Z
 updateDate: 2023-02-08T12:29:55.828Z
