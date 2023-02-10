@@ -12,6 +12,7 @@ url: motherboards/what-motherboard-do-i-have/
 author: Zohaib Hassan
 date: 2023-01-22T18:47:44.817Z
 updateDate: 2023-01-22T18:47:44.893Z
+featured_Image: /uploads/what-motherboard-do-i-have.jpg
 categories:
   - Motherboards
 ---
