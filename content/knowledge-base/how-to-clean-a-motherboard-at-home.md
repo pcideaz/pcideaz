@@ -12,6 +12,7 @@ url: motherboards/how-to-clean-a-motherboard-at-home/
 author: Zohaib Hassan
 date: 2023-01-22T18:40:44.425Z
 updateDate: 2023-01-22T18:40:44.475Z
+featured_Image: /uploads/how-to-clean-a-motherboard-at-home.jpg
 categories:
   - Motherboards
 ---
