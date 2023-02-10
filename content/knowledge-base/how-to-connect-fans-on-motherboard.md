@@ -11,6 +11,7 @@ url: motherboards/how-to-connect-fans-on-motherboard/
 author: Abdullah Sarfraz
 date: 2023-01-22T20:11:29.124Z
 updateDate: 2023-01-22T20:11:29.179Z
+featured_Image: /uploads/how-to-connect-fans-on-motherboard.jpg
 categories:
   - Motherboards
 ---
