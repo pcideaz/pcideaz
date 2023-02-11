@@ -11,8 +11,8 @@ meta_Description: How to clean a motherboard at home? Read this post to uncover
 url: motherboards/how-to-clean-a-motherboard-at-home/
 author: Zohaib Hassan
 date: 2023-01-22T18:40:44.425Z
-updateDate: 2023-01-22T18:40:44.475Z
-featured_Image: /uploads/how-to-clean-a-motherboard-at-home.jpg
+updateDate: 2023-02-11T09:51:08.634Z
+featured_Image: /uploads/how-to-clean-a-motherboard-at-home.webp
 categories:
   - Motherboards
 ---
