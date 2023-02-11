@@ -1,7 +1,7 @@
 ---
 title: How motherboard works?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: How motherboard works?
 seo_title: How motherboard works? - Explained
@@ -46,17 +46,35 @@ This edition looks at how motherboards work and what they do. Each motherboard h
 Every Motherboard is built to accommodate a particular set of hardware, such as CPUs and memory. The majority of hard discs and peripheral types can fit in them. The following are the main parts of motherboards:
 
 1. **CPU** processes instructions from programs, the operating system, and other computer components through its logic circuitry.
+
+
 2. **Memory** is where data and instructions are briefly stored and carried out.
+
+
 3. **Storage interface** is there for persistent data and application storage on solid-state or hard disc drives.
+
+
 4. **ROM BIOS** offers non-volatile memory for firmware storage, including the BIOS (basic input/output system.
+
+
 5. The **Northbridge chipset** connects the CPU, memory, storage, and other components.
+
+
 6. The **Southbridge chipset** links the Northbridge and peripheral components to the motherboard.
+
+
 7. **Cooling fans** that keep their internal temperatures at a tolerable level.
+
+
 8. There are **slots** for peripheral plugin cards, such as graphics and communications adapters, in the peripheral connectors.
+
+
 9. **USB ports** and **other connections** for external devices are examples of connectors for peripheral devices.
+
+
 10. The **power connection**, which connects to an external power source, and the backup battery guarantees that crucial system configuration data is kept when the primary power source is down.
 
-***Note**: A standard motherboard is made up of several different components. Consider a computer's motherboard a giant mosaic of electrical connections connecting its numerous components.*
+> **Note**: A standard motherboard is made up of several different components. Consider a computer's motherboard a giant mosaic of electrical connections connecting its numerous components.
 
 ## How do motherboard components work together?
 
