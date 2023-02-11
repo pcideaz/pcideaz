@@ -1,7 +1,7 @@
 ---
 title: Can motherboard cause no display?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard & Display
 seo_title: Can motherboard cause no display? - Reasons & Solutions
