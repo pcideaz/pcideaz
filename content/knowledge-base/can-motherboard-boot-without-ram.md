@@ -1,7 +1,7 @@
 ---
 title: Can motherboard boot without RAM?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard boot without RAM
 seo_title: Can motherboard boot without RAM? (Get your answer)
@@ -67,8 +67,14 @@ It is important to note that RAM is different from a computer's permanent storag
 All the data you use on your computer is kept in your RAM, which is a part of your computer. Your operating system uses some of your RAM constantly, so if you utilize memory-intensive tasks and your OS is hefty, you'll need more RAM. Having less RAM than required can negatively affect a computer's performance. Some of those are as follows: 
 
 1. **Slow performance**: The computer must constantly access the hard drive to swap data in and out of memory with less RAM, which can slow down the system's overall performance.
+
+
 2. **Reduced multitasking capability**: With less RAM, the computer might need help to keep multiple applications open simultaneously, leading to frequent freezes or crashes.
+
+
 3. **Increased hard drive usage**: Moreover, if the RAM in your computer is full, the computer will start using the hard drive as virtual memory, which is much slower than RAM. This can lead to decreased overall performance and increased hard drive usage.
+
+
 4. **Reduced stability**: The computer may become unstable, leading to frequent reboots, crashes, freezes, or errors when the RAM is insufficient.
 
 In conclusion, having less RAM than required can significantly impact the performance and stability of a computer, making it essential to ensure that the system has enough RAM for optimal operation.
