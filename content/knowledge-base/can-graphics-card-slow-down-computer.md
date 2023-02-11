@@ -11,7 +11,8 @@ meta_Keywords: ""
 url: graphics-cards/can-graphics-card-slow-down-computer/
 author: Zohaib Hassan
 date: 2023-02-08T12:29:55.765Z
-updateDate: 2023-02-08T12:29:55.828Z
+updateDate: 2023-02-11T10:08:01.167Z
+featured_Image: /uploads/can-graphics-card-slow-down-computer.webp
 categories:
   - Graphics Cards
 faqs:
