@@ -10,8 +10,8 @@ meta_Description: Can motherboard bottleneck GPU? Yes, a motherboard can cause a
 url: motherboards/can-motherboard-bottleneck-gpu/
 author: Abdullah Sarfraz
 date: 2023-01-27T11:54:13.013Z
-updateDate: 2023-01-27T11:57:55.790Z
-featured_Image: /uploads/can-motherboard-bottleneck-gpu.jpg
+updateDate: 2023-02-11T09:53:52.490Z
+featured_Image: /uploads/can-motherboard-bottleneck-gpu.webp
 categories:
   - Motherboards
 faqs:
