@@ -10,7 +10,8 @@ meta_Description: Is the Graphics card overheating? Read this article to explore
 url: graphics-cards/graphics-card-is-overheating/
 author: Zohaib Hassan
 date: 2023-01-28T21:47:45.366Z
-updateDate: 2023-01-28T21:47:45.417Z
+updateDate: 2023-02-11T10:20:45.795Z
+featured_Image: /uploads/graphics-card-is-overheating.webp
 categories:
   - Graphics Cards
 ---
