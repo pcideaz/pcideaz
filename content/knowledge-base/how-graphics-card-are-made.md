@@ -11,7 +11,8 @@ meta_Description: How graphics cards are made? Many steps are involved in
 url: graphics-cards/how-graphics-cards-are-made/
 author: Zohaib Hassan
 date: 2023-01-28T19:30:15.841Z
-updateDate: 2023-01-28T19:30:16.081Z
+updateDate: 2023-02-11T10:16:42.930Z
+featured_Image: /uploads/how-graphics-cards-are-made.webp
 categories:
   - Graphics Cards
 ---
