@@ -8,7 +8,7 @@ seo_title: What is motherboard backplate? [Explained]
 meta_Description: What is motherboard backplate? Read this article to explore
   what a motherboard backplate is, its types, installation process, and more.
 url: motherboards/what-is-motherboard-backplate/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-02-02T14:16:41.155Z
 updateDate: 2023-02-11T10:01:25.848Z
 featured_Image: /uploads/what-is-motherboard-backplate.webp
