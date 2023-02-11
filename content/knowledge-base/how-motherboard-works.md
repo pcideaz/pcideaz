@@ -9,7 +9,7 @@ meta_Description: How motherboard works? It holds most of the PC parts,
   supervises their performance, and lets them communicate, making up a whole
   computer.
 url: motherboards/how-motherboard-works/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-22T18:34:16.938Z
 updateDate: 2023-02-11T09:51:29.582Z
 featured_Image: /uploads/how-motherboard-works.webp
