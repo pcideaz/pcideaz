@@ -12,7 +12,8 @@ meta_Keywords: ""
 url: motherboards/can-motherboard-turn-on-without-cpu/
 author: Abdullah Sarfraz
 date: 2023-02-08T11:59:44.164Z
-updateDate: 2023-02-08T11:59:44.217Z
+updateDate: 2023-02-11T10:04:14.889Z
+featured_Image: /uploads/can-motherboard-turn-on-without-cpu.webp
 categories:
   - Motherboards
 faqs:
