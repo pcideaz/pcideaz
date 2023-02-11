@@ -1,7 +1,7 @@
 ---
 title: Graphics card is overheating.
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Overheating GPU
 seo_title: "Graphics card is overheating. [Reasons, Solutions & more] "
