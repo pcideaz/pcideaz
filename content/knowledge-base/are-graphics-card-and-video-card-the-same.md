@@ -1,7 +1,7 @@
 ---
 title: Are graphics card and video card the same?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Graphics Card & Video Card
 seo_title: Are graphics card and video card the same? Explained
@@ -28,14 +28,14 @@ It's uncommon to distinguish between these two types of hardware. They are also 
 
 You may need clarification up to this point and need help finding out the difference between both components. Therefore, we have added a small table below. I’m sure this will clarify your concepts regarding graphics cards and video cards. The following list contains significant distinctions between graphics and video cards. All the differences are included:
 
-|              | Graphics card                                                                                                 | Video card                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Theory       | The graphics card regulates image and video quality and improves the game experience.                         | The video card also produces a similar effect but mainly helps the computer to show graphics on the screen, etc. |
-| Function     | Dedicated video cards perform better since they have their RAM, which makes integrated graphics cards slower. | When compared to graphics cards, video cards operate much more quickly.                                          |
-| Price        | Integrated graphics are less expensive, more portable, and energy efficient.                                  | Compared to graphics cards, video cards are more expensive.                                                      |
-| Availability | The presence of a graphics card is optional and may not be included in a PC system's default installation.    | A video card must be included in every PC system to showcase the visuals on the screen.                          |
-| Usage        | A graphics card enhances image quality and supports 3D effects and high resolution.                           | The PC system's video card regulates the display settings.                                                       |
-| Utilization  | Gaming consoles are the main applications for graphics cards.                                                 | Multimedia and video editing projects need video cards.                                                          |
+|                  | **Graphics card**                                                                                             | **Video card**                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Theory**       | The graphics card regulates image and video quality and improves the game experience.                         | The video card also produces a similar effect but mainly helps the computer to show graphics on the screen, etc. |
+| **Function**     | Dedicated video cards perform better since they have their RAM, which makes integrated graphics cards slower. | When compared to graphics cards, video cards operate much more quickly.                                          |
+| **Price**        | Integrated graphics are less expensive, more portable, and energy efficient.                                  | Compared to graphics cards, video cards are more expensive.                                                      |
+| **Availability** | The presence of a graphics card is optional and may not be included in a PC system's default installation.    | A video card must be included in every PC system to showcase the visuals on the screen.                          |
+| **Usage**        | A graphics card enhances image quality and supports 3D effects and high resolution.                           | The PC system's video card regulates the display settings.                                                       |
+| **Utilization**  | Gaming consoles are the main applications for graphics cards.                                                 | Multimedia and video editing projects need video cards.                                                          |
 
 Since they are both technically the same, the terms "graphics card" and "video card" are sometimes used interchangeably. Both cards are expansion cards to produce output graphics and send them to a display device. They are also referred to as GPUs or graphics processing units. They have their memory for the increased processing demands of visual data. 
 
