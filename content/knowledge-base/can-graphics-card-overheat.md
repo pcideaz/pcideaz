@@ -10,7 +10,8 @@ meta_Description: Can graphics card overheat? Yes, a graphics card can overheat.
 url: graphics-cards/can-graphics-card-overheat/
 author: Abdullah Sarfraz
 date: 2023-01-28T18:13:52.526Z
-updateDate: 2023-01-28T18:13:52.610Z
+updateDate: 2023-02-11T10:15:46.016Z
+featured_Image: /uploads/can-graphics-card-overheat.webp
 categories:
   - Graphics Cards
 ---
