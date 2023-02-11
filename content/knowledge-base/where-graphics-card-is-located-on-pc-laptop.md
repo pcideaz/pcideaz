@@ -10,7 +10,8 @@ meta_Description: Where graphics card is located? It’s important to locate the
 url: graphics-cards/where-graphics-card-is-located/
 author: Abdullah Sarfraz
 date: 2023-01-28T21:27:41.760Z
-updateDate: 2023-01-28T21:27:41.821Z
+updateDate: 2023-02-11T10:18:55.682Z
+featured_Image: /uploads/where-graphics-card-is-located.webp
 categories:
   - Graphics Cards
 ---
