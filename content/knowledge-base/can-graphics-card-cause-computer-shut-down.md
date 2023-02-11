@@ -10,7 +10,8 @@ meta_Description: Can graphics card cause computer shut down? Read this post to
 url: graphics-cards/can-graphics-card-cause-computer-shut-down/
 author: Zohaib Hassan
 date: 2023-01-28T18:04:39.578Z
-updateDate: 2023-01-28T18:04:39.633Z
+updateDate: 2023-02-11T10:15:35.045Z
+featured_Image: /uploads/can-graphics-card-cause-computer-shut-down.webp
 categories:
   - Graphics Cards
 faqs:
