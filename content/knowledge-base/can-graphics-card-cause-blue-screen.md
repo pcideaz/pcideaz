@@ -10,7 +10,8 @@ meta_Description: Can a graphics card cause a blue screen? The graphic card can
 url: graphics-cards/can-graphics-card-cause-blue-screen/
 author: Zohaib Hassan
 date: 2023-01-22T18:20:03.928Z
-updateDate: 2023-01-22T18:20:03.985Z
+updateDate: 2023-02-11T10:12:24.618Z
+featured_Image: /uploads/can-graphics-card-cause-blue-screen.webp
 categories:
   - Graphics Cards
 ---
