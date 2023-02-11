@@ -12,6 +12,7 @@ url: motherboards/which-functions-does-a-motherboard-chipset-perform/
 author: Zohaib Hassan
 date: 2023-02-11T11:05:45.239Z
 updateDate: 2023-02-11T11:05:45.353Z
+featured_Image: /uploads/which-functions-does-a-motherboard-chipset-perform.webp
 categories:
   - Motherboards
 ---
