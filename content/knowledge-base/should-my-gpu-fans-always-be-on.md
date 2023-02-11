@@ -1,7 +1,7 @@
 ---
 title: Should my GPU fans always be on?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: GPU fans
 seo_title: Should my GPU fans always be on? [Everything Explained]
@@ -34,7 +34,7 @@ The GPU fans aren’t meant to be always running. The graphics card's temperatur
 
 As we previously said, many GPU fans remain off until you hit a specific temperature. Activities are apps that heavily utilize your graphics card, causing your GPU to overheat and require cooling. For instance, playing games will force your GPU to start up very quickly. Your GPU fans can be operating by the time you reach the menu screen before you start playing. By the end of the first ten minutes of your session, you'll be sitting at a temperature you'll keep all night.
 
-**Note:** If your GPU fan seems to be running continuously, you need to check the wire connections for looseness. Depending on the circumstances, a broken graphics card may need to be replaced, a BIOS update, a fan adjustment, or both.
+> **Note:** If your GPU fan seems to be running continuously, you need to check the wire connections for looseness. Depending on the circumstances, a broken graphics card may need to be replaced, a BIOS update, a fan adjustment, or both.
 
 ## When a GPU fan should start running?
 
@@ -58,14 +58,10 @@ Initially, ensure the BIOS driver is updated to the most recent version. The mos
 
 It’s possible to tweak the GPU fan speed in a few steps. Those are included as follows:
 
-#  
-
 * **Step 1**: Download the GPU brand’s application on your computer, install it, and navigate to the fan tab in the new popup window by clicking the setting cogwheel.
 
 
 * **Step 2**: Select "allow user-defined software automatic fan control" from the drop-down menu.
-
-
 
 > **Note:** You should now see a large graph along with a few other options that are not urgent at this time. Some of the points on your graph will be in the form of boxes.
 
