@@ -1,7 +1,7 @@
 ---
 title: Can motherboard affect internet speed?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard's affect on internet speed
 seo_title: Can motherboard affect internet speed? (Answered)
