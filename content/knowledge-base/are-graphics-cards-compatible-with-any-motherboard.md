@@ -1,7 +1,7 @@
 ---
 title: Are graphics cards compatible with any motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Compatibility of GPU with motherboard
 seo_title: Are graphics cards compatible with any motherboard? Explained
