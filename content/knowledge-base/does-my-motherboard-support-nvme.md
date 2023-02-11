@@ -10,7 +10,8 @@ meta_Description: Does my motherboard support NVMe? With this guide, you'll
 url: motherboards/does-my-motherboard-support-nvme/
 author: Zohaib Hassan
 date: 2023-02-02T13:54:06.101Z
-updateDate: 2023-02-02T13:54:06.173Z
+updateDate: 2023-02-11T09:59:27.206Z
+featured_Image: /uploads/does-my-motherboard-support-nvme.webp
 categories:
   - Motherboards
 faqs:
