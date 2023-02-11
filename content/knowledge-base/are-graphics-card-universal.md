@@ -1,7 +1,7 @@
 ---
 title: Are graphics cards universal?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Are graphics cards universal?
 seo_title: Are graphics cards universal? [Answered & Factors explained]
@@ -64,7 +64,7 @@ If you're purchasing a universal GPU, compatibility with graphics cards is the o
 
 8. **Read the users’ reviews** and research the compatibility of the graphic card with the intended use. For example, if you want to use the card for gaming, check the card's compatibility with the game you want to play.
 
-By checking all these factors, you can determine whether a graphics card is universal and whether it will work properly with your computer.
+> By checking all these factors, you can determine whether a graphics card is universal and whether it will work properly with your computer.
 
 ## Conclusion
 
