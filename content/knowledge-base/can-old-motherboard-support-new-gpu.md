@@ -10,7 +10,8 @@ meta_Description: Can old motherboard support new GPU? ead this GPU-Motherboard
 url: motherboards/can-old-motherboard-support-new-gpu/
 author: Zohaib Hassan
 date: 2023-02-08T11:18:36.594Z
-updateDate: 2023-02-08T11:18:36.670Z
+updateDate: 2023-02-11T10:02:01.691Z
+featured_Image: /uploads/can-old-motherboard-support-new-gpu.webp
 categories:
   - Motherboards
 ---
