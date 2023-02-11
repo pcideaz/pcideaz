@@ -10,7 +10,8 @@ meta_Description: What motherboard slot has direct access to the north bridge?
 url: motherboards/what-motherboard-slot-has-direct-access-to-the-north-bridge/
 author: Zohaib Hassan
 date: 2023-02-02T14:07:03.069Z
-updateDate: 2023-02-02T14:07:03.126Z
+updateDate: 2023-02-11T10:00:14.487Z
+featured_Image: /uploads/what-motherboard-slot-has-direct-access-to-the-north-bridge.webp
 categories:
   - Motherboards
 ---
