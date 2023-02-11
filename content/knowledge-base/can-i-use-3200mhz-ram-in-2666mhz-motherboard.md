@@ -10,7 +10,7 @@ meta_Description: Many say that we can pair a 3200MHz RAM in a 2600MHz
   its answer!
 meta_Keywords: ""
 url: motherboards/can-i-use-3200mhz-ram-in-2666mhz-motherboard/
-author: Zohaib Hassan
+author: Abdullah Sarfraz
 date: 2023-02-08T12:18:17.628Z
 updateDate: 2023-02-11T10:06:08.109Z
 featured_Image: /uploads/can-i-use-3200mhz-ram-in-2666mhz-motherboard.webp
