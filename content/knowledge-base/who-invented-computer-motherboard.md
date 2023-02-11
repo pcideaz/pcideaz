@@ -11,6 +11,7 @@ url: motherboards/who-invented-computer-motherboard/
 author: Abdullah Sarfraz
 date: 2023-02-11T11:10:54.459Z
 updateDate: 2023-02-11T11:10:54.523Z
+featured_Image: /uploads/who-invented-computer-motherboard.webp
 categories:
   - Motherboards
 ---
