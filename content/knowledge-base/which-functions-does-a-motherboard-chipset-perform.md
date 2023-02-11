@@ -17,11 +17,15 @@ categories:
 ---
 The motherboard chipset is the backbone of any computer system. It bridges the processor and other components, enabling them to communicate. It is responsible for controlling input and output and the speed and power of the processor and other components. In this blog post, we will discuss the different functions of a motherboard chipset and how they work together to create a functioning system.
 
-## Key Takeaways
+- - -
 
-* A motherboard chipset is a group of electronic components that manage the data flow between the various computer components, such as the CPU, memory, and peripherals. 
-* The chipset typically includes a northbridge and a southbridge, responsible for controlling different system functions, such as memory access, expansion slots, and USB ports. 
+> ## Key Takeaways
+
+* A motherboard chipset is a group of electronic components that manage the data flow between the various computer components, such as the CPU, memory, and peripherals.
+* The chipset typically includes a northbridge and a southbridge, responsible for controlling different system functions, such as memory access, expansion slots, and USB ports.
 * The chipset plays a critical role in determining the performance and capabilities of a motherboard.
+
+- - -
 
 ## History of the motherboard chipset
 
