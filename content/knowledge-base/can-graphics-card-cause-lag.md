@@ -11,7 +11,8 @@ meta_Keywords: ""
 url: graphics-cards/can-graphics-card-cause-lag/
 author: Zohaib Hassan
 date: 2023-02-08T12:22:35.720Z
-updateDate: 2023-02-08T12:22:35.791Z
+updateDate: 2023-02-11T10:07:19.583Z
+featured_Image: /uploads/can-graphics-card-cause-lag.webp
 categories:
   - Graphics Cards
 faqs:
