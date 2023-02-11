@@ -1,7 +1,7 @@
 ---
 title: Can motherboard bottleneck GPU?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard bottleneck GPU
 seo_title: Can motherboard bottleneck GPU? [Answer, Reasons, & Fixes]
