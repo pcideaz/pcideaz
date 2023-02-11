@@ -11,7 +11,8 @@ meta_Keywords: ""
 url: graphics-cards/everything-related-to-gpu-backplate/
 author: Zohaib Hassan
 date: 2023-02-08T12:34:27.577Z
-updateDate: 2023-02-08T12:34:27.660Z
+updateDate: 2023-02-11T10:08:30.026Z
+featured_Image: /uploads/everything-related-to-gpu-backplates.webp
 categories:
   - Graphics Cards
 faqs:
