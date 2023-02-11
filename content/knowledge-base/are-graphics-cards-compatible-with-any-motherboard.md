@@ -9,7 +9,7 @@ meta_Description: Are graphics cards compatible with any motherboard? Yes, if
   there is an appropriate PCIe slot, power supply, form factor, and BIOS
   version.
 url: graphics-cards/are-graphics-cards-compatible-with-any-motherboard/
-author: Zohaib Hassan.
+author: Zohaib Hassan Bhatti
 date: 2023-01-22T18:13:50.913Z
 updateDate: 2023-02-11T10:11:34.656Z
 featured_Image: /uploads/are-graphics-cards-compatible-with-any-motherboard.webp
