@@ -19,11 +19,15 @@ A motherboard is the primary circuit board found in a computer that connects all
 
 Sometimes, the motherboard's capabilities may limit the CPU's performance, causing a bottleneck. This is known as a motherboard bottleneck. This article will discuss the causes and symptoms of a motherboard bottleneck and ways to identify and mitigate it. Moreover, we’ll deeply understand **can motherboard bottleneck CPU**, and if yes, how this happened and all such stuff. Moreover, we’ll also uncover several other mysteries related to the topic. Let’s start reading, exploring, and learning!
 
-## Key Takeaways
+- - -
+
+> ## Key Takeaways
 
 * A motherboard can bottleneck a CPU due to several reasons.
 * When the CPU starts bottlenecking, it reduces the overall computer’s performance and affects efficiency and user experience.
-* It’s suggestive to find the reason first before moving toward the solution. 
+* It’s suggestive to find the reason first before moving toward the solution.
+
+- - -
 
 ## Can motherboard bottleneck CPU?
 
@@ -42,10 +46,20 @@ When you spend money on a PC, if one component causes the rest of the system to 
 A CPU bottleneck is a situation where other components of the computer, such as the motherboard, are limiting the performance of the Central Processing Unit (CPU). The possible reasons for a motherboard causing CPU bottlenecking can be as follows:
 
 1. **Limited bus speed**: The bus speed, or front-side bus (FSB), is the speed at which data can be transferred between the CPU and the motherboard. If the FSB is too slow, it can cause a bottleneck for the CPU. For example, if the FSB is 800 MHz and the CPU can run at a speed of 3.6 GHz, the CPU may not fully utilize its capabilities because the data transfer rate is too slow.
+
+
 2. **Limited PCI-Express lanes**: The PCI-Express lanes on a motherboard determine how many devices, such as graphics cards, can simultaneously connect to the motherboard. If there are not enough lanes, it can cause a bottleneck for the CPU. When the CPU tries to access a device connected to a lane with limited bandwidth, it may have to wait for the data to be transferred, causing slowdowns.
+
+
 3. **Limited RAM slots**: The number of RAM slots on a motherboard determines the amount of RAM that can be installed. If there are not enough slots, it can cause a bottleneck for the CPU. When the CPU needs to access data not stored in the RAM, it may have to retrieve it from the slower hard drive, causing slowdowns.
+
+
 4. **Outdated chipset**: The chipset on a motherboard controls communication between the CPU, memory, and other components. If the chipset is outdated, it may not fully utilize the CPU's capabilities, causing a bottleneck. For example, if the chipset can only transfer data at a rate of 800 MHz, but the CPU can run at a speed of 3.6 GHz, the CPU may not fully utilize its capabilities because the data transfer rate is too slow.
+
+
 5. **Insufficient power delivery**: The CPU requires a certain amount of power to operate; if the power delivery mechanism on the motherboard is inadequate, it may not be able to provide enough power to the CPU, causing a bottleneck. This may happen if the power supply is not powerful enough or if the voltage regulators on the motherboard cannot provide stable power to the CPU.
+
+
 6. **Overclocking**: Overclocking the CPU can cause it to run at a higher frequency than intended, which can cause the CPU to become a bottleneck for the rest of the system. This happens when the CPU is running faster than the other components in the system, such as the memory and the motherboard, can handle. As a result, the CPU may be waiting for the other components to catch up, causing slowdowns.
 
 ## Solutions to prevent CPU bottlenecking
