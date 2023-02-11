@@ -1,7 +1,7 @@
 ---
 title: How many watts does a motherboard use?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard's wattage
 seo_title: How many watts does a motherboard use? [How to calculate]
@@ -48,7 +48,7 @@ Several motherboard-related and external factors affect the power consumption of
 8. Usage (idle, heavy load)
 9. Integrated modules and chipsets; for example, onboard WiFi, USB connectors, SATA connectors, etc.
 
-**Note**: You must consider all these factors and check them for your motherboard when determining the precise wattage it consumes. This is why we have mentioned an estimated value since it varies from user to user.  
+> **Note**: You must consider all these factors and check them for your motherboard when determining the precise wattage it consumes. This is why we have mentioned an estimated value since it varies from user to user.  
 
 ## Calculating the power consumption
 
