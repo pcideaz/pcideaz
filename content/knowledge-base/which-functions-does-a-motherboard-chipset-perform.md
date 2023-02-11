@@ -9,7 +9,7 @@ meta_Description: Motherboard chipsets are responsible for managing the
   communication between your computer's components. Learn more about how they
   function here.
 url: motherboards/which-functions-does-a-motherboard-chipset-perform/
-author: Zohaib Hassan
+author: Abdullah Sarfraz
 date: 2023-02-11T11:05:45.239Z
 updateDate: 2023-02-11T11:05:45.353Z
 featured_Image: /uploads/which-functions-does-a-motherboard-chipset-perform.webp
