@@ -1,7 +1,7 @@
 ---
 title: Are graphics card plug and play?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Are graphics card plug and play?
 seo_title: Are graphics card plug and play? [Everything Explained]
@@ -56,27 +56,22 @@ A graphics card can be considered "plug-and-play" if it meets specific criteria.
 
 * **Compatibility**: The graphics card must be compatible with the computer's motherboard, power supply, and other components. It also needs the correct interface (PCIe, AGP, etc.) and size to fit into the available slot. Ensure your power supply has the necessary connector before using it. For instance, you would need a PSU with the proper 2 x 8 pin connections if your graphics card required 2 x 8 pin connectors.
 
-#  
 
 * **Operating system recognition**: The graphics card should be automatically recognized by the computer's operating system, and the necessary drivers should be installed automatically.
 
-#  
 
-* **Power requirements**: You must confirm that your power supply can deliver sufficient power. For instance, it would be foolish to have a 400W or even a 500W power supply unit for your entire PC if your graphics card alone needs 500W, like the ASUS RTX 3090. A power supply unit of about 800-1000W is needed. 
+* **Power requirements**: You must confirm that your power supply can deliver sufficient power. For instance, it would be foolish to have a 400W or even a 500W power supply unit for your entire PC if your graphics card alone needs 500W, like the ASUS RTX 3090. A power supply unit of about 800-1000W is needed.
 
-#  
 
 * **Display Connections**: The graphics card should have the necessary connections to connect to a monitor or other display devices, such as HDMI, DisplayPort, or DVI.
 
-#  
 
 * **BIOS recognition**: The graphics card should be recognized by the BIOS and should not require any additional settings to be changed in the BIOS for it to work.
 
-#  
 
 * **Additional software**: A graphics card can be considered plug-and-play even if additional software is required to fully utilize its capabilities, as long as the installation process is straightforward to understand.
 
-As long as a graphics card meets these criteria, it can be considered "plug-and-play."
+> As long as a graphics card meets these criteria, it can be considered "plug-and-play."
 
 ## How to plug in a graphics card?
 
@@ -87,20 +82,10 @@ Once you uninstall the older graphics card’s drivers, the next step is to chan
 The following are the steps to plug in a graphics card:
 
 1. Shut off the computer's power supply.
-
-
 2. Uninstall the previous graphics card power cord.
-
-
 3. Remove the screw holding the outdated graphics card to the computer case.
-
-
 4. Push the PCI Express to clamp downward.
-
-
 5. Connect the brand-new graphics card to the PC case, securing the new graphics card (the little screw at the left).
-
-
 6. Attach the power wire. That’s it.
 
 ## Conclusion
