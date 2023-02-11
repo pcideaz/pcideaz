@@ -1,7 +1,7 @@
 ---
 title: Where graphics card is located? [On PC & Laptop]
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: GPU Location
 seo_title: Where graphics card is located? [On PC & Laptop]
@@ -48,8 +48,6 @@ In summary, a motherboard's x16 slot is where a specialized graphics card is ins
 
 The second location is the AGP slot. This was the most common location for a Graphics card before PCI-E slots became popular. A point-to-point network called an "accelerated graphics port" (AGP) is used for high-speed output video. The motherboard of a computer is connected to graphic cards using this connector. 
 
- 
-
 An AGP is mainly used to speed up 3D graphics output for high-definition videos. Compared to PCI, AGP offers much quicker connectivity and throughput. 3D graphics, high-definition gaming, and graphics for engineering and architecture are the primary uses of an AGP.
 
 #### 3. External GPU
@@ -73,10 +71,20 @@ The graphics card is typically located near the hinge of the screen. So if you'r
 Installing a graphics card on your laptop or desktop might seem intimidating at first, but it's not as complicated as you might think. Here are some tips to make the process a bit easier:
 
 1. **Ensure** that your **graphics card is compatible** with your laptop or desktop. Check the manufacturer’s website for information about supported models.
+
+
 2. **Turn off** and **disconnect your computer** from all power sources before starting.
+
+
 3. **Carefully open the cover** of your laptop or desktop to access its internal components.
+
+
 4. **Unscrew** the **screws** holding the graphics card in place, if any, and carefully remove it.
+
+
 5. **Insert** the **new graphics card** into its designated slot and secure it with screws if necessary.
+
+
 6. **Close up** any **covers or doors** and **reconnect power sources** to begin using your computer with the new graphics card.
 
 ## Conclusion
