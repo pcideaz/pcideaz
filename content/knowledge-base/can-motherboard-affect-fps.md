@@ -11,7 +11,8 @@ meta_Description: Can motherboard affect fps? Many users say that a motherboard
 url: motherboards/can-motherboard-affect-fps/
 author: Abdullah Sarfraz
 date: 2023-02-08T11:32:56.192Z
-updateDate: 2023-02-08T11:32:56.230Z
+updateDate: 2023-02-11T10:02:29.326Z
+featured_Image: /uploads/can-motherboard-affect-fps.webp
 categories:
   - Motherboards
 faqs:
