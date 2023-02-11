@@ -12,7 +12,8 @@ meta_Keywords: ""
 url: graphics-cards/should-my-gpu-fans-always-be-on/
 author: Zohaib Hassan
 date: 2023-01-27T12:22:25.765Z
-updateDate: 2023-01-27T12:22:25.839Z
+updateDate: 2023-02-11T10:13:44.778Z
+featured_Image: /uploads/should-my-gpu-fans-always-be-on.webp
 categories:
   - Graphics Cards
 ---
