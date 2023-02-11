@@ -1,7 +1,7 @@
 ---
 title: How graphics cards are made?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Making GPU
 seo_title: How graphics cards are made? - Explained
