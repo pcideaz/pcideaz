@@ -9,7 +9,7 @@ meta_Description: What motherboard do I have? Read this post to check two
   methods for Windows, one for macOS and one for Linux. Apply and get your job
   done.
 url: motherboards/what-motherboard-do-i-have/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-22T18:47:44.817Z
 updateDate: 2023-02-11T09:51:52.102Z
 featured_Image: /uploads/what-motherboard-do-i-have.webp
