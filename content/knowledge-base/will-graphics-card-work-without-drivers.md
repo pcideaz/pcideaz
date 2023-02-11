@@ -1,7 +1,7 @@
 ---
 title: Will graphics card work without drivers?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: GPU without drivers
 seo_title: Will graphics card work without drivers? [Answered]
@@ -34,8 +34,6 @@ faqs:
       Suppose you haven’t found the motherboard-related information here or want to try another method. In such a case, you can **use an online tool** like **CPU-Z**, which will give you all the information about your motherboard, including the make and model.
 ---
 A graphics card is a piece of hardware in your computer that processes the images you see on the screen. When you play a game, watch a movie or browse the internet, your graphics card turns the digital data into those images you see. Drivers are software that tells your graphics card how to display those images. Think of them as the instructions your graphics card needs to know to do its job. If you don't have the drivers installed, your graphics card can't do its job, and you won't see anything on your screen.
-
-#  
 
 You're in the market for a new graphics card, and you're not sure the graphics card will work without drivers. You've heard that some cards require drivers, but you're not sure if that's true for the card you're considering. Don't worry since we're here to help. In this article, we'll give you the lowdown on graphics card drivers and whether or not your card will work without them. So whether you're looking for a new card or just want to ensure your current card will work without issue, read on for the answers you need.
 
