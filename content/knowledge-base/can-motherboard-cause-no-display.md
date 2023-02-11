@@ -11,7 +11,7 @@ meta_Description: Can motherboard cause no display? Yes, if it’s damaged, has
 url: motherboards/can-motherboard-cause-no-display/
 author: Zohaib Hassan
 date: 2023-01-27T12:15:04.394Z
-updateDate: 2023-01-27T12:15:04.476Z
+updateDate: 2023-02-11T09:55:39.849Z
 featured_Image: /uploads/can-motherboard-cause-no-display.jpg
 categories:
   - Motherboards
