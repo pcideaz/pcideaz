@@ -1,7 +1,7 @@
 ---
 title: Can motherboard limit internet speed?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard and internet speed
 seo_title: Can motherboard limit internet speed? [Answer & Tips]
