@@ -68,7 +68,7 @@ Here are some steps to prevent freezing caused by the graphics card:
 
 ### Restart the Computer
 
-Sometimes, a simple restart can resolve a freezing issue. Before trying the other steps, try restarting the computer and see if it resolves the issue. If not, proceed to the next solution. 
+> Sometimes, a simple restart can resolve a freezing issue. Before trying the other steps, try restarting the computer and see if it resolves the issue. If not, proceed to the next solution. 
 
 ### Reset the GPU settings.
 
