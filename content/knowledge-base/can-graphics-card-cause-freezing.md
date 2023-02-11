@@ -4,14 +4,15 @@ type: knowledge-base
 draft: true
 trending: true
 trendname: Can graphics card cause freezing?
-seo_title: Can graphics card cause freezing? (Comprehensive guide)
+seo_title: Can graphics card cause freezing? 🥶 (Comprehensive guide)
 meta_Description: Can a graphics card cause a freeze? Many users ask the same
   question when facing freezing or performance lag. Let’s get the answer!
 meta_Keywords: ""
 url: graphics-cards/can-graphics-card-cause-freezing/
 author: Abdullah Sarfraz
 date: 2023-02-08T12:44:08.551Z
-updateDate: 2023-02-08T12:44:08.601Z
+updateDate: 2023-02-11T10:10:09.608Z
+featured_Image: /uploads/can-graphics-card-cause-freezing.webp
 categories:
   - Graphics Cards
 faqs:
