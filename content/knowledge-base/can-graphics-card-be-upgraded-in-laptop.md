@@ -11,7 +11,8 @@ meta_Description: Can graphics card be upgraded in laptop? Read this post to
 url: graphics-cards/can-graphics-card-be-upgraded-in-laptop/
 author: Zohaib Hassan
 date: 2023-01-27T13:33:07.240Z
-updateDate: 2023-01-27T13:33:07.311Z
+updateDate: 2023-02-11T10:15:04.833Z
+featured_Image: /uploads/can-graphics-card-be-upgraded-in-laptop.webp
 categories:
   - Graphics Cards
 ---
