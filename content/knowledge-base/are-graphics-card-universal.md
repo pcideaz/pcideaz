@@ -11,7 +11,8 @@ meta_Description: Are graphics cards universal? There are a few factors that
 url: graphics-cards/are-graphics-cards-universal/
 author: Zohaib Hassan
 date: 2023-01-27T12:32:44.515Z
-updateDate: 2023-01-27T12:32:44.570Z
+updateDate: 2023-02-11T10:14:42.829Z
+featured_Image: /uploads/are-graphics-cards-universal.webp
 categories:
   - Graphics Cards
 ---
