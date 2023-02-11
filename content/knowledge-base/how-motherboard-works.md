@@ -12,7 +12,7 @@ url: motherboards/how-motherboard-works/
 author: Zohaib Hassan
 date: 2023-01-22T18:34:16.938Z
 updateDate: 2023-01-22T18:34:17.010Z
-featured_Image: /uploads/how-motherboard-works.jpg
+featured_Image: /uploads/how-motherboard-works.webp
 categories:
   - Motherboards
 ---
