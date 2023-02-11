@@ -12,7 +12,8 @@ meta_Keywords: ""
 url: motherboards/ims2-low-power-driver-motherboard/
 author: Abdullah Sarfraz
 date: 2023-02-08T12:13:01.680Z
-updateDate: 2023-02-08T12:13:01.726Z
+updateDate: 2023-02-11T10:05:35.124Z
+featured_Image: /uploads/ims2-low-power-driver-motherboard.webp
 categories:
   - Motherboards
 ---
