@@ -9,7 +9,7 @@ meta_Description: Can a graphics card cause lag? Yes, there are many reasons you
   might experience lag. Here are some of the causes of lag and how to fix them.
 meta_Keywords: ""
 url: graphics-cards/can-graphics-card-cause-lag/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-02-08T12:22:35.720Z
 updateDate: 2023-02-11T10:07:19.583Z
 featured_Image: /uploads/can-graphics-card-cause-lag.webp
