@@ -1,7 +1,7 @@
 ---
 title: Can graphics card overheat?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Can GPU overheat?
 seo_title: Can graphics card overheat? [Signs, Reasons, & Solutions]
@@ -79,7 +79,7 @@ In summary, overheating of a graphics card can be caused by various factors, suc
 
 ## Tips to improve GPU cooling
 
-If your GPU is overheating, the below steps will help you cool it down.
+> If your GPU is overheating, the below steps will help you cool it down.
 
 ### Try turning off overclocking.
 
