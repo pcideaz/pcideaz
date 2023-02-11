@@ -893,7 +893,7 @@ p:empty {
 }
 .feature-block-item img {
     width: 100%;
-    height: 233px;
+    height: auto;
     object-fit: cover;
 }
 
