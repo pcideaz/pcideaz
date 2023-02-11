@@ -11,7 +11,8 @@ meta_Description: Are graphics card plug and play? A few factors determine that
 url: graphics-cards/are-graphics-card-plug-and-play/
 author: Abdullah Sarfraz
 date: 2023-01-27T12:28:06.782Z
-updateDate: 2023-01-27T12:28:06.828Z
+updateDate: 2023-02-11T10:14:13.746Z
+featured_Image: /uploads/are-graphics-card-plug-and-play.webp
 categories:
   - Graphics Cards
 faqs:
