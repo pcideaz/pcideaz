@@ -1,7 +1,7 @@
 ---
 title: Graphics card is artifacting.
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: GPU is artifacting
 seo_title: Graphics card is artifacting. [Reasons, Solutions & more]
