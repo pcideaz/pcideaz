@@ -10,7 +10,8 @@ meta_Description: Graphics card is artifacting? You may have an artifacting GPU.
 url: graphics-cards/graphics-card-is-artifacting/
 author: Abdullah Sarfraz
 date: 2023-01-28T21:38:38.374Z
-updateDate: 2023-01-28T21:38:39.029Z
+updateDate: 2023-02-11T10:20:16.998Z
+featured_Image: /uploads/graphics-card-is-artifacting.webp
 categories:
   - Graphics Cards
 ---
