@@ -10,7 +10,8 @@ meta_Description: What is discrete graphics vs integrated graphics? This post
 url: graphics-cards/what-is-discrete-graphics-vs-integrated-graphics/
 author: Abdullah Sarfraz
 date: 2023-01-30T10:23:11.666Z
-updateDate: 2023-01-30T10:23:11.895Z
+updateDate: 2023-02-11T10:21:30.735Z
+featured_Image: /uploads/what-is-discrete-graphics-vs-integrated-graphics.webp
 categories:
   - Graphics Cards
 ---
