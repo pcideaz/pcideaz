@@ -10,8 +10,8 @@ meta_Description: Can motherboard bottleneck CPU? Yes, a motherboard can cause a
 url: motherboards/can-motherboard-bottleneck-cpu/
 author: Zohaib Hassan
 date: 2023-01-27T12:00:01.773Z
-updateDate: 2023-01-27T12:00:01.847Z
-featured_Image: /uploads/can-motherboard-bottleneck-cpu.jpg
+updateDate: 2023-02-11T09:54:28.838Z
+featured_Image: /uploads/can-motherboard-bottleneck-cpu.webp
 categories:
   - Motherboards
 ---
