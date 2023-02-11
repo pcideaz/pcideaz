@@ -1,7 +1,7 @@
 ---
 title: Can motherboard bottleneck CPU?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard bottleneck CPU
 seo_title: Can motherboard bottleneck CPU? [Answer, Reasons & Fixes]
