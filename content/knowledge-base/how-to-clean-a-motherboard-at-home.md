@@ -1,7 +1,7 @@
 ---
 title: How to clean a motherboard at home?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Clean motherboard at home
 seo_title: How to clean a motherboard at home? [Normal & deep cleaning]
@@ -23,20 +23,38 @@ Several different connectors, ports, and devices are attached to your motherboar
 ## Essential tools needed to clean motherboard
 
 1. A **screwdriver** to remove the case screws, open it, and remove the other components screws like hard drive, graphics card, etc.
-2. A **compressed air can** blow the dust away. 
-3. **Isopropyl alcohol** with 99% purity to use in deep motherboard cleaning. 
-4. **Cotton swabs** or **lint-free soft cloth** to apply isopropyl alcohol and clean it and the dust. 
-5. A **soft brush**, etc., make-up or nylon-bristled brush to clean the dust. 
+
+
+2. A **compressed air can** blow the dust away.
+
+
+3. **Isopropyl alcohol** with 99% purity to use in deep motherboard cleaning.
+
+
+4. **Cotton swabs** or **lint-free soft cloth** to apply isopropyl alcohol and clean it and the dust.
+
+
+5. A **soft brush**, etc., make-up or nylon-bristled brush to clean the dust.
+
+
 6. A metal container that is larger than your motherboard
 
 ## Quick precautionary tips 
 
 Although there is a lot to know before cleaning your motherboard, it’s essential to know a few precautionary tips to avoid any hazardous actions. Some quick tips or precautions when cleaning a motherboard include as follow: 
 
-1. **Turn off** your computer and power supply, and **remove** the power plugs. It’s an essential step that you must follow before anything related to cleaning.  
-2. Always **use isopropyl alcohol** with 99% purity to clean your motherboard; do not use water or something like that since it can short-circuit the motherboard. 
-3. Get in touch with the **warranty provider** if it has one before cleaning your motherboard or if the board is facing some severe issues. 
-4. Follow all the **safety steps**, like wearing gloves, goggles, etc., especially if you’re deep cleaning the motherboard using excessive isopropyl alcohol. 
+1. **Turn off** your computer and power supply, and **remove** the power plugs. It’s an essential step that you must follow before anything related to cleaning.
+
+
+2. Always **use isopropyl alcohol** with 99% purity to clean your motherboard; do not use water or something like that since it can short-circuit the motherboard.
+
+
+3. Get in touch with the **warranty provider** if it has one before cleaning your motherboard or if the board is facing some severe issues.
+
+
+4. Follow all the **safety steps**, like wearing gloves, goggles, etc., especially if you’re deep cleaning the motherboard using excessive isopropyl alcohol.
+
+
 5. Ensure to put a **safety mask** on your face and nose, plus clean your motherboard in an **open environment** with adequate aeration and clean surroundings.
 
 ## How to clean a motherboard at home?
@@ -54,21 +72,23 @@ Let’s learn more about both motherboard cleaning methods!
 In a **routine cleaning**, use compressed air and a very soft brush to give your motherboard a regular cleaning. Turn off your computer and the power supply, and unplug it from the wall before you begin. Since dust will blow out of the computer, you should place it in a simple, clean space.
 
 * **Step 1**: Open the computer's **side panel**; remove each panel if there are more. This gives the required room so that the dust may leave the machine.
+
+
 * **Step 2**: Use **compressed spraying air** on the machine's parts to remove most dust from the motherboard and its components.
 
-***Note**: Your starting point will change depending on how your machine is set up. Since dust will fall and collect on lower components as you move down, it is better to start at the top and work your way down.*
+> **Note**: Your starting point will change depending on how your machine is set up. Since dust will fall and collect on lower components as you move down, it is better to start at the top and work your way down.
 
 * **Step 3**: **Carefully reach** your motherboard from the back of the casing to the front. Keep using compressed air on the motherboard until all loose dust has been removed.
 
-***Note**: You don't want your motherboard to come into direct contact with the compressed air can’s tip. Therefore, maintain a 1-inch distance between it and the motherboard.*
+> **Note**: You don't want your motherboard to come into direct contact with the compressed air can’s tip. Therefore, maintain a 1-inch distance between it and the motherboard.
 
 * **Step 4**: Keep blowing the compressed air into the **case** and **onto the motherboard parts** once the excess dust has been removed.
 
-***Note**: Check the motherboard to determine if there is any remaining dust on it. It can be challenging to reach some places, or there might be dust that has gotten caught there that you wish to get rid of.*
+> **Note**: Check the motherboard to determine if there is any remaining dust on it. It can be challenging to reach some places, or there might be dust that has gotten caught there that you wish to get rid of.
 
 * **Step 5**: Use the **soft brush** to gently remove any dust stuck on the motherboard.
 
-***Note**: To get rid of any dust the brush brought up, spray compressed air once again across the computer and all of its parts, including the motherboard.*
+> **Note**: To get rid of any dust the brush brought up, spray compressed air once again across the computer and all of its parts, including the motherboard.
 
 * **Step 6**: Assemble everything, plug in the power connectors, and turn on your computer.
 
@@ -81,10 +101,14 @@ A motherboard should only be deep cleaned when it is entirely essential. Like if
 Try this if the motherboard is dirty.
 
 * **Step 1**: **Place the motherboard** on the lint-free towel.
+
+
 * **Step 2**: Identify the **dirty areas** on the motherboard. This step is necessary since you shouldn't have to wet the entire motherboard to clean it if only a little portion is unclean.
+
+
 * **Step 3**: Wet the lint-free cotton pad with isopropyl alcohol and gently rub it on the motherboard's dirty areas. Keep **repeating this method** until the dirt is entirely removed.
 
-***Note**: you can also use dry cotton swabs to soak the extra isopropyl alcohol from the motherboard if you have put too much.*
+> **Note**: you can also use dry cotton swabs to soak the extra isopropyl alcohol from the motherboard if you have put too much.
 
 * **Step 4**: Let your **motherboard dry** for at least 12 hours. Once the board is dry, **install it** back into the computer. 
 
