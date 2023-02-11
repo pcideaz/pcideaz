@@ -1,7 +1,7 @@
 ---
 title: How to clean your graphics card?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Clean your graphics card
 seo_title: How to clean your graphics card? [Process explained]
@@ -31,16 +31,24 @@ A clean PC will operate better overall. Long-term gains come from cleaning your 
 A GPU can be cleaned surprisingly easily. You only need a few tools unless you're trying for a complete clean.
 
 * Buying an air pump/blower or a can of compressed air is the first and most crucial step. It will be the primary factor in getting rid of all the dust.
+
+
 * If your dust or debris isn't overly caked on, you could theoretically use a vacuum, but I haven't had the best luck with them. Even if compressed air or an air pump is dirty, they work.
+
+
 * It's also a good idea to get some isopropyl alcohol of at least 70% purity, but 90% is preferable to wet your swab or cloth to remove any dust or dirt quickly.
+
+
 * Finally, grab a Phillips #1 screwdriver if you intend to remove your GPU to clean it.
+
+
 * Even though thumbscrews are the majority of GPU bracket screws used today, it's best to be safe than sorry.
 
 That is all you require.
 
 ## How to clean your graphics card?
 
-One of the best techniques to repair a damaged video card is cleaning. We will provide you with proper instructions on how to clean the graphics card in this article.
+> One of the best techniques to repair a damaged video card is cleaning. We will provide you with proper instructions on how to clean the graphics card in this article.
 
 ### Step 1: Switch Off your PC and power supply
 
@@ -53,7 +61,11 @@ Second, you can simply unplug the power line to achieve the same result.
   **In short:**
 
 * Shut down your computer by holding down the power button or the operating system.
+
+
 * On the back of your PSU, flip the power on/off switch.
+
+
 * Disconnect the cable from the PSU.
 
 ### Step 2: Unplug all external cables connected to the GPU 
@@ -63,6 +75,8 @@ The best time to remove any display cables connected to your GPU, or your PC in 
 **In short:**
 
 * The GPU cables should all be removed.
+
+
 * If you wish to take your PC outside to clean it, unplug all of its cables.
 
 ### Step 3: Remove your PC case to access the GPU
@@ -72,7 +86,11 @@ Now that your case has been opened, you can access your GPU for cleaning. It's b
 **In short:**
 
 * Please refer to your case manual.
+
+
 * Any screws or locks holding your side panel in place should be removed.
+
+
 * Place the side panel in a secure area after sliding it off or opening it up, especially if it is made of glass.
 
 ### Step 4: Take the GPU out of the motherboard.
@@ -84,8 +102,14 @@ Third, and this is the tricky part, place your hand inside the case close to the
 **In short:**
 
 * If your GPU has a power cable attached, remove it.
+
+
 * The screws holding your GPU to the PCIe bracket must be removed.
+
+
 * Drag down the PCIe lock.
+
+
 * remove the GPU I/O side.
 
 ### Step 5: Clean Your GPU
@@ -95,10 +119,20 @@ If you decide to entirely remove the GPU, just lay it flat on a clean, non-carpe
 **In short:**
 
 * If you've pulled the GPU out of the casing, place it on a spotless, non-carpeted surface.
+
+
 * If you haven't removed the GPU from the case, take the case outside.
+
+
 * To clean the GPUs outside, use a microfiber cloth, swabs, and isopropyl alcohol.
+
+
 * To remove the dust inside the GPU, particularly the dust inside the fins, use your pressurized air can or air pump.
+
+
 * Allow the GPU to sit idle for a few minutes to allow any remaining isopropyl alcohol to dissipate.
+
+
 * Enjoy your GPU after re-plugging it into your computer.
 
 ## Why is cleaning your graphics card necessary?
