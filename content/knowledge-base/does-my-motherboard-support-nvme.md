@@ -1,7 +1,7 @@
 ---
 title: Does my motherboard support NVMe?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Motherboard & NVMe?
 seo_title: Does my motherboard support NVMe? [Compatibility explained]
@@ -133,7 +133,7 @@ Once you've determined that your motherboard supports NVMe, the next step is to 
 
 * **Brand**: Consider the brand of the NVMe drive. Some popular brands include Samsung, Western Digital, Crucial, and Intel.
 
-In summary, the choice of an NVMe drive depends on several factors, including capacity, performance, reliability, compatibility, price, form factor, cooling, and brand.
+> In summary, the choice of an NVMe drive depends on several factors, including capacity, performance, reliability, compatibility, price, form factor, cooling, and brand.
 
 ## Conclusion 
 
