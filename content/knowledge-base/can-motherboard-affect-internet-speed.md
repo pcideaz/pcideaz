@@ -10,7 +10,7 @@ meta_Description: Can motherboard affect internet speed? Read this article to
   learn!
 meta_Keywords: ""
 url: motherboards/can-motherboard-affect-internet-speed/
-author: Zohaib Hassan
+author: Abdullah Sarfraz
 date: 2023-02-08T11:54:45.242Z
 updateDate: 2023-02-11T10:03:31.081Z
 featured_Image: /uploads/can-motherboard-affect-internet-speed.webp
