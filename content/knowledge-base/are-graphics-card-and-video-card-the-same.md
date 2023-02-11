@@ -11,8 +11,8 @@ meta_Description: Are graphics card and video card the same? Both aren’t the
 url: graphics-cards/are-graphics-card-and-video-card-the-same/
 author: Abdullah Sarfraz
 date: 2023-01-22T18:05:41.434Z
-updateDate: 2023-02-10T17:38:38.814Z
-featured_Image: /uploads/are-graphics-card-and-video-card-the-same.jpg
+updateDate: 2023-02-11T10:10:56.846Z
+featured_Image: /uploads/are-graphics-card-and-video-card-the-same.webp
 categories:
   - Graphics Cards
 ---
