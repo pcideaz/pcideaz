@@ -1,7 +1,7 @@
 ---
 title: How to use GPU for machine learning?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: GPU for machine learning
 seo_title: How to use GPU for machine learning? [Method & Benefits]
@@ -57,7 +57,7 @@ You can use GPUs for machine learning in one of two ways:
 
 2. **Build machine learning model**: You can use the GPU to build a machine-learning model. You would not write the code for your machine-learning algorithm in this case. Instead, you would use a library with code for a GPU-based machine-learning model.
 
-You can use follow the following steps to use a GPU for machine learning:
+> You can use follow the following steps to use a GPU for machine learning:
 
 * **Step 1**: To use a GPU for machine learning, you must install a deep learning library such as TensorFlow or PyTorch, which supports GPU acceleration.
 
