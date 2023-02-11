@@ -1,7 +1,7 @@
 ---
 title: Can motherboard affect fps?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Can motherboard affect fps?
 seo_title: Can motherboard affect fps? (A comprehensive guide)
@@ -63,18 +63,28 @@ You want to know if a motherboard impacts overall gaming performance. Or perhaps
 The CPU socket is the component that controls whether or not a specific CPU may be used on a motherboard. The CPU socket on the motherboard can affect gaming FPS in several ways:
 
 1. **Compatibility**: The socket type must match your CPU type, as different sockets are compatible with different types of CPUs. If the socket does not fit, you won't be able to use the CPU in your system, resulting in lower FPS.
+
+
 2. **Overclocking**: Some CPU sockets support overclocking, which allows you to increase the CPU's clock speed for improved performance. A socket that supports overclocking can provide additional headroom for boosting FPS.
+
+
 3. **Performance**: Different CPU sockets can have varying performance levels, with some offering more bandwidth, higher clock speeds, and more cores, which can affect FPS. A higher-performance CPU socket can provide more CPU power and improve the system's overall performance, including FPS.
+
+
 4. **Power consumption**: The CPU socket also determines the power consumption of the CPU, and some sockets may be more power-efficient than others. A socket with lower power consumption can help reduce heat generation and improve the system's stability, leading to better FPS.
 
-In short, the CPU socket on the motherboard can significantly affect gaming FPS through its compatibility, performance, overclocking capabilities, and power consumption.
+> In short, the CPU socket on the motherboard can significantly affect gaming FPS through its compatibility, performance, overclocking capabilities, and power consumption.
 
 ### Motherboard chipset
 
 The chipset on the motherboard plays a crucial role in determining the system's performance, including FPS in gaming. The chipset controls communication between the system's various components, serving as the board's central information center, including the CPU, memory, graphics card, and other peripherals. It affects the following operations happening on the motherboard of the computer:
 
 1. **Overclocking**: Some motherboards have chipsets that support overclocking, which allows you to increase the CPU speed and other components for improved performance. A chipset that supports overclocking can provide additional headroom for boosting FPS.
+
+
 2. **Latency**: Latency refers to the delay in communication between components. A chipset with lower latency can reduce the time it takes for data to travel between components, leading to smoother gameplay and improved FPS.
+
+
 3. **Bandwidth**: The chipset controls the speed at which data is transferred between the components in the system. A chipset with higher bandwidth can allow for faster communication between the components, leading to improved FPS.
 
 The summary is that the motherboard’s chipset can significantly affect FPS in a gaming PC by controlling the system's bandwidth, latency, and overclocking capabilities. A chipset with higher performance can lead to improved FPS, while a chipset with lower performance may limit the system's performance, including FPS.
@@ -84,7 +94,11 @@ The summary is that the motherboard’s chipset can significantly affect FPS in 
 PCIe (Peripheral Component Interconnect Express) lanes are high-speed data transfer channels that connect various components in a computer system, including the graphics card. The number of PCIe lanes available on a motherboard can affect FPS in the following ways:
 
 1. **Graphics card selection**: The number of PCIe lanes on a motherboard can limit the type of graphics card you can use. A graphics card with higher performance requirements, such as a high-end gaming graphics card, may require more PCIe lanes than what is available on the motherboard. This can limit your ability to achieve the highest FPS possible.
+
+
 2. **Multi-GPU configurations**: If you want to run multiple graphics cards in a single system, you need to have enough PCIe lanes to support them. A motherboard with fewer PCIe lanes may limit the number of graphics cards you can use, impacting FPS.
+
+
 3. **Bandwidth**: The number of PCIe lanes determines the bandwidth available for the graphics card to transfer data. A graphics card with more bandwidth can process more data simultaneously, leading to improved FPS. A motherboard with fewer PCIe lanes may limit the bandwidth available to the graphics card, which can negatively impact FPS.
 
 Therefore, the number of PCIe lanes on a motherboard can directly affect the fps or the graphics card selection that will ultimately supervise the graphics performance. A motherboard with more PCIe lanes can provide more bandwidth and support for high-end graphics cards, leading to improved FPS. On the other hand, a motherboard with fewer PCIe lanes may limit the performance of the graphics card and FPS.
@@ -94,7 +108,11 @@ Therefore, the number of PCIe lanes on a motherboard can directly affect the fps
 The motherboard's VRM (Voltage Regulator Module) design supplies power to the CPU and other components. A top-notch VRM design ensures a stable and consistent power supply, which can enhance FPS and gaming performance.
 
 1. **Stable Power Delivery**: A VRM with many phases and high-quality components offers a more consistent power supply to the CPU and other components, resulting in improved game stability and performance.
+
+
 2. **Boosting Overclocking**: A high-quality VRM also enables better overclocking capabilities, which increases the performance of both the CPU and graphics card, thus improving FPS. In contrast, a VRM with subpar components may struggle to provide a stable power supply when overclocking, leading to decreased performance and FPS.
+
+
 3. **Thermal Efficiency**: Poor thermal performance of a VRM can cause overheating, leading to throttling, instability, and reduced game performance. In contrast, a VRM with an excellent thermal design and high-quality components keeps temperatures low, resulting in stable and consistent game performance.
 
 To sum up, the VRM design of a motherboard can significantly impact FPS and gaming performance by providing consistent power delivery, supporting overclocking, and ensuring good thermal performance. An excellent VRM design improves stability and performance, while a subpar design restricts the performance and stability of the system, including FPS.
