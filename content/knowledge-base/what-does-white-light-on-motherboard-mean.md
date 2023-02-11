@@ -10,7 +10,8 @@ meta_Description: What does white light on motherboard mean? Find out what a
 url: motherboards/what-does-white-light-on-motherboard-mean/
 author: Abdullah Sarfraz
 date: 2023-02-02T14:03:31.473Z
-updateDate: 2023-02-02T14:03:31.568Z
+updateDate: 2023-02-11T09:59:46.739Z
+featured_Image: /uploads/what-does-white-light-on-motherboard-mean.webp
 categories:
   - Motherboards
 ---
