@@ -1,7 +1,7 @@
 ---
 title: Can graphics card slow down computer?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Can GPU slow down computer?
 seo_title: Can graphics card slow down computer? Answer, reason & fixes
@@ -95,7 +95,7 @@ Dust buildup on the GPU and its cooling system can reduce airflow and cause over
 
 Numerous issues with your PC might be brought on by a virus or malware software. One of them is a slowdown PC.Use an antivirus or malware-scanning application to ensure your computer is not contaminated before using it for business.
 
- The Windows Defender tool offers many of the same protections to home users. A malware prevention tool can delete or quarantine harmful programs or data from your computer. When the infection is eliminated, your computer should operate normally.
+The Windows Defender tool offers many of the same protections to home users. A malware prevention tool can delete or quarantine harmful programs or data from your computer. When the infection is eliminated, your computer should operate normally.
 
 ### Background Processes
 
@@ -105,7 +105,7 @@ It's crucial to close unnecessary programs and background processes to free up r
 
 ## Fixes for a slow computer
 
-You can try the following fixes to resolve the issue of a graphics card slowing down your computer:
+> You can try the following fixes to resolve the issue of a graphics card slowing down your computer:
 
 ### Install new drivers updating.
 
