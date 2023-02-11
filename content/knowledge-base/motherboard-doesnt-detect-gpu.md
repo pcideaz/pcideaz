@@ -12,6 +12,7 @@ url: motherboards/motherboard-does-not-detect-gpu/
 author: Zohaib Hassan
 date: 2023-02-11T11:15:53.321Z
 updateDate: 2023-02-11T11:15:53.390Z
+featured_Image: /uploads/motherboard-doesn_t-detect-gpu.webp
 categories:
   - Motherboards
 ---
