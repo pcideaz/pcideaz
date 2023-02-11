@@ -1,7 +1,7 @@
 ---
 title: Can graphics card be upgraded in laptop?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Graphics cards upgradation in laptop?
 seo_title: Can graphics card be upgraded in laptop? [Methods here]
@@ -49,13 +49,12 @@ You can use a complete desktop GPU with your laptop when using a laptop GPU dock
 
 > **Note:** Upgrading the graphics using a GPU dock via Thunderbolt is an excellent way to upgrade the graphics. And while you aren't replacing the graphics card in your laptop, you are upgrading it in a sense.
 
-| **P﻿ros**                                                                                                                                                                                                                                                                                                                                                         | **C﻿ons**                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1﻿.** Better performance is made possible by desktop GPU supports.\
-**2﻿.** Better cooling capacity, making performance intensive workloads for long periods more feasible than they would otherwise be on a limited laptop.\
-**3﻿.** Additional features like USB hubs, Ethernet Ports, and support for external drives may be provided depending on the dock. | **1﻿.** Very expensive, often costing more than the graphics card you purchase. GPUs may be included in some eGPU enclosures, but those also often cost much more.\
-**2﻿.** Bandwidth restrictions will limit your GPUs performance.\
-**3﻿,** Thunderbolt 3 and 4 are both slower than the typical PCI Express x16 slot that a desktop GPU is built for, even if it is impossible to measure the exact performance deficit. |
+|                                                                                                                                                        |                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Pros**                                                                                                                                               | **Cons**                                                                                                                                                                             |
+| **1.** Better performance is made possible by desktop GPU support.                                                                                     | **1.** Very expensive, often costing more than the graphics card you purchase. GPUs may be included in some eGPU enclosures, but those also often cost much more.                    |
+| **2.** Better cooling capacity, making performing intensive workloads for long periods more feasible than they would otherwise be on a limited laptop. | **2.** Bandwidth restrictions will limit your GPU's performance.                                                                                                                     |
+| **3.** Additional features like USB hubs, Ethernet ports, and support for external drives may be provided depending on the dock.                       | **3.** Thunderbolt 3 and 4 are both slower than the typical PCI Express x16 slot that a desktop GPU is built for, even if it is impossible to measure the exact performance deficit. |
 
 **Which graphics cards work best with laptop GPU docks?** So after that, the question that arises in your mind is, what are the best graphic cards with a laptop GPU dock? The answer is. It would help if you used whatever GPU you can buy that offers your desired characteristics. In addition to the apparent need for a much stronger GPU than your laptop, the decision is primarily up to you. However, I recommend an AMD graphics card for gaming tasks and an Nvidia graphics card for professional activities.
 
