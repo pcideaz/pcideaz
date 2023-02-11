@@ -1,7 +1,7 @@
 ---
 title: "What is discrete graphics vs integrated graphics? "
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Discrete vs integrated graphics
 seo_title: "What is discrete graphics vs integrated graphics? "
@@ -66,10 +66,20 @@ A **dedicated graphics card** is entirely independent of your CPU. The GPU is 
 When choosing between discrete and integrated graphics, there are several factors to consider:
 
 * **Performance**: Discrete graphics cards, also known as dedicated graphics cards, have their own memory, processor, and cooling system separate from the CPU. These dedicated resources perform better than integrated graphics, which share memory and processing power with the CPU. This makes discrete graphics cards better suited for gaming or other graphics-intensive applications that require high frame rates and detailed graphics.
-* **Power consumption**: Discrete graphics cards consume more power than integrated graphics because they have their own processor and memory. This can concern laptop users or those looking to build a low-power system. It may also affect the battery life of laptops. You'll need to keep an eye on your PC’s temperature, as a dedicated graphics card may cause it to rise. 
-* **Cost**: Discrete graphics cards can be more expensive than integrated graphics. This can be a consideration for those on a budget looking for a cost-effective option. In short, if you want to save your bucks, the discrete graphics will suit you best. In contrast, the dedicated graphics are ideal if budget isn’t a concern. Instead, you want a powerful performance. 
-* **Future-proof**: For graphics-intensive gaming, video editing, and bitcoin mining, you need a dedicated GPU. You can get away with a CPU with integrated graphics for more general use, such as web browsing, most work-from-home tasks, and light gaming. In short, you must go for a discrete graphics card if you want a future-proof graphics solution. 
+
+
+* **Power consumption**: Discrete graphics cards consume more power than integrated graphics because they have their own processor and memory. This can concern laptop users or those looking to build a low-power system. It may also affect the battery life of laptops. You'll need to keep an eye on your PC’s temperature, as a dedicated graphics card may cause it to rise.
+
+
+* **Cost**: Discrete graphics cards can be more expensive than integrated graphics. This can be a consideration for those on a budget looking for a cost-effective option. In short, if you want to save your bucks, the discrete graphics will suit you best. In contrast, the dedicated graphics are ideal if budget isn’t a concern. Instead, you want a powerful performance.
+
+
+* **Future-proof**: For graphics-intensive gaming, video editing, and bitcoin mining, you need a dedicated GPU. You can get away with a CPU with integrated graphics for more general use, such as web browsing, most work-from-home tasks, and light gaming. In short, you must go for a discrete graphics card if you want a future-proof graphics solution.
+
+
 * **Compatibility**: Some motherboards may not be compatible with certain discrete graphics cards. It is essential to check compatibility before purchasing. Make sure the graphics card is compatible with the motherboard's interface and that the power supply unit provides enough power to the graphics card.
+
+
 * **Heat and noise**: Discrete graphics cards generate more heat and noise than integrated graphics because they have their own cooling system. This can be a concern if you want a quiet and cool system. In case you don’t want to distract yourself from what you’re doing, you must go for integrated graphics solutions. Or a dedicated graphics card with the lowest noise levels. 
 
 Ultimately, the best choice will depend on your specific needs and preferences. A discrete graphics card is likely the best choice if you're a gamer or use other graphics-intensive applications. If you're looking for a more cost-effective option or are primarily using your system for basic tasks such as web browsing and office work, integrated graphics may be sufficient.
