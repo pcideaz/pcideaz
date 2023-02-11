@@ -1,7 +1,7 @@
 ---
 title: Can’t remove GPU from motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Remove GPU from motherboard
 seo_title: Can’t remove GPU from motherboard? [Process Explained]
@@ -70,14 +70,18 @@ Since the clamps holding the side panel in place are secured by screws or bolts,
 
 * Once done, **carefully remove** the **opening side** of the case panel.
 
-**Note**: There may be different methods for opening a computer case depending upon the brands. The panel may have been attached in other ways by the manufacturer. Therefore, you should read the manual to better understand the removal process.
+> **Note**: There may be different methods for opening a computer case depending upon the brands. The panel may have been attached in other ways by the manufacturer. Therefore, you should read the manual to better understand the removal process.
 
 ### Step 4: Locate the graphics card
 
 As previously mentioned, it should be easy to locate the graphics card since it is close to the CPU and connected to the motherboard via a PCI-e slot. Most graphics cards have six- or eight-pin PCI-e power supply lines. You can remove the power connections of the graphics card from the motherboard as follows:
 
-* PCI-e cables feature a little **lever** underneath them. 
-* **Pull the lever down** gradually until it releases. 
+* PCI-e cables feature a little **lever** underneath them.
+
+
+* **Pull the lever down** gradually until it releases.
+
+
 * Take away these wires and any additional specialized cables that link the graphics card to other devices.
 
 ### Step 5: Remove the graphics card.
@@ -87,7 +91,7 @@ It’s essential to determine how the graphics card is mounted within the comput
 * You might need to **remove mounting brackets** or water-cooling hoses using a different technique depending on the type of connections.
 
 
-* The majority of dual graphics cards are linked together using an SLI bridge, which you need first to uninstall. 
+* The majority of dual graphics cards are linked together using an SLI bridge, which you need first to uninstall.
 
 
 * The GPU detaches from the panel but remains connected to the motherboard when these screws are removed.
