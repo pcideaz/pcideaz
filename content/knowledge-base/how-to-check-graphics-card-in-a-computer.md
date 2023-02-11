@@ -11,7 +11,8 @@ meta_Description: How to check graphics card in a computer? This article will
 url: graphics-cards/how-to-check-graphics-card-in-a-computer/
 author: Abdullah Sarfraz
 date: 2023-01-28T19:37:48.329Z
-updateDate: 2023-01-28T19:37:48.681Z
+updateDate: 2023-02-11T10:18:19.171Z
+featured_Image: /uploads/how-to-check-graphics-card-in-a-computer.webp
 categories:
   - Graphics Cards
 ---
