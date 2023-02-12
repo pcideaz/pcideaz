@@ -8,7 +8,7 @@ seo_title: How to clean your graphics card? [Process explained]
 meta_Description: How to clean your graphics card? Read this post to learn all
   the necessary tools and a step-by-step process to clean a graphics card.
 url: graphics-cards/how-to-clean-your-graphics-card/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-28T21:50:21.132Z
 updateDate: 2023-02-11T10:21:56.670Z
 featured_Image: /uploads/how-to-clean-your-graphics-card.webp
