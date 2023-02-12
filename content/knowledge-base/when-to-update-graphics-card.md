@@ -9,7 +9,7 @@ meta_Description: Graphics cards are one of the most important pieces of
   equipment you use every day. Find out when to update graphics card and how to
   do it.
 url: graphics-cards/when-to-update-graphics-card/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-20T10:47:34.836Z
 updateDate: 2023-02-02T14:50:29.628Z
 featured_Image: /uploads/when-to-update-graphics-card.webp
