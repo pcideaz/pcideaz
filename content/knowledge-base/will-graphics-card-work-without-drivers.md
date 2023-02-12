@@ -8,7 +8,7 @@ seo_title: Will graphics card work without drivers? [Answered]
 meta_Description: Will graphics card work without drivers? This post answered
   the query and introduced the benefits of drivers and a method to update them.
 url: graphics-cards/will-graphics-card-work-without-drivers/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-28T21:33:54.538Z
 updateDate: 2023-02-11T10:19:37.635Z
 featured_Image: /uploads/will-graphics-card-work-without-drivers.webp
