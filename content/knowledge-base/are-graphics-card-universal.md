@@ -9,7 +9,7 @@ meta_Description: Are graphics cards universal? There are a few factors that
   determine whether a graphics card is universal or not. Let’s explore such
   factors!
 url: graphics-cards/are-graphics-cards-universal/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-27T12:32:44.515Z
 updateDate: 2023-02-11T10:14:42.829Z
 featured_Image: /uploads/are-graphics-cards-universal.webp
