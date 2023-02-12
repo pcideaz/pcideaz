@@ -10,7 +10,7 @@ meta_Description: Should my GPU fans always be on? Read this post to determine
   more.
 meta_Keywords: ""
 url: graphics-cards/should-my-gpu-fans-always-be-on/
-author: Zohaib Hassan
+author: Zohaib Hassan Bhatti
 date: 2023-01-27T12:22:25.765Z
 updateDate: 2023-02-11T10:13:44.778Z
 featured_Image: /uploads/should-my-gpu-fans-always-be-on.webp
