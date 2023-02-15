@@ -8,7 +8,7 @@ seo_title: Can’t remove GPU from motherboard? [Process Explained]
 meta_Description: Can’t remove GPU from motherboard? Read this article, an
   in-detail step-by-step process on removing the graphics card from the
   motherboard.
-url: graphics-cards/can’t-remove-gpu-from-motherboard/
+url: graphics-cards/cannot-remove-gpu-from-motherboard/
 author: Abdullah Sarfraz
 date: 2023-01-27T12:18:41.953Z
 updateDate: 2023-02-11T10:13:19.766Z
