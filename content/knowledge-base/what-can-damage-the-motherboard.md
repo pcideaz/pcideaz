@@ -21,7 +21,7 @@ Therefore, the Motherboard of your laptop will suffer if anything creates a fast
 
 ## What can damage the Motherboard?
 
-You can do several things to ensure it continues to operate correctly. The Motherboard must be protected from harm before any other component. One of the costliest parts found in laptops and desktop computers is the Motherboard. You must look for a suitable motherboard if you need to replace the original Motherboard because it has been damaged in some way. The majority of individuals choose to purchase a laptop or desktop.
+You can do several things to ensure it continues to operate correctly. The Motherboard must be protected from harm before any other component. One of the costliest parts found in laptops and desktop computers is the Motherboard. You must look for a suitable motherboard if you need to replace the original Motherboard because it has been damaged in some way. The majority of individuals choose to purchase a laptop or desktop but if you wanna know [how to choose a motherboard](https://pcideaz.com/motherboards/how-to-choose-motherboard/) here is a guide for you.
 
 Because motherboards only operate on DC power, if your power supply malfunctions and instead supplies direct AC or AC with significant fluctuations, the Motherboard may be damaged. Use a high-quality surge protector to prevent electrical spikes and fluctuations from damaging your Motherboard. Physical damage, such as water damage or actual physical impact, is a typical reason motherboards are damaged. The Motherboard is usually adequately secured, but it might fail if the computer casing takes a significant blow.
 
