@@ -33,7 +33,7 @@ There are two leading brands to buy a processor, Intel and AMD, and both are kno
 
 ## How to choose motherboard?
 
-Have you chosen a CPU? If yes, it’s time to uncover a compatible motherboard to accommodate the processor. To do so, we must understand some factors that decide the compatibility and suitability between the motherboard and processor. 
+Have you chosen a CPU? If yes, it’s time to uncover a compatible motherboard to accommodate the processor. To do so, we must understand some factors that decide the compatibility and suitability between the motherboard and processor. If you have a passion about motherboards, you can come to know [how motherboards are made?](https://pcideaz.com/motherboards/how-motherboard-is-made/)
 
 ### Socket
 
