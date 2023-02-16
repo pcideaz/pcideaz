@@ -25,7 +25,7 @@ You can do several things to ensure it continues to operate correctly. The Mothe
 
 Because motherboards only operate on DC power, if your power supply malfunctions and instead supplies direct AC or AC with significant fluctuations, the Motherboard may be damaged. Use a high-quality surge protector to prevent electrical spikes and fluctuations from damaging your Motherboard. Physical damage, such as water damage or actual physical impact, is a typical reason motherboards are damaged. The Motherboard is usually adequately secured, but it might fail if the computer casing takes a significant blow.
 
-**This article describes a few typical reasons why motherboards are damaged.**
+> **This article describes a few typical reasons why motherboards are damaged.**
 
 ### **Particles of Dust**
 
