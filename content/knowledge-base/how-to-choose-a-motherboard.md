@@ -21,7 +21,7 @@ We have noticed an interesting trend in the tech market. Many customers have alr
 
 ## How does a motherboard work?
 
-Before diving straight into the topic, knowing how a motherboard works is essential to better understand the related aspects. Well, a motherboard is a printed circuit board (PCB) that’s why we also call it a mother circuit and holds most of the rig’s elements. In addition, it powers them to function and lets them communicate to perform their particular operations. In short, the computer manager supervises the power supply, storage devices, memory modules, graphics cards, and more.
+Before diving straight into the topic, knowing [how a motherboard works](https://pcideaz.com/motherboards/how-motherboard-works/) is essential to better understand the related aspects. Well, a motherboard is a printed circuit board (PCB) that’s why we also call it a mother circuit and holds most of the rig’s elements. In addition, it powers them to function and lets them communicate to perform their particular operations. In short, the computer manager supervises the power supply, storage devices, memory modules, graphics cards, and more.
 
 To understand its working principle, we need to better understand its structure. If we look at the top of the board, there are some electrical circuits, transistors, capacitors, slots, connectors, heat sinks, and more. Such structure stipulates that some signals must flow through the circuitry, and some other elements will connect via the provided connections or slot. If you’re thinking the same, then you’re totally right. Those circuits and ports are there to plug the components that we already mentioned above. 
 
