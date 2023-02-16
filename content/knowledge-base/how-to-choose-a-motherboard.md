@@ -71,7 +71,7 @@ BIOS, or Basic Input Output System, is a small piece of code or software that ru
 
 ### Networking and wireless communication
 
-A LAN Ethernet port is given with the motherboard to connect the Ethernet cable and utilize the system for networking. Many boards have dual LAN ports to build stronger web connections and secure links. The thing to remember is that the board has a modern networking connection like a 10-Gigabit Ethernet port. In addition, if a board has WiFi and Bluetooth, it becomes excellent to use these for wireless communications–I prefer a board with all these features. But you have to know on your on [can a motherboard limit internet speed](https://pcideaz.com/motherboards/can-motherboard-limit-internet-speed/)
+A LAN Ethernet port is given with the motherboard to connect the Ethernet cable and utilize the system for networking. Many boards have dual LAN ports to build stronger web connections and secure links. The thing to remember is that the board has a modern networking connection like a 10-Gigabit Ethernet port. In addition, if a board has WiFi and Bluetooth, it becomes excellent to use these for wireless communications–I prefer a board with all these features. But you have to know on your on [can a motherboard limit internet speed](https://pcideaz.com/motherboards/can-motherboard-limit-internet-speed/) or [affect internet speed?](https://pcideaz.com/motherboards/can-motherboard-affect-internet-speed/)
 
 ### Overclocking
 
