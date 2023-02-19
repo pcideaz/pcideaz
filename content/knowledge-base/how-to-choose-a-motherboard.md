@@ -103,6 +103,6 @@ Do you want your computer to glow? Do you have your mouse, keyboard, RAM kit, an
 
 ## Conclusion
 
-A good-quality motherboard will be the foundation whether you are assembling your own PC or just want to upgrade the previous one. Undoubtedly it’s a crucial piece in the system since it directly determines overall computer performance and supervises the selection of other elements. Since its selection is quite tricky and the market is crowded, we have decided to write this article. You can find out **how to pick the best motherboard** to make the best decision. 
+A good-quality motherboard will be the foundation whether you are assembling your own PC or just want to [upgrade the previous one](https://pcideaz.com/motherboards/when-to-upgrade-motherboard/). Undoubtedly it’s a crucial piece in the system since it directly determines overall computer performance and supervises the selection of other elements. Since its selection is quite tricky and the market is crowded, we have decided to write this article. You can find out **how to pick the best motherboard** to make the best decision. 
 
 Some factors can help you to uncover a perfect mother circuit for you and your PC. You must start with the compatibility between the board and CPU by checking the socket and chipset potential. Then take some time and check whether the board can let you accommodate enough volatile memory according to your usage. Moreover, you must ensure that the mobo is perfect for overclocking, cooling, and audio output and has an attractive look to match the rig’s construction.
