@@ -25,31 +25,31 @@ There are multiple factors or reasons that can damage the motherboard. When I sa
 
 > Possible reasons that can damage the motherboard includes as following:
 
-### 1. Dust particles
+### Dust particles
 
 The motherboard of your laptop or computer may become contaminated with dust and other filth if you don't maintain it frequently. Switches and contacts on the motherboard might become damaged by corrosive dust. Additionally, it might interfere with the processor's IC and fan, shortening the motherboard's lifespan. This isn’t that harmful if you take a few precautionary steps. All you have to do is to take the motherboard out of your system and **use a blower** to remove all the dust. You can also use a **makeup brush** to clean the dust. 
 
-### 2. Overheat
+### Overheat
 
 One of the biggest enemies of a motherboard is overheating or thermal mismanagement. A motherboard may overheat due to CPU and motherboard fan blockage. Your Motherboard may become hotter and eventually cause the entire system to overheat for various causes, including dust and voltage fluctuations. A malfunctioning motherboard's unpleasant scent might also indicate that the Motherboard is overheated. You must ensure that a suitable cooling system is installed in your PC and case vents aren’t blocked with dust. 
 
-### 3. Unsuitable power supply
+### Unsuitable power supply
 
 A power supply unit distributes power across the motherboard to all the connected components. Therefore, the power supply of your PC or laptop suffers from power transmission, and it may create a fast ripple in the supply voltage and feed that power to the device. Therefore, you must focus on putting a good-quality power supply into your computer so it smoothly provides power to the different components without damaging them. Ensure it has adequate power efficiencies and capabilities according to the PC's needs. 
 
-### 4. Bad CPU, GPU, or RAM
+### Bad CPU, GPU, or RAM
 
 A CPU, GPU, or RAM doesn’t mainly damage a motherboard but could sometimes. Suppose all of these or one of these components is damaged or poorly burnt due to excessive heat. In such a case, it would have melted on the surface of the motherboard or its circuit, causing the board to short-circuit. If this is the current condition, there is a considerable chance that the motherboard will be damaged soon. All you have to do is to remove these components from the motherboard and replace them with newer ones. 
 
-### 5. Physical damage
+### Physical damage
 
 Electronic components on the Motherboard of your computer or laptop may come loose and be harmed if you drop it or are accidentally hit by some other parts. This is because a motherboard is just a PCB embedded with complex circuitry and come components. If the circuitry or the components are damaged, they won’t perform as expected or are even broken sometimes. Additionally, this can result in a short circuit in your computer, which might harm the motherboard. So, avoid any physical damage to the motherboard or its components. 
 
-### 6. Liquid Damage
+### Liquid Damage
 
 If you have spilled some liquid on the motherboard in the past, there are chances that it would have damaged your motherboard. Even if you have just dropped your favorite cold drink on the computer, there is a danger that the motherboard will short circuit if any liquid spills on it. For your information, a liquid affects the board by triggering a chemical reaction and short-circuiting the motherboard. In such a case, you must pull the mother circuit out of the computer and let it dry under the sunlight or in some hot but safe environment. 
 
-### 7. Age
+### Age
 
 Another factor that may cause the motherboard to work improperly is its age. Suppose you purchased a motherboard a decade ago and haven’t upgraded up to this point. There are some chances it has expired, and you must buy a new one. The motherboard isn't indestructible, so it will be increasingly susceptible to harm as it ages. The **prevention**, in this case, is to use an all-new good-quality motherboard and replace the older one to get the most out of your computer. I suggest you go for a new one, then show the older one to an expert or technician. 
 
