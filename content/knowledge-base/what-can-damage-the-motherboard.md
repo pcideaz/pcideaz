@@ -51,7 +51,7 @@ If you have spilled some liquid on the motherboard in the past, there are chance
 
 ### Age
 
-Another factor that may cause the motherboard to work improperly is its age. Suppose you purchased a motherboard a decade ago and haven’t upgraded up to this point. There are some chances it has expired, and you must buy a new one. The motherboard isn't indestructible, so it will be increasingly susceptible to harm as it ages. The **prevention**, in this case, is to use an all-new good-quality motherboard and replace the older one to get the most out of your computer. I suggest you go for a new one, then show the older one to an expert or technician. 
+Another factor that may cause the [motherboard to work](https://pcideaz.com/motherboards/how-motherboard-works/) improperly is its age. Suppose you purchased a motherboard a decade ago and haven’t upgraded up to this point. There are some chances it has expired, and you must buy a new one. The motherboard isn't indestructible, so it will be increasingly susceptible to harm as it ages. The **prevention**, in this case, is to use an all-new good-quality motherboard and replace the older one to get the most out of your computer. I suggest you go for a new one, then show the older one to an expert or technician. 
 
 ## How can you prevent motherboard failure? 
 
