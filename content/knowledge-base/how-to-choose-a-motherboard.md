@@ -27,13 +27,13 @@ To understand its working principle, we need to better understand its structure.
 
 ## Platform: AMD or Intel?
 
-A CPU or central processing unit is the brain of any computer and performs all the calculations and decides the ins and outs of the system. The compatibility between the motherboard and CPU plays a crucial role in performing better and fully utilizing the computer’s capabilities. We're discussing the processor in the motherboard-related post; why? There are two possibilities: you either already have a chip and want to buy a motherboard, or you want to buy both components. If you fall in the second category, then keep reading else, skip this and go to the next section. But before choosing a motherboard, you need understand [what can damage the motherboard](https://pcideaz.com/motherboards/what-can-damage-the-motherboard/) or [can a motherboard bottleneck GPU](https://pcideaz.com/motherboards/can-motherboard-bottleneck-gpu/) [or CPU](https://pcideaz.com/motherboards/can-motherboard-bottleneck-cpu/).
+A CPU or central processing unit is the brain of any computer and performs all the calculations and decides the ins and outs of the system. The compatibility between the motherboard and CPU plays a crucial role in performing better and fully utilizing the computer’s capabilities. We're discussing the processor in the motherboard-related post; why? There are two possibilities: you either already have a chip and want to buy a motherboard, or you want to buy both components. If you fall in the second category, then keep reading else, skip this and go to the next section.
 
 There are two leading brands to buy a processor, Intel and AMD, and both are known for their particular specialties. Moreover, both have all types of products to fulfill all purposes, including web browsing, productivity, gaming, development, and more. So, which brand is better? Well, it depends upon your usage. If you primarily run those apps that require multiple processor cores, the AMD Ryzen processor can be the perfect option. In contrast, you can go to Intel’s side if you play games that require the fastest single-core performance. 
 
 ## How to choose motherboard?
 
-Have you chosen a CPU? If yes, it’s time to uncover a compatible motherboard to accommodate the processor. To do so, we must understand some factors that decide the compatibility and suitability between the motherboard and processor. If you have a passion about motherboards, you can come to know [how motherboards are made?](https://pcideaz.com/motherboards/how-motherboard-is-made/)and [how to clean a motherboard at home](https://pcideaz.com/motherboards/how-to-clean-a-motherboard-at-home/)?
+Have you chosen a CPU? If yes, it’s time to uncover a compatible motherboard to accommodate the processor. To do so, we must understand some factors that decide the compatibility and suitability between the motherboard and processor.
 
 ### Socket
 
@@ -71,7 +71,7 @@ BIOS, or Basic Input Output System, is a small piece of code or software that ru
 
 ### Networking and wireless communication
 
-A LAN Ethernet port is given with the motherboard to connect the Ethernet cable and utilize the system for networking. Many boards have dual LAN ports to build stronger web connections and secure links. The thing to remember is that the board has a modern networking connection like a 10-Gigabit Ethernet port. In addition, if a board has WiFi and Bluetooth, it becomes excellent to use these for wireless communications–I prefer a board with all these features. But you have to know on your on [can a motherboard limit internet speed](https://pcideaz.com/motherboards/can-motherboard-limit-internet-speed/) or [affect internet speed?](https://pcideaz.com/motherboards/can-motherboard-affect-internet-speed/)
+A LAN Ethernet port is given with the motherboard to connect the Ethernet cable and utilize the system for networking. Many boards have dual LAN ports to build stronger web connections and secure links. The thing to remember is that the board has a modern networking connection like a 10-Gigabit Ethernet port. In addition, if a board has WiFi and Bluetooth, it becomes excellent to use these for wireless communications–I prefer a board with all these features.
 
 ### Overclocking
 
