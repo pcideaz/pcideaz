@@ -39,7 +39,7 @@ A motherboard (also known as mother circuit, main circuit board, and mobo) is th
 
 In addition, the motherboard serves as a computer's power conductor and data infrastructure. Plugging different circuit cards into several comparable sockets on a single circuit board allows them to execute various jobs. Imagine a motherboard as a scale model of a future metropolis with several modular plugin structures powered by a single electrical system. The CPU offers a single socket, but there are typically one or more slots available for the memory. 
 
-This edition looks at how motherboards work and what they do. Each motherboard has connectors for the monitor, printer, mouse, keyboard, speaker, and network connections on the left side. Video cards, sound cards, and other expansion cards can be linked to the Motherboard via a peripheral card slot located in front of the Motherboard. All of the internal components can be connected via the Motherboard's connectors. Ribbon cables can connect the hard drive, optical drive, and floppy drive to ports on motherboards.
+This edition looks at how motherboards work and what they do. Each motherboard has connectors for the monitor, printer, mouse, keyboard, speaker, and network connections on the left side. Video cards, sound cards, and other expansion cards can be linked to the Motherboard via a [peripheral card slot located](https://pcideaz.com/graphics-cards/where-graphics-card-is-located/) in front of the Motherboard. All of the internal components can be connected via the Motherboard's connectors. Ribbon cables can connect the hard drive, optical drive, and floppy drive to ports on motherboards.
 
 ## Important motherboard parts & operations
 
