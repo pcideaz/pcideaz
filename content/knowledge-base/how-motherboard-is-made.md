@@ -33,35 +33,35 @@ The quantity of technology used in a motherboard's construction is no less signi
 
 You're about to learn in-depth about this demanding procedure.
 
-### 1. Making copper-clad laminate
+### Making copper-clad laminate
 
 The copper-clad laminate is a fiberglass insulation sheet with copper foil on both sides. The printed circuit board (PCB) generally has a thickness of 1.6mm. Accordingly, the copper foil will be around 0.035mm thick, and the Fibreglass laminates will be 0.35mm thick for a six-layer board.
 
-### 2. Removing undesired copper with an etchant
+### Removing undesired copper with an etchant
 
 The copper track pattern on each side of the insulating fiberglass board will connect the circuit's components. A core is the name of this assembly. Because of their layered architecture, there are more than two copper layers to cover on motherboards.
 
-### 3. Constructing a stack
+### Constructing a stack
 
 For a six-layer board, double-sided cores are utilized; however, they cannot be placed directly on top of one another since doing so would short the copper tracks on the top of the bottom core. Before being put under pressure and heated to a high temperature, prepreg sheets are added to the top and bottom of the stack.
 
-### 4. Making the holes
+### Making the holes
 
 It is customary to stack boards together to drill many holes at once, which saves time and money because drilling a PC's motherboard is a labor-intensive and time-consuming operation. Drilling may be time-consuming even when using a high-speed, numerically controlled drilling machine.
 
-### 5. Plating with copper and tin
+### Plating with copper and tin
 
 It would be wasteful to electroplate the entire board because most of the copper would eventually be etched away. Instead, a photo-resist is used, which is then exposed to UV light through artwork and developed, the same as when making the copper-clad laminate. Tin is then electroplated onto the board, which does three things: it resists corrosion, creates a surface that can be soldered to more readily than copper, and keeps the copper from tarnishing.
 
-### 6. Routing, testing, and quality assurance
+### Routing, testing, and quality assurance
 
 These are then divided using a numerically controlled router to make any necessary bigger non-plated holes and slots. A "bed-of-nails" tester, an automated procedure that probes both sides of the board, is then used to examine the board.
 
-### 7. Surfaces for attaching
+### Surfaces for attaching
 
 A PCB has SMCs printed on the top surface, then soldered to the board. On the pads where contacts will be connected, solder paste, a combination of solder powder and flux, is printed. The board is heated to 200C in a reflux oven before being soldered there.
 
-### 8. Packing and final testing
+### Packing and final testing
 
 Before they are marked as being prepared for packing, every component on a new motherboard must undergo a battery of tests. This is where the motherboard's cables, instructions, I/O shield, driver installer, and everything else are stored. As always, testing is simple to grasp and crucial for quality assurance.
 
