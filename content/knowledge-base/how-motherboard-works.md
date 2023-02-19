@@ -56,7 +56,7 @@ Every Motherboard is built to accommodate a particular set of hardware, such as 
 9. **USB ports** and **other connections** for external devices are examples of connectors for peripheral devices.
 10. The **power connection**, which connects to an external power source, and the backup battery guarantees that crucial system configuration data is kept when the primary power source is down.
 
-> **Note**: A standard motherboard is made up of several different components. Consider a computer's motherboard a giant mosaic of electrical connections connecting its numerous components.
+> **Note**: A standard [motherboard is made](https://pcideaz.com/motherboards/how-motherboard-is-made/) up of several different components. Consider a computer's motherboard a giant mosaic of electrical connections connecting its numerous components.
 
 ## How do motherboard components work together?
 
