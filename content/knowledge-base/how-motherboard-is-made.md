@@ -18,7 +18,7 @@ categories:
 ---
 The motherboard is an essential PC component that keeps all of its parts together in one location and enables them to communicate with one another. It allows all computer components to communicate, including the CPU, GPU, and hard drive. In addition, it also supervises the selection of all the elements that connect with it. An effective computer requires a fully operating motherboard since most components won’t function properly without a suitable motherboard.
 
-No doubt, how a motherboard works or how to choose a motherboard is essential to know to better understand the importance of a motherboard. But it’s crucial to understand how motherboard is made when selecting a good-quality motherboard. Suppose you want to understand the motherboard’s manufacturing process or are just an enthusiast interested in exploring more about this component. In this case, this post is perfect for you. Let’s uncover the mobo’s manufacturing process! 
+No doubt, [how a motherboard works](https://pcideaz.com/motherboards/how-motherboard-works/) or how to choose a motherboard is essential to know to better understand the importance of a motherboard. But it’s crucial to understand how motherboard is made when selecting a good-quality motherboard. Suppose you want to understand the motherboard’s manufacturing process or are just an enthusiast interested in exploring more about this component. In this case, this post is perfect for you. Let’s uncover the mobo’s manufacturing process! 
 
 ## How motherboard is made?
 
