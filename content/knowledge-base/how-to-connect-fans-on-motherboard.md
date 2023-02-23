@@ -10,7 +10,7 @@ meta_Description: How are motherboard fans connected? Read this post and get all
 url: motherboards/how-to-connect-fans-on-motherboard/
 author: Abdullah Sarfraz
 date: 2023-01-22T20:11:29.124Z
-updateDate: 2023-02-23T10:39:41.122Z
+updateDate: 2023-02-23T10:45:36.724Z
 featured_Image: /uploads/how-to-connect-fans-on-motherboard.webp
 categories:
   - Motherboards
