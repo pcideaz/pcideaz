@@ -40,7 +40,7 @@ A motherboard itself does not limit internet speed. However, the components conn
 
 ## Quick Tips to improve internet speed
 
-There are several ways to improve internet speed despite a limiting motherboard:
+> There are several ways to improve internet speed despite a limiting motherboard:
 
 1. **Check your internet connection**: This step ensures you get the internet speed you are paying for. To do this, you can run a speed test to measure your current internet speed and compare it to the speed you are paying for. This will let you know if you are getting the service you are paying for and if there is an issue with your internet speed.
 2. **Update your network card drivers**: The network card is the component in your computer that connects it to the internet. It communicates with the router or modem to send and receive data. Updating the drivers for your network card can improve the performance of the card and therefore improve your internet speed.
