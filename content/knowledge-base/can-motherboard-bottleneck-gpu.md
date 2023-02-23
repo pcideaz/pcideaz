@@ -46,7 +46,7 @@ There's been a lot of debate on this topic recently; we're here to help. In this
 
 ## What does "Bottlenecking" mean?
 
-The term "bottlenecking" gets tossed around a lot regarding graphics cards. In general, a bottleneck occurs when one component in a computer, such as a motherboard, limits the performance of another component, such as the GPU. In the case of graphics cards, bottlenecking is when your graphics card cannot function at its full potential due to another component in your computer. In most cases, this means that your motherboard is limiting the performance of your graphics card. 
+The term "bottlenecking" gets tossed around a lot regarding graphics cards. In general, a bottleneck occurs when one component in a computer, such as a motherboard, limits the performance of another component, such as the GPU. In the case of graphics cards, bottlenecking is when your graphics card cannot function at its full potential due to another component in your computer. In most cases, this means that your [motherboard is limiting the performance of your CPU](https://pcideaz.com/motherboards/can-motherboard-bottleneck-cpu/) or graphics card.
 
 ## Can motherboard bottleneck GPU?
 
