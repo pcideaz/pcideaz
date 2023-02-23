@@ -79,11 +79,16 @@ One of the critical features of U.2 drives is their "hot-swappable" capability, 
 
 U.2 drives connect to the motherboard using a U.2 connector and typically use the NVMe protocol for data transfer. NVMe provides fast read/write speeds and low latency, making U.2 drives suitable for demanding applications.
 
-
-
-
-
-
+|                                                      |                                                   |
+| ---------------------------------------------------- | ------------------------------------------------- |
+| **Pros**                                             | **Cons**                                          |
+| High performance and reliability                     | Expensive than SATA and M.2 drives                |
+| Hot-swappable capability                             | Limited U.2 ports on some motherboards            |
+| Supports large storage capacities                    | Higher power consumption than SATA and M.2 drives |
+| Faster data transfer speeds with NVMe protocol       |                                                   |
+| Low latencies                                        |                                                   |
+| Suitable for enterprise and data center applications |                                                   |
+| Improved thermal performance                         |                                                   |
 
 ## Which NVMe drive should you buy?
 
