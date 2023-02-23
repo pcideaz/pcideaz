@@ -78,7 +78,7 @@ Installing more RAM can help to reduce the number of times the CPU has to access
 
 Overclocking the CPU can help increase its performance, but it should be done carefully as it can cause a bottleneck if the other system components cannot handle the increased speed. Overclocking can result in the CPU running faster than the other components in the system, such as the memory and the motherboard, which can cause slowdowns.
 
-### Ensure proper cooling.
+### Ensure proper cooling
 
 Make sure that the CPU is adequately cooled to prevent it from overheating. Suitable and adequate cooling will help the CPU to perform at its best. Overheating can cause the CPU to slow down or even shut down, which can cause a bottleneck.
 
