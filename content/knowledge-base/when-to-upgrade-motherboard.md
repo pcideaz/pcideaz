@@ -61,7 +61,7 @@ The most frequent causes are driver, SLI bridge, GPU, motherboard, and PSU issue
 
 ### 7. Lacking the I/O you desire
 
-What if there aren’t enough USB ports or other connectors on your older motherboards? Well, you may need a new motherboard with all the desired connectivity options. Moreover, if the connections aren't [working on motherboard](https://pcideaz.com/motherboards/how-motherboard-works/) correctly or the ports are broken. In this case, you need to [upgrade the motherboard](https://pcideaz.com/motherboards/when-to-upgrade-motherboard/).
+What if there aren’t enough USB ports or other connectors on your older motherboards? Well, you may need a new motherboard with all the desired connectivity options. Moreover, if the connections aren't [working on motherboard](https://pcideaz.com/motherboards/how-motherboard-works/) correctly or the ports are broken. In this case, you need to upgrade the motherboard.
 
 ### 8. Want better overclocking
 
