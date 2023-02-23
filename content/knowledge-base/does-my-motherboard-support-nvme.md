@@ -11,6 +11,7 @@ url: motherboards/does-my-motherboard-support-nvme/
 author: Zohaib Hassan Bhatti
 date: 2023-02-23T18:41:22.903Z
 updateDate: 2023-02-23T18:41:23.006Z
+featured_Image: /uploads/does-my-motherboard-support-nvme.webp
 categories:
   - Motherboards
 ---
