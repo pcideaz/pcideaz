@@ -24,11 +24,7 @@ Although motherboards are not frequently changed, there comes a moment when upda
 If you are having any of the following problems, an update may be necessary:
 
 1. If your computer keeps turning down or starting up at odd times, your motherboard or power supply may fail.
-
-
 2. If the fans on your computer are spinning faster than usual or creating odd noises, there are chances that these need to be installed correctly—you don’t have to upgrade your motherboard.
-
-
 3. If your computer doesn't switch on, check if the power button is correctly linked to the motherboard. This is a typical issue with motherboard upgrades.
 
 ## When to upgrade motherboard?
@@ -65,7 +61,7 @@ The most frequent causes are driver, SLI bridge, GPU, motherboard, and PSU issue
 
 ### 7. Lacking the I/O you desire
 
-What if there aren’t enough USB ports or other connectors on your older motherboards? Well, you may need a new motherboard with all the desired connectivity options. Moreover, if the connections on the previous motherboard aren’t working correctly or the ports are broken. In this case, you need to upgrade the motherboard.
+What if there aren’t enough USB ports or other connectors on your older motherboards? Well, you may need a new motherboard with all the desired connectivity options. Moreover, if the connections aren't [working on motherboard](https://pcideaz.com/motherboards/how-motherboard-works/) correctly or the ports are broken. In this case, you need to [upgrade the motherboard](https://pcideaz.com/motherboards/when-to-upgrade-motherboard/).
 
 ### 8. Want better overclocking
 
@@ -76,20 +72,10 @@ You'll be able to take advantage of the newest technologies that allow for more 
 When updating your motherboard, you must follow these fundamental steps:
 
 * **Step 1: Uninstall the drivers**: Remove every driver for the motherboard you currently have. This contains the drivers for your sound and graphic cards, among others.
-
-
 * **Step 2: Backup your data**: Create a backup of your present system's critical data. Personal papers, settings, and other items are included.
-
-
 * **Step 3: Remove the peripherals**: Unplug every extra device from your present system. Your keyboard, mouse, monitor, etc., are all included in this.
-
-
 * **Step 4: Install the motherboard**: Now, it’s time to install the new motherboard. Carefully place it in its place and set the screws in their correct positions.
-
-
 * **Step 5: Connect the system's peripherals**: After installing the motherboard, it’s time to connect all the peripherals you just removed earlier in step 3.
-
-
 * **Step 6: Restore the system to its default settings**: Restore the system with all necessary data. Transfer your backup data and setting to your computer.
 
 ## Conclusion
