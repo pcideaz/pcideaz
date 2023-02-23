@@ -11,7 +11,7 @@ meta_Description: Can motherboard cause no display? Yes, if it’s damaged, has
 url: motherboards/can-motherboard-cause-no-display/
 author: Zohaib Hassan Bhatti
 date: 2023-01-27T12:15:04.394Z
-updateDate: 2023-02-11T09:55:39.849Z
+updateDate: 2023-02-23T14:26:47.454Z
 featured_Image: /uploads/can-motherboard-cause-no-display.webp
 categories:
   - Motherboards
@@ -31,8 +31,6 @@ The best line of action is obtaining the help of a computer expert. Before movin
 There are several potential causes for a computer with no display. Those may include as following: 
 
 * **Defective PC components**: A few of the most common ones include corrupted graphics drivers, defective memory modules, and faulty video cables or ports. Additionally, hardware components can become damaged due to overheating, caused by dust buildup in the case, or other internal parts that aren't functioning correctly, such as power supplies and cooling fans.
-
-
 * **Viruses & malware**: Furthermore, sometimes viruses can damage driver files on your hard drive, preventing them from loading correctly when you boot up your machine resulting in a black screen even though all of the Hardware checks out fine. 
 
 ## How to fix the "no display" problem?
@@ -61,7 +59,7 @@ Believe it or not, replacing better RAM can enhance the likelihood that it will 
 
 ### 6: Check PSU, processor, and motherboard
 
-The best way to test your PC is to utilize your CPU on a working motherboard because you can only test critical hardware with specialized equipment. If the **CPU** functions well on a different computer, go to other essential hardware components like the **motherboard** and **PSU** and test everything until you identify the problematic hardware. Suppose you found any issue regarding any of these components. In such a case, you must replace every faulty element to ensure that your computer works fine. 
+The best way to test your PC is to utilize your CPU on a [working motherboard](https://pcideaz.com/motherboards/how-motherboard-works/) because you can only test critical hardware with specialized equipment. If the **CPU** functions well on a different computer, go to other essential hardware components like the **motherboard** and **PSU** and test everything until you identify the problematic hardware. Suppose you found any issue regarding any of these components. In such a case, you must replace every faulty element to ensure that your computer works fine. 
 
 ## What are the safety tips for no-display issues?
 
