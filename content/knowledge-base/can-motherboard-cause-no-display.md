@@ -11,7 +11,7 @@ meta_Description: Can motherboard cause no display? Yes, if it’s damaged, has
 url: motherboards/can-motherboard-cause-no-display/
 author: Zohaib Hassan Bhatti
 date: 2023-01-27T12:15:04.394Z
-updateDate: 2023-02-23T14:26:47.454Z
+updateDate: 2023-02-23T18:18:53.351Z
 featured_Image: /uploads/can-motherboard-cause-no-display.webp
 categories:
   - Motherboards
@@ -31,6 +31,8 @@ The best line of action is obtaining the help of a computer expert. Before movin
 There are several potential causes for a computer with no display. Those may include as following: 
 
 * **Defective PC components**: A few of the most common ones include corrupted graphics drivers, defective memory modules, and faulty video cables or ports. Additionally, hardware components can become damaged due to overheating, caused by dust buildup in the case, or other internal parts that aren't functioning correctly, such as power supplies and cooling fans.
+
+
 * **Viruses & malware**: Furthermore, sometimes viruses can damage driver files on your hard drive, preventing them from loading correctly when you boot up your machine resulting in a black screen even though all of the Hardware checks out fine. 
 
 ## How to fix the "no display" problem?
