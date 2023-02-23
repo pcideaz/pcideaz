@@ -29,7 +29,7 @@ If you are having any of the following problems, an update may be necessary:
 
 ## When to upgrade motherboard?
 
-Upgrading your computer's motherboard is an important decision. Numerous things, like overheating or worn-out capacitors, might contribute to this. An alternative to buying a brand-new PC that may be less expensive is upgrading your computer's motherboard. It also offers benefits in terms of hardware support, better graphics support, and performance. In addition, not only does it help your computer run faster and smoother, but it can also improve the overall performance of your computer. 
+Upgrading your computer's motherboard is an important decision. Numerous things, like overheating or worn-out capacitors, might contribute to this. An alternative to buying a brand-new PC that may be less expensive is upgrading your computer's motherboard. It also offers benefits in terms of hardware support, [better graphics support](https://pcideaz.com/motherboards/can-my-motherboard-support-rtx-3060/), and performance. In addition, not only does it help your computer run faster and smoother, but it can also improve the overall performance of your computer. 
 
 Moreover, an up-to-date computer is essential for using the latest software, playing the newest games, and staying productive. Most of the time, when you upgrade your CPU, you also need to upgrade your motherboard. If your motherboard is broken or malfunctioning, or if you need to upgrade to a CPU incompatible with that motherboard, you must replace it. There is no need to update your motherboard or CPU if you are satisfied with them unless you are experiencing problems. Let’s uncover more reasons and signs when upgrading the motherboard is beneficial!
 
