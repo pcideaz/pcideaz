@@ -59,31 +59,31 @@ The M.2 drives connect to the motherboard using the PCIe interface, providing fa
 
 In summary, M.2 is a compact and flexible form factor for computer storage devices, commonly used in high-performance computing and gaming systems due to their fast data transfer speeds and low latency, made possible through the PCIe interface.
 
- 
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+|                              |                                            |
+| ---------------------------- | ------------------------------------------ |
+| **Pros**                     | **Cons**                                   |
+| Small form factor            | Expensive than SATA drives                 |
+| Faster data transfer speeds  | Limited compatibility with older systems   |
+| Low latency                  | Require specialized tools for installation |
+| Improved performance         | Thermal issue than SATA drives             |
+| Increased storage capacity   |                                            |
+| Improved reliability         |                                            |
+| Enhanced thermal performance |                                            |
+| Easy to upgrade.             |                                            |
 
 ### U.2 drives
 
 U.2 is a physical form factor for solid-state drives (SSDs), offering higher performance and reliability than SATA and M.2 drives. It was previously known as SFF-8639. It’s better than M.2 drives in terms of performance and speed.
 
- 
-
 One of the critical features of U.2 drives is their "hot-swappable" capability, which means they can be removed and replaced without shutting down the computer. This makes U.2 drives suitable for use in enterprise and data center applications where high performance and high availability are critical.
-
- 
 
 U.2 drives connect to the motherboard using a U.2 connector and typically use the NVMe protocol for data transfer. NVMe provides fast read/write speeds and low latency, making U.2 drives suitable for demanding applications.
 
- 
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
+
+
+
+
 
 ## Which NVMe drive should you buy?
 
