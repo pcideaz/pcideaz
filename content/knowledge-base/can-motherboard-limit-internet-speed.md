@@ -36,30 +36,18 @@ Other factors, such as the quality of your internet service, the number of devic
 
 ## How can a motherboard limit internet speed?
 
-A motherboard itself does not limit internet speed. However, the components connected to the motherboard, such as the network card or modem, may be outdated or malfunctioning and unable to support high speeds. Additionally, if the computer's CPU is overworked or lacks memory, the overall performance of the computer may be slowed, affecting internet speed. The quality of the internet connection and the service provider's bandwidth also play a role in determining internet speed.
+A motherboard itself does not limit internet speed. However, the components connected to the motherboard, such as the network card or modem, may be outdated or malfunctioning and unable to support high speeds. Additionally, if the computer's CPU is overworked or lacks memory, the overall performance of the computer may be slowed, [affecting internet speed](https://pcideaz.com/motherboards/can-motherboard-affect-internet-speed/). The quality of the internet connection and the service provider's bandwidth also play a role in determining internet speed.
 
 ## Quick Tips to improve internet speed
 
 There are several ways to improve internet speed despite a limiting motherboard:
 
 1. **Check your internet connection**: This step ensures you get the internet speed you are paying for. To do this, you can run a speed test to measure your current internet speed and compare it to the speed you are paying for. This will let you know if you are getting the service you are paying for and if there is an issue with your internet speed.
-
-
 2. **Update your network card drivers**: The network card is the component in your computer that connects it to the internet. It communicates with the router or modem to send and receive data. Updating the drivers for your network card can improve the performance of the card and therefore improve your internet speed.
-
-
 3. **Use a wired connection**: A wired connection is a direct connection to the router or modem using an ethernet cable. This type of connection tends to be faster and more stable than a wireless connection.
-
-
 4. **Close unnecessary programs**: Having too many programs running simultaneously can slow down your computer and, therefore, slow down your internet speed. Closing any programs, you are not using can help improve your internet speed.
-
-
 5. **Clear your browser cache**: The browser cache temporarily stores web pages, images, and other data in the browser. Over time, it can become cluttered and slow down the browser, slowing your internet speed. Clearing your browser cache regularly can help improve your internet speed.
-
-
 6. **Upgrade the modem**: Upgrading to a newer and faster modem can significantly improve your internet speed. This is because newer modems are generally more powerful and have better technology to handle faster internet speeds.
-
-
 7. **Check for malware**: Malware is malicious software that can infect your computer and slow it down, including your internet speed. Checking for malware and removing it can help improve your internet speed.
 
 ## Conclusion
