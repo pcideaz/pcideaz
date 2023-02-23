@@ -57,14 +57,8 @@ Yes, a motherboard can bottleneck a graphics card. This can happen when the moth
 Many factors cause a GPU bottleneck. Although defining the exact reasons can be challenging in some situations, the following are some of the most commonly used ones:
 
 * **Interface limitations**: The interface that connects the GPU to the rest of the system is typically a PCI-Express slot on the motherboard. using a newer-generation graphics card in an older-generation PCIe slot, such as PCI-Express 2.0 instead of PCI-Express 4.0, may limit the graphics card's performance. It can also happen if the graphics card is installed in a slot with fewer than suitable pins.
-
-
 * **Power delivery**: Graphics cards, especially high-performance models, require significant power to operate. A motherboard that cannot provide enough power to the GPU can cause bottlenecking, as the GPU may not perform at its full potential.
-
-
 * **Overclocking**: Overclocking is the process of making the GPU run at higher speeds than it is designed to. Some motherboards may be unable to handle the extra stress of overclocking, which can cause GPU bottlenecking. This is because the motherboard may not be able to provide enough power or cooling to support the higher speeds, resulting in the GPU's performance being limited.
-
-
 * **Cooling**: The GPU generates a lot of heat while in use, and this heat needs to be dissipated to prevent thermal throttling. A motherboard that does not have adequate cooling for the GPU can cause thermal throttling, which is when the GPU's performance is limited to prevent damage from overheating. This can cause a bottleneck in the GPU's performance.
 
 ## Solutions to motherboard causing GPU bottlenecking
@@ -105,6 +99,6 @@ However, it is essential to note that overclocking the GPU can also increase the
 
 ## Conclusion
 
-Motherboard bottlenecks are a common concern among PC enthusiasts and gamers looking to build or upgrade their systems or graphics cards. A bottleneck occurs when one component in a computer, such as a motherboard, limits the performance of another component, such as the GPU. In most cases, the motherboard limits the graphics card's performance. A motherboard can bottleneck a graphics card when its capabilities are insufficient to support its performance.
+Motherboard bottlenecks are a common concern among PC enthusiasts and gamers looking to build or [upgrade graphics cards](https://pcideaz.com/graphics-cards/when-to-update-graphics-card/) or their systems. A bottleneck occurs when one component in a computer, such as a motherboard, limits the performance of another component, such as the GPU. In most cases, the motherboard limits the graphics card's performance. A motherboard can bottleneck a graphics card when its capabilities are insufficient to support its performance.
 
 This can happen if there is an outdated or slow interface for connecting to the GPU, insufficient power delivery, inadequate cooling, or the motherboard cannot handle overclocking. To avoid this, ensuring that the motherboard is compatible with the graphics card and has the necessary features to support its performance is crucial. Solutions include using a suitable and compatible motherboard, a PCIe x16 extension, or overclocking the graphics card.
