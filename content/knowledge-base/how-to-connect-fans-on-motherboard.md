@@ -10,7 +10,7 @@ meta_Description: How are motherboard fans connected? Read this post and get all
 url: motherboards/how-to-connect-fans-on-motherboard/
 author: Abdullah Sarfraz
 date: 2023-01-22T20:11:29.124Z
-updateDate: 2023-02-11T09:52:25.549Z
+updateDate: 2023-02-23T10:39:41.122Z
 featured_Image: /uploads/how-to-connect-fans-on-motherboard.webp
 categories:
   - Motherboards
@@ -27,8 +27,6 @@ You will need the following to connect your fans to your motherboard:
 
    > **Note**: Mostly, 3-pin and 4-pin connectors are on the motherboard to accommodate respective fans. A **3-pin connection** contains three wires: ground, power, and tachometer. Molex connections are simple to identify. A 4-pin has the same wires as the 3-pin but with an additional fourth wire to control the fan's speed.
 2. Suitable **fans**, 3-pin or 4-pin, that you want to connect with the motherboard.
-
-
 3. A **screwdriver** to disassemble and assemble the PC components.
 
    > **Note**: Suppose there is not a suitable connector on the motherboard. In such a case, you would need an adapter to properly connect the fan to the motherboard. Adapters are available for the most popular fan types, including 3-pin, 4-pin, and Molex. You can generally locate the correct adapter by checking your fan's model number or specs online.
@@ -46,14 +44,8 @@ In this article section, we will check an in-detail method to connect fans to th
 > **Note**: you can check the number of headers by visually analyzing your motherboard or by checking from the brand’s official website. This information is crucial since you would need a 3-pin or 4-pin fan connector splitter if your motherboard doesn’t have enough fan headers.
 
 * **Step 3:** The next step is to prepare the fan, motherboard, and the required components to connect the fans to the motherboard.
-
-
 * **Step 4:** Remove the back of the fan by unscrewing the four screws on the back. There should be a small connector near the screw. This is the 3-pin connector. Unplug it and set it aside.
-
-
 * **Step 5:** Now, locate the CPU_FAN header on your motherboard. It will be near the CPU and have a few small pins sticking out. This is where we will plug in our fan connector.
-
-
 * **Step 6:** Now, it’s time to install the fans on the motherboard. The 3-pin fan connector has three square holes in it. Plug the fan into the 4-pin header on the motherboard. The fourth pin on 4-pin PWM fans is blank in a 3-pin configuration.
 
 > **Note**: **Press the connection firmly** until it locks into place. But don’t push it too hard since it may damage the pins.
@@ -71,8 +63,6 @@ In this article section, we will check an in-detail method to connect fans to th
 > **Note**: Many case fans come with mounting screws, so grab those. If yours does not have screws, you can use the same type of screws you used for mounting the motherboard.
 
 * **Step 9**:  **Close the PC casing** and connect your **speaker**, data, and power supply cords.
-
-
 * **Step 10**: After everything is done, it’s time to **test the connected fans**. For this, switch on your computer > enter **BIOS mode** > select **CPU Fan** > Enable under **Fan Control** > **save** your modifications, then quit BIOS.
 
 ## How to test CPU fans after installation?
@@ -80,11 +70,7 @@ In this article section, we will check an in-detail method to connect fans to th
 Once your fan is installed, it's time to check if it works.
 
 * **Step 1**: To do this, you will need to **start your computer** and make sure the fan runs when it starts up.
-
-
 * **Step 2**: If everything looks good, **access the BIOS menu** of your motherboard > select **CPU Fan** > Enable under **Fan Control** > **save** your modifications, then quit BIOS.
-
-
 * **Step 3**: **Adjust the fan speed** at which the fan operates.
 
 > **Note**: If your fan is a 4-pin PWM model with 4 square holes and 4 wires, you can use software like SpeedFan or HWMonitor to monitor and control the speed of your fan. You can also use these programs if you connect a 3-pin fan to the SYS FAN 1 header on your motherboard, as they will still work together. Remember that if both types of fans are used on one system, they must have the exact notches for connection.
