@@ -50,7 +50,7 @@ The term "bottlenecking" gets tossed around a lot regarding graphics cards. In g
 
 ## Can motherboard bottleneck GPU?
 
-Yes, a motherboard can bottleneck a graphics card. This can happen when the motherboard's capabilities are insufficient to support the graphics card's performance. In GPU bottlenecking, your graphics card cannot send data to your motherboard fast enough. This means that the data has to wait in a queue, which can cause your graphics card to slow down and affect your gameplay or other graphics-intensive activities.
+Yes, a motherboard can bottleneck a graphics card. This can happen when the motherboard's capabilities are insufficient to support the graphics card's performance. In GPU bottlenecking, your graphics card cannot send data to your motherboard fast enough. This means that the data has to wait in a queue, which can cause your [graphics card to slow down](https://pcideaz.com/graphics-cards/can-graphics-card-slow-down-computer/) and affect your gameplay or other graphics-intensive activities.
 
 ## Reasons a motherboard causing GPU bottleneck
 
