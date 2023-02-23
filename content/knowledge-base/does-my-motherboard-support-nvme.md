@@ -55,7 +55,7 @@ In conclusion, you can determine if your motherboard supports NVMe by checking i
 
 ## What are the different types of NVMe drives?
 
-NVMe drives come in two main types: **M.2 and U.2**. Let’s discuss these types of NVMe drives in detail!
+> NVMe drives come in two main types: **M.2 and U.2**. Let’s discuss these types of NVMe drives in detail!
 
 ### M.2 drives
 
@@ -101,26 +101,12 @@ U.2 drives connect to the motherboard using a U.2 connector and typically use th
 Once you've determined that your motherboard supports NVMe, the next step is to decide which NVMe drive you should purchase. Consider the following factors to choose which NVMe drive will work for you:
 
 * **Capacity**: How much storage space do you need? NVMe drives are available in various capacities, ranging from 256 GB to 4 TB or more.
-
-
 * **Performance**: Look for an NVMe drive with high read and write speeds. Look for sequential read and write speeds, as well as random read and write speeds.
-
-
 * **Reliability**: Consider the brand and the warranty offered. Look for drives with high endurance ratings, which indicate the number of write cycles the drive can withstand before failing.
-
-
 * **Compatibility**: Ensure the NVMe drive is compatible with your motherboard and your computer's operating system.
-
-
 * **Price**: NVMe drives can be more expensive than SATA drives. Consider your budget when choosing an NVMe drive.
-
-
 * **Form factor**: Consider the size and shape of the NVMe drive. M.2 and U.2 are the two most common form factors for NVMe drives.
-
-
 * **Cooling**: NVMe drives can generate a lot of heat, especially during intense workloads. Look for drives with built-in heat sinks, or consider adding a separate heat sink to your NVMe drive.
-
-
 * **Brand**: Consider the brand of the NVMe drive. Some popular brands include Samsung, Western Digital, Crucial, and Intel.
 
 > In summary, the choice of an NVMe drive depends on several factors, including capacity, performance, reliability, compatibility, price, form factor, cooling, and brand.
