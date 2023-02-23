@@ -67,7 +67,7 @@ You can try several quick solutions if a motherboard is causing a graphics card 
 
 ### Use a suitable motherboard.
 
-Using a motherboard compatible with your graphics card is essential in avoiding potential bottlenecks and ensuring optimal performance for your system. Using a compatible motherboard means that the GPU can transfer data to the rest of the system at the highest speeds possible and will have enough power and cooling to operate at its full potential. This will help to ensure a lag-free gaming experience.
+Using a motherboard compatible with your graphics card is essential in avoiding potential bottlenecks and ensuring optimal performance for your system. Using a compatible motherboard means that the GPU can transfer data to the rest of the system at the highest speeds possible and will have enough power and cooling to operate at its full potential. This will [help to ensure a lag-free experience](https://pcideaz.com/graphics-cards/can-graphics-card-cause-lag/) of gaming.
 
 A motherboard that is not compatible with your graphics card can limit the performance of the GPU by having a slow or outdated interface for connecting to the GPU, such as PCI-Express 2.0 instead of PCI-Express 4.0, or by not having enough power delivery or cooling capabilities to support the graphics card. In short, if the motherboard isn’t as good as the GPU, you must replace it with a new one.
 
