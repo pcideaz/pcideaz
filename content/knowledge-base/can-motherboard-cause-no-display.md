@@ -41,7 +41,7 @@ When you turn on your computer, it's sometimes possible that the display remains
 
 Verify the video connection is correctly connected and that your monitor is turned on. If nothing appears on the screen of your computer, there can be an internal or external issue. Try repeatedly pressing the **NumLock** or **CapsLock** keyboard key to see whether the keyboard's light blinks. If the external cables are fine, the computer will start working correctly without any errors.
 
-### 2: Check your Graphics Card 
+### 2: [Check your Graphics Card](https://pcideaz.com/graphics-cards/how-to-check-graphics-card-in-a-computer/)
 
 An additional motherboard component, an external graphics processing unit, is typically put on the PC's motherboard. It is the one that performs all graphical operations and shows graphic images to computer users. Before beginning, ensure all **peripheral devices' cables** have been **disconnected**, then place your computer on the table. Wear the **ESD Grounding Anti-Static Wrist Straps** as well. Most of the time, all the graphics card needs for a physical connection to the motherboard to function correctly is a thorough cleaning.
 
