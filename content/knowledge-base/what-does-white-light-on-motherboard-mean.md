@@ -97,7 +97,7 @@ The central processing unit (CPU) is the heart of the computer, and if it's faul
 When buying a CPU, consider the following:
 
 1. **Socket compatibility**: Ensure the CPU is compatible with the socket type on your motherboard.
-2. **Motherboard chipset**: You must also consider the motherboard’s chipset when choosing a CPU. Check the chipset and choose a compatible processor.
+2. **Motherboard chipset**: You must also [consider the motherboard’s chipset](https://pcideaz.com/motherboards/which-functions-does-a-motherboard-chipset-perform/) when choosing a CPU. Check the chipset and choose a compatible processor.
 3. **Processor architecture**: Choose the correct architecture (e.g. Intel Core, AMD Ryzen) based on your needs and budget.
 4. **Core count**: More cores usually mean better performance but also higher cost. Consider your workload to determine the right core count.
 5. **Clock speed**: Higher clock speed usually means better performance and higher cost and power consumption.
