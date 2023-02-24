@@ -75,7 +75,7 @@ In conclusion, having less RAM than required can significantly impact the perfor
 
 ## How much RAM does a PC need?
 
-Your computer's RAM requirements will vary depending on your use. Most of the time, 8GB is sufficient for simple tasks like word processing or web browsing. On the other hand, you may [choose more RAM for gaming](https://pcideaz.com/ram/how-to-choose-the-best-ram-for-gaming/), memory-intensive software, and multitasking. Among the jobs requiring a lot of RAM are video editing, music production, and even photo editing.
+Your computer's RAM requirements will vary depending on your use. Most of the time, 8GB is sufficient for simple tasks like word processing or web browsing. On the other hand, you may [choose more RAM for gaming](https://pcideaz.com/rams/how-to-choose-the-best-ram-for-gaming/), memory-intensive software, and multitasking. Among the jobs requiring a lot of RAM are video editing, music production, and even photo editing.
 
 ## Conclusion
 
