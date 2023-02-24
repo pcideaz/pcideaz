@@ -56,7 +56,7 @@ The chipset handles communication between the processor and external devices, su
 
 ### Providing power
 
-The chipset helps manage power delivery to all of the components on the motherboard, ensuring that they receive enough power to operate correctly.
+The chipset helps manage [motherboard's power delivery](https://pcideaz.com/motherboards/how-many-watts-does-a-motherboard-use/) to all of the components, ensuring that they receive enough power to operate correctly.
 
 ### Data storage
 
