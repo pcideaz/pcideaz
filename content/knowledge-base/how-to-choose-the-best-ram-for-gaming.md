@@ -11,7 +11,7 @@ date: 2023-01-20T17:39:57.381Z
 updateDate: 2023-01-20T17:39:57.435Z
 featured_Image: /uploads/how-to-choose-the-best-ram-for-gaming.webp
 categories:
-  - RAM
+  - RAMs
 ---
 RAM or random access memory is one of the leading computer elements contributing to overall performance and speed. We know the fact that the processor picks the instructions from memory, and the process may take more than enough time, reducing the efficiency. The volatile memory or RAM takes the middle placement, stores the instructions, and passes them to the processor in no time. In this post, we’ll try our best to dig deep to answer the question: **how to choose the best RAM for gaming**?
 
