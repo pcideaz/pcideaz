@@ -12,7 +12,7 @@ meta_Keywords: ""
 url: motherboards/can-motherboard-boot-without-ram/
 author: Abdullah Sarfraz
 date: 2023-02-08T12:06:43.890Z
-updateDate: 2023-02-11T10:04:53.867Z
+updateDate: 2023-02-24T14:52:42.486Z
 featured_Image: /uploads/can-motherboard-boot-without-ram.webp
 categories:
   - Motherboards
