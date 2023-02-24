@@ -12,7 +12,7 @@ meta_Keywords: ""
 url: motherboards/can-motherboard-boot-without-ram/
 author: Abdullah Sarfraz
 date: 2023-02-08T12:06:43.890Z
-updateDate: 2023-02-24T14:52:42.486Z
+updateDate: 2023-02-24T17:31:43.252Z
 featured_Image: /uploads/can-motherboard-boot-without-ram.webp
 categories:
   - Motherboards
@@ -44,7 +44,7 @@ faqs:
       operating systems without needing external RAM on the primary system.
     question: Can a PC function without RAM?
   - answer: A motherboard may function without RAM. Yes, but only if you have the
-      proper BIOS and CPU that supports it. Although many contemporary BIOSes
+      proper BIOS and CPU that supports it. Although many contemporary BIOS
       allow for RAM-less booting, this feature isn't usually turned on by
       default. You can only accomplish something with your computer if it has
       installed RAM.
