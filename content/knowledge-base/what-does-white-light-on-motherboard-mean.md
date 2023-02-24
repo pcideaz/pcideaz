@@ -68,7 +68,7 @@ The most crucial step in fixing a white light on your motherboard is identifying
 If a problem with the power supply causes the white light, you can try replacing the power supply with a new one or a higher-wattage version. You may also need to check the power cables and ensure they are correctly connected. Suppose that you found the issue, and it’s related to the power supply unit. In such a case, replacing it is a good idea. Consider the following factors when buying one:
 
 1. **Wattage**: Ensure the PSU can provide [enough power for your system's components](https://pcideaz.com/motherboards/how-many-watts-does-a-motherboard-use/).
-2. **Compatibility**: Check that the PSU is compatible with your system's motherboard, CPU, and graphics card.
+2. **Compatibility**: Check that the PSU is [compatible with your system's motherboard, graphics card](https://pcideaz.com/graphics-cards/are-graphics-cards-compatible-with-any-motherboard/), and CPU.
 3. **Efficiency**: Look for a high-efficiency rating (e.g. 80 Plus Bronze, Silver, Gold, etc.) to reduce energy waste and save on electricity costs.
 4. **Cables**: Make sure the PSU comes with enough cables to connect all components and that they are the correct length.
 5. **Brand reputation**: Consider buying from a reputable brand that offers reasonable warranties and customer support.
