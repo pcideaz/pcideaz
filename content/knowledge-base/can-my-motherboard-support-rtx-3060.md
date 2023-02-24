@@ -31,7 +31,7 @@ You must know can my motherboard supports RTX 3060 to get the most out of the gr
 
 ## Factors for the RTX 3060’s compatibility  
 
-It is crucial to ensure that your motherboard is compatible with the graphics card. The compatibility of a motherboard with the RTX 3060 depends on several factors, such as the chipset, PCI Express 4.0 slot, minimum power supply, BIOS/UEFI version, and other features. Let’s explain these factors in detail!
+It is crucial to ensure that your motherboard is [compatible with the graphics card](https://pcideaz.com/graphics-cards/are-graphics-cards-compatible-with-any-motherboard/). The compatibility of a motherboard with the RTX 3060 depends on several factors, such as the chipset, PCI Express 4.0 slot, minimum power supply, BIOS/UEFI version, and other features. Let’s explain these factors in detail!
 
 ### Motherboard chipset
 
