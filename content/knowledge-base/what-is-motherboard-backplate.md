@@ -61,7 +61,7 @@ Installing a motherboard backplate is essential for ensuring proper placement an
 
 * **Make sure the backplate fits your motherboard:** Before beginning, check that the backplate matches up with the I/O shield of your motherboard.
 * **Line up the mounting holes:** To ensure a secure fit, line up the mounting holes on the backplate with the ones on your motherboard. You may need to use a screwdriver or other tool to help with this.
-* **Use thread locker:** Threadlocker is an adhesive that helps prevent the screws from loosening. This is important because any movement can cause damage to your motherboard.
+* **Use thread locker:** Threadlocker is an adhesive that helps prevent the screws from loosening. This is important because any movement [can cause damage to your motherboard](https://pcideaz.com/motherboards/what-can-damage-the-motherboard/).
 * **Double-check everything before you turn it on:** Make sure all the screws are securely fastened and there is no visible damage.
 
 By following these tips, you should be able to easily install a motherboard backplate and protect your hardware from damage. Knowing what a motherboard backplate is and how to install it correctly is essential for keeping your system running smoothly. Installing a motherboard backplate is relatively straightforward. 
