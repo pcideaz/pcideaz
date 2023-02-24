@@ -10,7 +10,7 @@ meta_Description: What motherboard slot has direct access to the north bridge?
 url: motherboards/what-motherboard-slot-has-direct-access-to-the-north-bridge/
 author: Zohaib Hassan Bhatti
 date: 2023-02-02T14:07:03.069Z
-updateDate: 2023-02-24T10:55:50.361Z
+updateDate: 2023-02-24T11:54:01.135Z
 featured_Image: /uploads/what-motherboard-slot-has-direct-access-to-the-north-bridge.webp
 categories:
   - Motherboards
@@ -44,9 +44,17 @@ The Northbridge is an essential component of any computer’s motherboard. The p
 Here are a few benefits of having a north bridge on a motherboard that will better teach you the importance of it:
 
 1. **Faster communication**: The north bridge provides a high-speed connection between the CPU and memory, allowing faster communication and improved system performance.
+
+
 2. **Better memory** access: The north bridge manages memory access, allowing the CPU to access memory quickly and efficiently.
+
+
 3. **More components supported**: The north bridge can also provide connections to other components such as graphics cards, sound cards, and storage devices, allowing for a more expanded system.
+
+
 4. **Improved multitasking**: By allowing the CPU to access memory and other components quickly and efficiently, the north bridge can improve overall system performance and allow for better multitasking.
+
+
 5. **Easy to upgrade**: Northbridge chips can be replaced or upgraded to improve system performance, making it easy to upgrade an older system.
 
 ## Maintenance and Replacement of Norther bridge
