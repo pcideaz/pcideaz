@@ -11,7 +11,7 @@ meta_Description: How many watts does a motherboard use? Learn about the power
 url: motherboards/how-many-watts-does-a-motherboard-use/
 author: Abdullah Sarfraz
 date: 2023-02-02T13:42:56.778Z
-updateDate: 2023-02-11T09:58:19.926Z
+updateDate: 2023-02-24T12:01:00.567Z
 featured_Image: /uploads/how-many-watts-does-a-motherboard-use.webp
 categories:
   - Motherboards
