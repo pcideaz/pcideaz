@@ -59,12 +59,12 @@ By taking the time to make sure that your motherboard is compatible with the RTX
 
 The RTX 3060 graphics card is one of the most powerful and can provide amazing visuals and performance for gamers, content creators, and other users. However, before purchasing this card, it’s essential to determine if your motherboard can support it.
 
-|                                                                                                |                                                    |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Advantages**                                                                                 | **Disadvantages**                                  |
-| Superior performance and graphics capabilities.                                                | Not all motherboards are capable of supporting it. |
-| Advanced features such as ray tracing, deep learning super-sampling (DLSS), NVIDIA Ansel, etc. |                                                    |
-| Support 4K and even 8K resolutions when paired with a compatible monitor.                      |                                                    |
+|                                                                                               |                                                    |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Advantages**                                                                                | **Disadvantages**                                  |
+| Superior performance and graphics capabilities.                                               | Not all motherboards are capable of supporting it. |
+| Advanced features such as ray tracing, deep learning super-sampling (DLSS), NVIDIA Ansel, etc |                                                    |
+| Support 4K and even 8K resolutions when paired with a compatible monitor.                     |                                                    |
 
 To determine if your motherboard can support this card, you will need to check the chipset, PCI Express 4.0 slot, power supply, BIOS/UEFI version, and other compatibility details. If your motherboard does not meet the necessary requirements, you will need to upgrade to a newer one that can handle the RTX 3060.
 
