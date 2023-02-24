@@ -75,7 +75,7 @@ The chipset on the motherboard plays a crucial role in determining the system's 
 
 1. **Overclocking**: Some motherboards have chipsets that support overclocking, which allows you to increase the CPU speed and other components for improved performance. A chipset that supports overclocking can provide additional headroom for boosting FPS.
 2. **Latency**: Latency refers to the delay in communication between components. A chipset with lower latency can reduce the time it takes for data to travel between components, leading to smoother gameplay and improved FPS.
-3. **Bandwidth**: The chipset controls the speed at which data is transferred between the components in the system. A chipset with higher bandwidth can allow for faster communication between the components, leading to improved FPS.
+3. **Bandwidth**: The [chipset controls the speed](https://pcideaz.com/motherboards/which-functions-does-a-motherboard-chipset-perform/) at which data is transferred between the components in the system. A chipset with higher bandwidth can allow for faster communication between the components, leading to improved FPS.
 
 The summary is that the motherboard’s chipset can significantly affect FPS in a gaming PC by controlling the system's bandwidth, latency, and overclocking capabilities. A chipset with higher performance can lead to improved FPS, while a chipset with lower performance may limit the system's performance, including FPS.
 
