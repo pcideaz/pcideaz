@@ -58,18 +58,12 @@ Here is a step-by-step guide to updating the BIOS without connecting a CPU to a 
 #### **Step 1: Download BIOS from the Official Manufacturer's Website**
 
 * **Go** to the **official website** of the motherboard manufacturer (ASRock, Asus, Gigabyte, or MSI).
-
-
 * Search for your **motherboard model** and search for the latest BIOS updates. 
-
-
 * **Download** the **latest BIOS update** from the "Support" or "Downloads" section.
 
 #### **Step 2: Extract and Rename the BIOS File**
 
 * **Extract** the **downloaded file** (likely a ZIP folder).
-
-
 * **Rename** the **file name** for ASRock, Gigabyte, or MSI motherboards as follows:
 
 **ASRock:** creative.rom
@@ -81,31 +75,19 @@ Here is a step-by-step guide to updating the BIOS without connecting a CPU to a 
 #### **Step 3: Format the USB Drive As FAT32 and Add BIOS File**
 
 * **Plug** in the **USB flash drive** into the system.
-
-
 * Format the drive as **FAT32**.
-
-
 * Transfer the renamed BIOS file to the root of the USB drive.
-
-
 * **Safely eject** the USB drive.
 
 #### **Step 4: Connect Your Power Supply Unit (PSU)**
 
 * **Connect** the **power supply unit** to the motherboard, 24-pin main power connector, and 8-pin CPU power connector to their accurate spots.
-
-
 * Connect the power supply unit to a wall outlet and turn it on
 
 #### **Step 5: Enter the BIOS Setup and Start the Flash Process**
 
 * **Connect** the **USB drive** to the motherboard via the **USB BIOS Flashback port**.
-
-
 * **Press** the **Flashback button** next to the port; keep pressing it for at least **3 seconds** until the light blinks.
-
-
 * The latest BIOS would have been installed into the motherboard up to this point. 
 
 ### Testing a motherboard without a CPU
@@ -115,57 +97,37 @@ You must ensure your motherboard is set up on a secure surface and linked to the
 #### **Step 1: Make your Motherboard Ready.**
 
 * **Remove your motherboard** from its **packaging** and **set it** on a conductive surface, such as anti-static foam or cardboard, or on the box itself.
-
-
 * Your motherboard will be destroyed if the solder points at the bottom make contact with any metallic surface when you switch it on.
 
 #### **Step 2: Connect the Power Connectors.**
 
 * Connect the power connectors from the power supply unit to the motherboard in appropriate slots.
-
-
 * Most motherboards include a 24-pin and an 8-in power connector for the motherboard and the CPU, respectively.
-
-
 * If your motherboard and system are older, a 4-pin connection is also included with the power supply unit.
 
-> **Note**: The 4 Pin power connector only provides roughly 140 watts to the CPU, compared to the 8-pin power connector, about 280 watts.
+> **Note**: The 4 Pin power connector only provides roughly 140 watts to the CPU, compared to the 8-pin power connector, about 280 watts. [Learn more about wattage](https://pcideaz.com/motherboards/how-many-watts-does-a-motherboard-use/) if you have confusion.
 
 #### **Step 3: Install the Additional Components (optional).**
 
 * You can now **install** any **additional parts**, including RAM, hard drives, and graphic cards.
-
-
 * But these parts will be useless and of little value without a CPU.
 
 #### **Step 4: Attach the Power supply Unit to the Wall Outlet.**
 
 * The next step is to **power up the power supply unit** by plugging it into the wall socket.
-
-
 * You can even **place the PSU** on a non-conductive surface to prevent any issues.
-
-
 * It’s suggested to **use** **rubber shoes** and non-conductor hand gloves when testing a motherboard or to do anything related to power.
 
 #### **Step 5: Turn on the Motherboard.**
 
 * The next step is to **turn on the motherboard**; you can use the switch pins or jump-start method.
-
-
 * For the **switch-pins method**, **locate** the **Power Switch Pins** on the motherboard and connect the power switch cable. Once connected, simply **turn on** the **motherboard** by pressing the power button.
-
-
 * If you want to use the **jump-start method**, you have to **touch** **both power switch pins** on the motherboard; you can use a flat-head screwdriver or some other metallic wires. 
 
 #### **Step 6: Check whether your motherboard is working.**
 
 * Up to this point, your motherboard should give you some **signs of life** if it’s in good working condition.
-
-
 * Those **working signs** can be beeping sounds, blinking LEDs, or other signs to show that a motherboard is turned on.
-
-
 * If you don’t get any sign of life in your motherboard or it’s not working as expected, it’s more likely dead.
 
 > **Note**: You must purchase a new motherboard and put that into your computer to take it back to life. Suppose you don’t have much knowledge about choosing a motherboard. In such a case, you can read this [motherboard buying guide](https://pcideaz.com/motherboards/how-to-choose-motherboard/) to make things easier. 
