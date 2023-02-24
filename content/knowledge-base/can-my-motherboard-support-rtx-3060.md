@@ -84,4 +84,4 @@ If you’re wondering if your motherboard can support an RTX 3060 graphics card,
 
 ## Conclusion
 
-If you're looking to upgrade your computer with a new graphics card, you need to determine whether or not your current motherboard can support it. You can consider the motherboard chipset, PCI Express 4.0 x16 slot, a minimum of 500 watts power supply unit, BIOS/UEFI version, and other factors. If you find a motherboard with all these features and aspects, you can pair the RTX 3060 with it and enjoy playing games or doing content creations.
+If you're looking to upgrade your computer with a new graphics card, you need to determine whether or not your current motherboard can support it. You can [consider the motherboard chipset](https://pcideaz.com/motherboards/which-functions-does-a-motherboard-chipset-perform/), PCI Express 4.0 x16 slot, a minimum of 500 watts power supply unit, BIOS/UEFI version, and other factors. If you find a motherboard with all these features and aspects, you can pair the RTX 3060 with it and enjoy playing games or doing content creations.
