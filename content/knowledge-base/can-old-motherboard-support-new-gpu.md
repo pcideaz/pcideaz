@@ -55,7 +55,7 @@ Once you have ensured that there are suitable power cords to connect the graphic
 
 BIOS, which stands for Basic Input/Output System, is a program that controls the communication between the computer's hardware and its operating system. In the context of adding a new GPU to an old motherboard, the compatibility of the BIOS is an essential factor. The GPU may require a BIOS that supports specific features or functionality, such as recognizing and using the GPU for graphical processing.
 
-If the motherboard's BIOS is not updated or does not support the GPU, the GPU may not work correctly or be recognized by the system.
+If the motherboard's BIOS is not updated or does not [support the GPU](https://pcideaz.com/motherboards/can-my-motherboard-support-rtx-3060/), the GPU may not work correctly or be recognized by the system.
 
 For example, an older motherboard may have a BIOS that does not support a new GPU's hardware or software features. In this case, the GPU may not be recognized by the system or perform optimally. To resolve this issue, the motherboard's BIOS must be updated to a version compatible with the GPU. This may involve updating the BIOS through a firmware update or by installing a newer version of the BIOS.
 
@@ -64,11 +64,7 @@ For example, an older motherboard may have a BIOS that does not support a new GP
 If a GPU is not compatible with a motherboard, it can result in several issues that can negatively impact the system's performance. Some of the problems that may occur include:
 
 1. **Unstable system**: If the GPU and motherboard are not correctly matched, it may cause stability issues and result in frequent system crashes or freezes.
-
-
 2. **Inability to operate**: If the GPU is incompatible with the motherboard, it may not work at all, and the system may not be able to utilize the GPU for graphical processing. This can result in reduced graphics performance or incomplete graphics output.
-
-
 3. **Reduced graphics performance**: If the GPU is only partially compatible with the motherboard, it may not perform optimally and result in reduced graphics performance.
 
 In short, if a GPU is not compatible with a motherboard, it can result in a range of issues that can impact the performance and stability of the system. It's crucial to ensure that the GPU and motherboard are compatible before purchasing to avoid these issues.
