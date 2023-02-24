@@ -49,7 +49,7 @@ The first way to determine whether your motherboard supports NVMe is to check it
 
 ### 2. Check the physical connection.
 
-If your motherboard does not have an explicit NVMe listing, there are still ways to determine if your motherboard is compatible with NVMe. The simplest way is to check the physical connection available on your motherboard. Most modern motherboards have an M.2 slot capable of connecting an NVMe drive. Additionally, many older motherboards have PCI-E slots supporting NVMe drives.
+If your motherboard does not have an explicit NVMe listing, there are still ways to determine if your motherboard is compatible with NVMe. The simplest way is to check the physical connection available on your motherboard. Most modern [motherboards have](https://pcideaz.com/motherboards/what-motherboard-do-i-have/) an M.2 slot capable of connecting an NVMe drive. Additionally, many older motherboards have PCI-E slots supporting NVMe drives.
 
 ### 3. Check the SSD Types.
 
