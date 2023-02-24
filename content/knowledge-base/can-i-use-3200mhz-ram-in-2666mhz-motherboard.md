@@ -51,7 +51,7 @@ First and foremost, the motherboard must be compatible with higher-speed memory 
 
 * To install 3200MHz RAM in a 2666MHz motherboard, you must first check your motherboard’s specifications.
 * Some motherboards are more restrictive and may only accept certain RAM speeds.
-* Additionally, if your motherboard has an integrated graphics card, you may need to adjust your graphics card’s BIOS settings to enable support for higher-speed RAM.
+* Additionally, if your motherboard has an [integrated graphics card](https://pcideaz.com/graphics-cards/what-is-discrete-graphics-vs-integrated-graphics/), you may need to adjust your graphics card’s BIOS settings to enable support for higher-speed RAM.
 
 ### BIOS compatibility
 
