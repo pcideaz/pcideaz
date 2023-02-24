@@ -75,17 +75,17 @@ The M.2 drives connect to the motherboard using the PCIe interface, providing fa
 
 In summary, M.2 is a compact and flexible form factor for computer storage devices, commonly used in high-performance computing and gaming systems due to their fast data transfer speeds and low latency, made possible through the PCIe interface.
 
-|                              |                                            |
-| ---------------------------- | ------------------------------------------ |
-| **Pros**                     | **Cons**                                   |
-| Small form factor            | Expensive than SATA drives                 |
-| Faster data transfer speeds  | Limited compatibility with older systems   |
-| Low latency                  | Require specialized tools for installation |
-| Improved performance         | Thermal issue than SATA drives             |
-| Increased storage capacity   |                                            |
-| Improved reliability         |                                            |
-| Enhanced thermal performance |                                            |
-| Easy to upgrade.             |                                            |
+|                              |                                                                                                                   |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Pros**                     | **Cons**                                                                                                          |
+| Small form factor            | Expensive than SATA drives                                                                                        |
+| Faster data transfer speeds  | [Limited compatibility with older systems](https://pcideaz.com/motherboards/can-old-motherboard-support-new-gpu/) |
+| Low latency                  | Require specialized tools for installation                                                                        |
+| Improved performance         | Thermal issue than SATA drives                                                                                    |
+| Increased storage capacity   |                                                                                                                   |
+| Improved reliability         |                                                                                                                   |
+| Enhanced thermal performance |                                                                                                                   |
+| Easy to upgrade.             |                                                                                                                   |
 
 ### U.2 drives
 
