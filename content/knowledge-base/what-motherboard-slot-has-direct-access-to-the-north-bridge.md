@@ -49,7 +49,7 @@ Here are a few benefits of having a north bridge on a motherboard that will bett
 4. **Improved multitasking**: By allowing the CPU to access memory and other components quickly and efficiently, the north bridge can improve overall system performance and allow for better multitasking.
 5. **Easy to upgrade**: Northbridge chips can be replaced or upgraded to improve system performance, making it easy to upgrade an older system.
 
-## Maintenance and Replacement of Notherbridge
+## Maintenance and Replacement of Norther bridge
 
 As with any other computer system component, it’s essential to properly maintain and replace the Northbridge when necessary. In most cases, this simply means ensuring that the motherboard slot with direct access to the Northbridge is appropriately installed and functioning. When this is done, it allows for more efficient communication between the CPU and RAM and access to other peripherals.
 
