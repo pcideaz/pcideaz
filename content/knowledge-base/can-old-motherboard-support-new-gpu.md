@@ -67,7 +67,7 @@ If a GPU is not compatible with a motherboard, it can result in several issues t
 2. **Inability to operate**: If the GPU is incompatible with the motherboard, it may not work at all, and the system may not be able to utilize the GPU for graphical processing. This can result in reduced graphics performance or incomplete graphics output.
 3. **Reduced graphics performance**: If the GPU is only partially compatible with the motherboard, it may not perform optimally and result in reduced graphics performance.
 
-In short, if a GPU is not compatible with a motherboard, it can result in a range of issues that can impact the performance and stability of the system. It's crucial to ensure that the GPU and motherboard are compatible before purchasing to avoid these issues.
+> In short, if a GPU is not compatible with a motherboard, it can result in a range of issues that can impact the performance and stability of the system. It's crucial to ensure that the GPU and motherboard are compatible before purchasing to avoid these issues.
 
 ## Conclusion
 
