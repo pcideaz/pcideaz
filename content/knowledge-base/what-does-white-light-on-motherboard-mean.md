@@ -85,7 +85,7 @@ When buying a RAM kit, you should consider the following factors:
 
 1. **Compatibility**: Ensure the RAM is compatible with your motherboard and the specific slot it will be inserted in.
 2. **Capacity**: Determine the amount of RAM you need for your specific use case, and choose a kit that meets or exceeds that capacity.
-3. **Speed**: The speed of RAM is measured in MHz and can affect system performance. Choose a RAM kit with speed supported by your motherboard and CPU.
+3. **Speed**: The speed of [RAM is measured in MHz](https://pcideaz.com/motherboards/can-i-use-3200mhz-ram-in-2666mhz-motherboard/) and can affect system performance. Choose a RAM kit with speed supported by your motherboard and CPU.
 4. **Timing**: Timing is the delay between sending a request and the arrival of the first data. The lower the timing, the better the performance.
 5. **Brand**: Consider the brand of the RAM kit you are buying and read reviews from other users to ensure its reliability and compatibility with your system.
 6. **Budget**: Consider your budget and choose a RAM kit that provides the best performance, reliability, and affordability balance.
