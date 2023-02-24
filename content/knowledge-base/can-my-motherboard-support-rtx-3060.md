@@ -10,7 +10,7 @@ meta_Description: Can my motherboard support RTX 3060? Check out our quick guide
 url: motherboards/can-my-motherboard-support-rtx-3060/
 author: Abdullah Sarfraz
 date: 2023-02-02T14:10:33.257Z
-updateDate: 2023-02-11T10:00:51.131Z
+updateDate: 2023-02-24T11:20:19.662Z
 featured_Image: /uploads/can-my-motherboard-support-rtx-3060.webp
 categories:
   - Motherboards
