@@ -12,7 +12,7 @@ meta_Keywords: ""
 url: motherboards/ims2-low-power-driver-motherboard/
 author: Abdullah Sarfraz
 date: 2023-02-08T12:13:01.680Z
-updateDate: 2023-02-11T10:05:35.124Z
+updateDate: 2023-02-24T17:40:54.741Z
 featured_Image: /uploads/ims2-low-power-driver-motherboard.webp
 categories:
   - Motherboards
@@ -120,7 +120,7 @@ The IMS2 low power motherboard is essential for building a reliable, robust syst
 * Next, install the BIOS firmware and ensure all your components are correctly recognized.
 * Finally, install all the necessary drivers and utilities for optimal performance. Once complete, your motherboard is ready for use.
 
-**Note**: Remember that depending on your system's configuration, you may need to install additional drivers or utilities. Additionally, monitoring and updating your drivers ensures that your system runs at peak performance. With these steps completed, your motherboard is ready to provide reliable performance and great results!
+> **Note**: Remember that depending on your system's configuration, you may need to install additional drivers or utilities. Additionally, monitoring and updating your drivers ensures that your system runs at peak performance. With these steps completed, your motherboard is ready to provide reliable performance and great results!
 
 ## Conclusion
 
