@@ -57,7 +57,7 @@ However, because there are several types of SSDs, you must go beyond SSD to conf
 
 ### 4. Check the Generation of the Chipset.
 
-Older motherboards may not support the latest generation of NVMe, which means the driver will not be detected. 4.0 protocols are yet to be available on all modern motherboards. This is important when upgrading an existing build or purchasing new parts. 
+[Older motherboards may not support](https://pcideaz.com/motherboards/can-old-motherboard-support-new-gpu/) the latest generation of NVMe, which means the driver will not be detected. 4.0 protocols are yet to be available on all modern motherboards. This is important when upgrading an existing build or purchasing new parts. 
 
 It's also essential to ensure your motherboard is compatible with the specific drive you plan to use. For example, some motherboards may support only PCIe 3.0 speeds, while other drives may require PCIe 4.0 speeds. Additionally, specific NVMe drives may require different power connectors than what is available on your motherboard. It is best to consult the drive and the motherboard specifications before purchasing a drive.
 
@@ -75,17 +75,17 @@ The M.2 drives connect to the motherboard using the PCIe interface, providing fa
 
 In summary, M.2 is a compact and flexible form factor for computer storage devices, commonly used in high-performance computing and gaming systems due to their fast data transfer speeds and low latency, made possible through the PCIe interface.
 
-|                              |                                                                                                                   |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Pros**                     | **Cons**                                                                                                          |
-| Small form factor            | Expensive than SATA drives                                                                                        |
-| Faster data transfer speeds  | [Limited compatibility with older systems](https://pcideaz.com/motherboards/can-old-motherboard-support-new-gpu/) |
-| Low latency                  | Require specialized tools for installation                                                                        |
-| Improved performance         | Thermal issue than SATA drives                                                                                    |
-| Increased storage capacity   |                                                                                                                   |
-| Improved reliability         |                                                                                                                   |
-| Enhanced thermal performance |                                                                                                                   |
-| Easy to upgrade.             |                                                                                                                   |
+|                              |                                            |
+| ---------------------------- | ------------------------------------------ |
+| **Pros**                     | **Cons**                                   |
+| Small form factor            | Expensive than SATA drives                 |
+| Faster data transfer speeds  | Limited compatibility with older systems   |
+| Low latency                  | Require specialized tools for installation |
+| Improved performance         | Thermal issue than SATA drives             |
+| Increased storage capacity   |                                            |
+| Improved reliability         |                                            |
+| Enhanced thermal performance |                                            |
+| Easy to upgrade.             |                                            |
 
 ### U.2 drives
 
