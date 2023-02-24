@@ -34,7 +34,7 @@ The chipset, an essential component of a computer's motherboard, has been around
 
 In the 1990s, this changed as integrated circuit technology became more advanced. This allowed the production of much more complex chipsets that could take on more processing power than their predecessors. In addition, these new chipsets could also support newer technologies such as USB, allowing faster data transfer and greater compatibility with different devices.
 
-Modern chipsets often consist of multiple chips arranged in a specific order to provide various features and capabilities. The most advanced chipsets can integrate many different components onto one chip, enabling faster performance and more powerful features. In addition, the latest generation of chipsets can also support newer technologies like PCI Express and NVMe, allowing even faster data transfer speeds.
+Modern chipsets often consist of multiple chips arranged in a specific order to provide various features and capabilities. The most advanced chipsets can integrate many different components onto one chip, enabling faster performance and more powerful features. In addition, the latest generation of chipsets can also [support newer technologies like PCI Express and NVMe](https://pcideaz.com/motherboards/does-my-motherboard-support-nvme/), allowing even faster data transfer speeds.
 
 ## Which functions does a motherboard chipset perform?
 
