@@ -43,19 +43,19 @@ But your motherboard must be compatible with the NVMe drives to get all these ad
 
 Several techniques can be used to determine the compatibility of a motherboard with the NVMe devices. We have discussed four ways for this process, and you can use any to determine compatibility. These include 
 
-### 1. Check the documentation.
+### Check the documentation.
 
 The first way to determine whether your motherboard supports NVMe is to check its documentation. If you look at the manual for your motherboard, it should tell you which type of drive it supports. Most motherboards list specifications like "NVMe 1.2", indicating that the motherboard supports NVMe drives. You can also look up your motherboard model online to see if it supports NVMe.
 
-### 2. Check the physical connection.
+### Check the physical connection.
 
 If your motherboard does not have an explicit NVMe listing, there are still ways to determine if your motherboard is compatible with NVMe. The simplest way is to check the physical connection available on your motherboard. Most modern [motherboards have](https://pcideaz.com/motherboards/what-motherboard-do-i-have/) an M.2 slot capable of connecting an NVMe drive. Additionally, many older motherboards have PCI-E slots supporting NVMe drives.
 
-### 3. Check the SSD Types.
+### Check the SSD Types.
 
 However, because there are several types of SSDs, you must go beyond SSD to confirm the motherboard has a slot for the NVMe SSD in particular. SATA SSDs, NVMe SSDs, and PCIe SSDs are examples of SSDs. Fortunately, the NVMe SSD and PCIe SSD slots are identical. Therefore the specification sheet may only include one. It is also known as PCIe NVMe SSD. NVMe uses PCIe lanes, much like a GPU connects to the motherboard.
 
-### 4. Check the Generation of the Chipset.
+### Check the Generation of the Chipset.
 
 [Older motherboards may not support](https://pcideaz.com/motherboards/can-old-motherboard-support-new-gpu/) the latest generation of NVMe, which means the driver will not be detected. 4.0 protocols are yet to be available on all modern motherboards. This is important when upgrading an existing build or purchasing new parts. 
 
