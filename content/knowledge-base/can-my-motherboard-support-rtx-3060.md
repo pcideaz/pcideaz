@@ -10,7 +10,7 @@ meta_Description: Can my motherboard support RTX 3060? Check out our quick guide
 url: motherboards/can-my-motherboard-support-rtx-3060/
 author: Abdullah Sarfraz
 date: 2023-02-02T14:10:33.257Z
-updateDate: 2023-02-24T11:20:19.662Z
+updateDate: 2023-02-24T11:53:34.323Z
 featured_Image: /uploads/can-my-motherboard-support-rtx-3060.webp
 categories:
   - Motherboards
@@ -73,11 +73,23 @@ To determine if your motherboard can support this card, you will need to check t
 If you’re wondering if your motherboard can support an RTX 3060 graphics card, there are several factors to consider. First, you must ensure your motherboard has the right chipset, PCI Express slot, and power supply to support the card. Here are a few other essential tips to consider when selecting and installing a new motherboard:
 
 * [Choose a motherboard](https://pcideaz.com/motherboards/how-to-choose-motherboard/) that offers a wide range of ports, allowing you to connect more peripherals.
+
+
 * Make sure the motherboard is compatible with the operating system and software you plan to use.
+
+
 * Ensure your chosen [motherboard has enough RAM slots to upgrade](https://pcideaz.com/motherboards/what-motherboard-slot-has-direct-access-to-the-north-bridge/).
+
+
 * Check that your motherboard has a BIOS or UEFI version that supports the RTX 3060.
+
+
 * Before buying, check that the manufacturer provides adequate technical support for the product.
+
+
 * Pay close attention to the instructions when installing your new motherboard. Be sure to avoid potential mistakes and ensure everything is connected correctly.
+
+
 * To ensure maximum performance, always install the latest drivers for your motherboard and graphics card.
 
 > Considering these steps, you can be sure that your motherboard can handle the power of an RTX 3060 graphics card.
