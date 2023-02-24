@@ -55,7 +55,7 @@ The IMS2 low-power driver motherboard is a versatile platform that can support a
 Here are the memory specifications of the motherboard
 
 * The IMS2 driver motherboard supports up to 32GB of DDR4 RAM.
-*  It can run both unbuffered and registered memory at speeds up to 2400MHz.
+*  It can run both unbuffered and registered [memory at speeds up to 2400MHz](https://pcideaz.com/motherboards/can-i-use-3200mhz-ram-in-2666mhz-motherboard/).
 * The IMS2 motherboard also features four DDR4 slots, making it compatible with dual-channel memory configurations.
 * The four slots can install two sets of 16GB sticks for 32GB of RAM. With the additional supported memory, users can optimize the performance of their IMS2 low-driver motherboard for their specific needs.
 
