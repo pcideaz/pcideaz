@@ -39,7 +39,7 @@ However, a modern graphics card can simultaneously process many instructions. It
 
 Then, via a wire connected to the card’s video output, this information zips from your graphics card to your monitor, where the shading, textures, lines, images, and lighting are updated. It appears magical if done correctly and without forcing the graphics card or other computer components to execute tasks beyond their capabilities. The description provided above is straightforward. That is a general description of how a graphics card operates; there is much more behind the surface.
 
-## [How do I choose a GPU](https://pcideaz.com/graphics-cards/how-to-choose-graphics-card/) for my CPU?
+## [How do I choose a GPU for my CPU](https://pcideaz.com/graphics-cards/how-to-choose-graphics-card/)?
 
 The global chip shortage that caused GPU (and other PC hardware) prices to rise is still being resolved at the time of writing. But once costs decline back to reasonable levels, you might be interested in how to select a graphics card for your computer. There are a few factors to consider:
 
