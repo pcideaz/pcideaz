@@ -38,7 +38,7 @@ Thirdly, You have a dying graphics card. Usually, you won't notice that your gra
 
 ### Due to GPU bottleneck:
 
-The other one is GPU slowdown or GPU bottleneck. This indicates that the GPU is not performing at its best, which may lead to fewer frames per second being produced. So the bottleneck makes the GPU performance limited. This is one of the main reasons to update your graphics card.
+The other one is [GPU slowdown](https://pcideaz.com/graphics-cards/can-graphics-card-slow-down-computer/) or [GPU bottleneck](https://pcideaz.com/motherboards/can-motherboard-bottleneck-gpu/). This indicates that the GPU is not performing at its best, which may lead to fewer frames per second being produced. So the bottleneck makes the GPU performance limited. This is one of the main reasons to update your graphics card.
 
 ### When you use several monitors: 
 
