@@ -23,7 +23,7 @@ Choosing a compatible graphics unit has become a headache since the market has e
 
 ## How much can you spend?
 
-The price of the video cards varies quickly with the technologies, specifications, and features they are offering. Most of the time, you need to spend a healthy amount of bucks to get a good performance level. It’s apparent that you need to pay well if you want good. You can easily find the products starting from $100 and reaching up to $2000 and even more. But the question is, are they worth it?
+The price of [the video cards](https://pcideaz.com/graphics-cards/are-graphics-card-and-video-card-the-same/) varies quickly with the technologies, specifications, and features they are offering. Most of the time, you need to spend a healthy amount of bucks to get a good performance level. It’s apparent that you need to pay well if you want good. You can easily find the products starting from $100 and reaching up to $2000 and even more. But the question is, are they worth it?
 
 Well, the answer to this question lies in your head. You need to decide how much you can spend on a particular card. It is good to have more bucks to pay, but don’t go for something with a $2000 or more price tag–you must choose one with the best value. I suggest you be in the mid-range bracket and buy a graphics card with a budget-friendly price and an excellent graphics performance.
 
