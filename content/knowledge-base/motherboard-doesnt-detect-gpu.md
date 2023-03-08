@@ -91,7 +91,7 @@ Many people addressed the problem by upgrading their BIOS to the most recent ver
 
 ### 8. Uninstall Windows Updates
 
-Several reports of Windows updates have introduced a bug that causes drivers and other software issues. There is a straightforward solution to disable Windows updates. Although this option is only accessible for a limited time, it is worth exploring.
+Several reports of Windows updates have introduced a bug [that causes drivers](https://pcideaz.com/graphics-cards/will-graphics-card-work-without-drivers/) and other software issues. There is a straightforward solution to disable Windows updates. Although this option is only accessible for a limited time, it is worth exploring.
 
 * **Step 1:** **Press** and **hold** the **Windows key**.
 * **Step 2:** Choose **Updates & Security**.
