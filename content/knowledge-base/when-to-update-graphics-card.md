@@ -67,7 +67,7 @@ Another reason to update your graphics card is security. Graphics processors are
 
 If you're a dedicated gamer, you're probably always on the lookout for ways to improve your gaming experience. And one way to do that is by making sure your graphics card is up-to-date. But updating your graphics card can be a little intimidating if you've never done it before. So, in this post, I'm going to walk you through the process step-by-step.
 
-### Step 1: Check your graphics card
+### Step 1: [Check your graphics card](https://pcideaz.com/graphics-cards/how-to-check-graphics-card-in-a-computer/)
 
 You need to figure out what kind of graphics card you have. The best way to do this is to open up your computer and take a look. Once you know what model you have, you can head over to the manufacturer's website and download the latest driver.
 
