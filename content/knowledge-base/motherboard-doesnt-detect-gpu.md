@@ -62,7 +62,7 @@ Sometimes a simple solution is to set your graphics card as the default graphics
 
 ### 4. Examine the power supply
 
-Examine your power supply's power ratings and how much power your graphics card requires. The fact that your graphics card's fans are spinning does not imply that the power lines are correctly connected. Sometimes the graphic card is only half-powered, which might be causing this issue. You must purchase a separate power source if you require more power than the minimal requirements.
+Examine your power supply's power ratings and how much power your graphics card requires. The fact that your [graphics card's fans](https://pcideaz.com/graphics-cards/should-my-gpu-fans-always-be-on/) are spinning does not imply that the power lines are correctly connected. Sometimes the graphic card is only half-powered, which might be causing this issue. You must purchase a separate power source if you require more power than the minimal requirements.
 
 ### 5. Update the BIOS Settings
 
