@@ -28,7 +28,7 @@ It’s essential to introduce you to some crucial graphics card components befor
 * **Outputs**: Various video outputs are available on all the graphics cards to transfer the processed video signals from the graphics card to the display. These are mostly HDMI, DisplayPort, DVI, or VGA, and each can showcase different resolutions.
 * **Interface**: An interface is a specific graphics card’s part used to connect it directly to the motherboard. In simple words, it's a particular circuitry to communicate with the motherboard. Mostly, the current-era cards have PCIe Express, but AGP, ISA, PCI, and PCI-X interfaces also exist.
 * **Connectors for power**: Most graphics cards require external power, so they have power connectors to fetch the required power. There are mostly 6-pin, 8-pin, or 12-pin connectors with different graphics cards, and 8-pin is the most famous.
-* **Heat Sink/Fans**: When running your graphics card at its full potential, it will produce heat and increase its temperature. Therefore, all GPUs have fans, a heat sink, and more features to manage thermal mismanagement and minimize heat.
+* **Heat Sink/Fans**: When running your graphics card at its full potential, it will [produce heat and increase its temperature](https://pcideaz.com/graphics-cards/graphics-card-is-overheating/). Therefore, all GPUs have fans, a heat sink, and more features to manage thermal mismanagement and minimize heat.
 * **Video BIOS**: A video BIOS or vBIOS is a set of data to store critical video-related instruction. When you turn off your machine, the GPU BIOS maintains data about voltages, memory, and other factors from the initial setup and application.
 
 ## How graphics card work?
