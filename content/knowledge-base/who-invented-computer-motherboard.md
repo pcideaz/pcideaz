@@ -36,13 +36,11 @@ Moreover, it allowed for the integration of various computer components, enablin
 There are two primary reasons that have driven the evolution of the motherboard since the invention of the first computer motherboard in 1981. Those include as follows:
 
 1. **Processing power**: The first reason is the increase in processing power, which has necessitated the upgrading of motherboards to provide sustainable performance. With faster processors and more sophisticated operating systems, motherboards have had to evolve to keep up with the demand for higher processing power. This has resulted in motherboards becoming more complex and larger to accommodate more components.
-
-
 2. **Need for more components**: The second reason is the need to add more components to the motherboard to keep up with customer needs. These components include powerful GPUs, ultra-fast RAM, advanced cooling solutions, and SATA ports for storage drives. The addition of these features has made the information network within the motherboard more complex, with each component critical for the system's proper functioning as a whole.
 
 In conclusion, the evolution of the motherboard has been driven by the need to keep up with advancing technology and changing customer needs. As a result, motherboards have become more complex and larger to accommodate more components, and their designs and layouts have undergone significant changes to provide sustainable performance. 
 
-## How is a motherboard made?
+## [How is a motherboard made](https://pcideaz.com/motherboards/how-motherboard-is-made/)?
 
 Layers of fiberglass with copper conducting channels make up a motherboard. It has the vital communication pathways needed for the rest of your computer to operate. Drilling is done to make mounting holes and through holes for soldering and attaching components. You're about to discover all there is to know about this challenging process.
 
