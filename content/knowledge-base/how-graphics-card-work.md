@@ -55,7 +55,7 @@ The global chip shortage that caused GPU (and other PC hardware) prices to rise 
 * Memory clock frequency (MHz)
 * Memory bandwidth (GB/s)
 
-**Connectivity:** Verify that any potential GPU will work with your system's components. Is it compatible with your motherboard and the other parts? Are there enough power connectors available? Are you about to make a significant system bottleneck? You have to ensure all these connectivity factors when purchasing a graphics card. Know your needs and hunt for one with good connectivity options.
+**Connectivity:** Verify that any potential GPU will work with your system's components. [Is it compatible with your motherboard](https://pcideaz.com/graphics-cards/are-graphics-cards-compatible-with-any-motherboard/) and the other parts? Are there enough power connectors available? Are you about to make a significant system bottleneck? You have to ensure all these connectivity factors when purchasing a graphics card. Know your needs and hunt for one with good connectivity options.
 
 ## Conclusion
 
