@@ -63,7 +63,7 @@ If I further dive deep into the topic, the card’s memory depends upon the reso
 
 ### AMD or NVIDIA?
 
-There are many graphics card manufacturers in the market, but AMD and Nvidia are the biggest ones. If we uncover the history, NVIDIA is always the first priority in the field, and AMD is trying its best to attract customers. AMD cards are still lagging in real-time ray tracing, but overall, it's a perfect choice for the price. Personally, both brands are good, but if you find two items with the same price, NVIDIA should be your priority. 
+There are many graphics card manufacturers in the market, but AMD and Nvidia are the biggest ones. If we uncover the history, NVIDIA is always the first priority in the field, and AMD is trying its best to attract customers. AMD [cards are still lagging](https://pcideaz.com/graphics-cards/can-graphics-card-cause-lag/) in real-time ray tracing, but overall, it's a perfect choice for the price. Personally, both brands are good, but if you find two items with the same price, NVIDIA should be your priority. 
 
 ### Monitor’s capabilities
 
