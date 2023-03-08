@@ -45,7 +45,7 @@ The graphics card slot is sometimes the source of the problem. Your graphics car
 
 ### 2. Uninstall and reinstall graphics drivers
 
-Check that your graphics card drivers are installed and up to date. If you already have the drivers installed, you should reinstall them (probably a clean install) and see if it fixes the problem. Many problems may be solved by just reinstalling the drivers. As a result, the click control center cannot be launched; check to see whether this resolves your problem.
+[Check your graphics card](https://pcideaz.com/graphics-cards/how-to-check-graphics-card-in-a-computer/) drivers are installed and up to date. If you already have the drivers installed, you should reinstall them (probably a clean install) and see if it fixes the problem. Many problems may be solved by just reinstalling the drivers. As a result, the click control center cannot be launched; check to see whether this resolves your problem.
 
 ### 3. Set your graphics card to its default settings
 
