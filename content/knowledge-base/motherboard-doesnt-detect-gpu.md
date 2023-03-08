@@ -104,4 +104,4 @@ Several reports of Windows updates have introduced a bug [that causes drivers](h
 
 ## Conclusion
 
-Ultimately, you want to ensure that the motherboard detects the graphics card. If it's not, you can take a few troubleshooting steps. First, try reseating the card. If that doesn't work, try swapping out the ports on the motherboard. If the motherboard is still not detecting the card, it might be time to replace it.
+Ultimately, you want to ensure that the motherboard detects the graphics card. If it's not, you can take a few troubleshooting steps. First, try reseating the card. If [that doesn't work](https://pcideaz.com/graphics-cards/how-graphics-card-work/), try swapping out the ports on the motherboard. If the motherboard is still not detecting the card, it might be time to replace it.
