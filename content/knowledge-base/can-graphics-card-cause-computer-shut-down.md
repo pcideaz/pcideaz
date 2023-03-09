@@ -52,7 +52,7 @@ Yes, a graphics card can cause the computer to shut down. This can happen if the
 
 There are several potential causes for a GPU (graphics processing unit) to shutdown a computer, including:
 
-* **Overheating**: If the GPU is running too hot, it can cause the computer to shut down as a protective measure to prevent damage to the hardware.
+* **Overheating**: If [the GPU is running too hot](https://pcideaz.com/graphics-cards/graphics-card-is-overheating/), it can cause the computer to shut down as a protective measure to prevent damage to the hardware.
 * **Power supply issues**: If the power supply is not providing enough power to the GPU, it can cause the computer to shut down.
 * **Software conflicts**: If there are conflicts between the GPU's drivers and other software on the computer, it can cause the GPU to malfunction and shut down the computer.
 * **Hardware failure**: A malfunctioning or failing GPU can cause the computer to shut down.
