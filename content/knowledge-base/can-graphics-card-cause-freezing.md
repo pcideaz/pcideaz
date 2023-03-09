@@ -88,7 +88,7 @@ If the graphics card is faulty, it can cause the computer to freeze. To test the
 
 ### Resolve Software Conflicts
 
-If the graphics card is incompatible with other hardware or software components, it can cause the computer to freeze. To resolve this issue, you can check for compatibility issues and resolve any conflicts by updating the drivers or software components. For example, if the graphics card drivers are incompatible with the operating system, you may need to upgrade the operating system to a newer version.
+If the graphics card is incompatible with other hardware or software components, it can cause the computer to freeze. To resolve this issue, you can check for compatibility issues and resolve any conflicts by updating the drivers or software components. For example, if the [graphics card drivers are incompatible](https://pcideaz.com/graphics-cards/will-graphics-card-work-without-drivers/) with the operating system, you may need to upgrade the operating system to a newer version.
 
 ## Conclusion
 
