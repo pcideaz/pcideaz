@@ -76,7 +76,7 @@ You can visit the manufacturer's website or a trusted third-party website like D
 
 ### Check and Clean the Cooling System
 
-Overheating is a common cause of graphics card freezing. If the cooling system of your graphics card is not functioning correctly or is clogged with dust, it can cause the computer to freeze. Check your graphics card's cooling system to resolve this issue. If you find any [dust or debris, clean it with](https://pcideaz.com/graphics-cards/how-to-clean-your-graphics-card/) a can of compressed air. Ensure to follow the manufacturer's instructions for cleaning the cooling system to avoid damaging the card.
+Overheating is a common cause of graphics card freezing. If the cooling system of your graphics card is not functioning correctly or is clogged with dust, it can cause the computer to freeze. [Check your graphics card](https://pcideaz.com/graphics-cards/how-to-check-graphics-card-in-a-computer/)'s cooling system to resolve this issue. If you find any [dust or debris, clean it with](https://pcideaz.com/graphics-cards/how-to-clean-your-graphics-card/) a can of compressed air. Ensure to follow the manufacturer's instructions for cleaning the cooling system to avoid damaging the card.
 
 ### Check the Power Supply
 
