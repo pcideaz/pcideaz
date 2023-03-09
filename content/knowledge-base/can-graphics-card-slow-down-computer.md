@@ -107,7 +107,7 @@ It's crucial to close unnecessary programs and background processes to free up r
 
 > You can try the following fixes to resolve the issue of a graphics card slowing down your computer:
 
-### Install new drivers updating.
+### Install new drivers updating
 
 The driver is a piece of software that manages different game-related operations. It provides instructions on interacting with the gaming program to other hardware. The driver and the application are the two fundamental components of this connection. The program talks to your computer's graphics card, while the driver talks to the operating system and increases the speed of your PC.
 
@@ -115,7 +115,7 @@ The driver is a piece of software that manages different game-related operations
 
 Dust may harm your computer, including overheating and poor performance. Another option for removing dust is to use an outdated, reasonably priced vacuum cleaner. This option offers excellent airflow at a reasonable price and enough power to affect how quickly your graphics card executes instructions.
 
-### Update graphics card.
+### [Update graphics card](https://pcideaz.com/graphics-cards/when-to-update-graphics-card/)
 
 One of the first steps you should take to improve the performance of your graphics card is to see whether it has trouble maintaining a constant frame rate. If it isn't, you could have an old one. If your PC doesn't already have a newer or better graphics card, check to see if it does and upgrade it as soon as possible. Additionally, your graphics card's performance will improve if you discover a means to raise the frame rate.
 
