@@ -62,7 +62,7 @@ Since the clamps holding the side panel in place are secured by screws or bolts,
 
 > **Note**: There may be different methods for opening a computer case depending upon the brands. The panel may have been attached in other ways by the manufacturer. Therefore, you should read the manual to better understand the removal process.
 
-### Step 4: Locate the graphics card
+### Step 4: [Locate the graphics card](https://pcideaz.com/graphics-cards/where-graphics-card-is-located/)
 
 As previously mentioned, it should be easy to locate the graphics card since it is close to the CPU and connected to the motherboard via a PCI-e slot. Most graphics cards have six- or eight-pin PCI-e power supply lines. You can remove the power connections of the graphics card from the motherboard as follows:
 
