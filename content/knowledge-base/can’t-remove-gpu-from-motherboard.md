@@ -34,11 +34,7 @@ Before you begin the process, you must ensure that your computer is turned off a
 When removing the graphics card from the motherboard, you must follow a few quick tips or precautions. Those include as follows.
 
 * **Uninstall the driver updates**: Start the computer and uninstall any existing graphics drivers or software to prevent issues when installing the new graphics card.
-
-
 * **Wait for 20 seconds once cables are removed**: To prevent computer damage, wait 20 seconds before unplugging any cables from the back of the computer, including the power cord and audio and display connections.
-
-
 * **Remove the case cover**: You must carefully remove the PC case. You can even consult the instructions handbook on removing the case cover, as it is done differently by system builders.
 
 ## Can’t remove GPU from motherboard: Follow this
@@ -54,8 +50,6 @@ Additionally, remember to obtain the drivers for the new graphics card before un
 Make sure nothing is plugged into a power outlet before opening the computer's case and touching its delicate electronics. 
 
 * **Switch off** the **PSU** on the back of the case and the computer.
-
-
 * **Remove** all of the **accessories** from the case, including the keyboard, mouse, USB flash drives, monitor, and others, and make sure nothing is still connected by unplugging all the power connections.
 
 ### Step 3: Open the case.
@@ -63,11 +57,7 @@ Make sure nothing is plugged into a power outlet before opening the computer's c
 Since the clamps holding the side panel in place are secured by screws or bolts, removing the side panel from the case is relatively simple. 
 
 * **Turn the case** **on its side** to better look at the interior components.
-
-
 * You might even require some **special screwdrivers** to remove the screws. It would help if you studied the user handbook to prevent harming the case.
-
-
 * Once done, **carefully remove** the **opening side** of the case panel.
 
 > **Note**: There may be different methods for opening a computer case depending upon the brands. The panel may have been attached in other ways by the manufacturer. Therefore, you should read the manual to better understand the removal process.
@@ -77,11 +67,7 @@ Since the clamps holding the side panel in place are secured by screws or bolts,
 As previously mentioned, it should be easy to locate the graphics card since it is close to the CPU and connected to the motherboard via a PCI-e slot. Most graphics cards have six- or eight-pin PCI-e power supply lines. You can remove the power connections of the graphics card from the motherboard as follows:
 
 * PCI-e cables feature a little **lever** underneath them.
-
-
 * **Pull the lever down** gradually until it releases.
-
-
 * Take away these wires and any additional specialized cables that link the graphics card to other devices.
 
 ### Step 5: Remove the graphics card.
@@ -89,19 +75,13 @@ As previously mentioned, it should be easy to locate the graphics card since it 
 It’s essential to determine how the graphics card is mounted within the computer when removing it. 
 
 * You might need to **remove mounting brackets** or water-cooling hoses using a different technique depending on the type of connections.
-
-
 * The majority of dual graphics cards are linked together using an SLI bridge, which you need first to uninstall.
-
-
 * The GPU detaches from the panel but remains connected to the motherboard when these screws are removed.
-
-
 * Once the graphics card is detached from the motherboard and computer, you must **carefully pull it out** of the **PC case**. 
 
 ## What occurs if my graphics card is removed?
 
-A graphics card's primary function is to provide a video signal to your monitor, allowing you to interact with your computer. If your graphics card is removed, your computer will no longer be able to display graphics on a monitor unless your processor has an integrated graphics card. If available, your computer will default to using the integrated graphics processor (IGP) on the motherboard.
+A graphics card's primary function is to provide a video signal to your monitor, allowing you to interact with your computer. If your graphics card is removed, your [computer will no longer be able to display graphics](https://pcideaz.com/graphics-cards/can-graphics-card-cause-blue-screen/) on a monitor unless your processor has an integrated graphics card. If available, your computer will default to using the integrated graphics processor (IGP) on the motherboard.
 
 The integrated graphics processor (IGP) is built into the CPU and can handle basic graphics tasks such as displaying your desktop and running basic programs. However, it is not as powerful as a dedicated graphics card and may not handle more demanding gaming or video editing tasks. 
 
