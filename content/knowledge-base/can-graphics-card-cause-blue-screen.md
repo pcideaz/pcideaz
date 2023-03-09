@@ -36,7 +36,7 @@ In addition, the blue screen, meant to alert the user that something is malfunct
 You may face the blue screen issue on your computer for multiple reasons. Those include
 
 * Bad GPU drivers
-* Overheating graphics card
+* [Overheating graphics card](https://pcideaz.com/graphics-cards/graphics-card-is-overheating/)
 * Faulty CPUs
 * Poor power supplies
 * Defective RAM or motherboards
