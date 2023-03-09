@@ -17,7 +17,7 @@ categories:
 ---
 High-quality pictures, movies, and other types of material are rendered using a graphics processing unit or GPU. The quality of the produced graphics increases with a good-quality graphics card. The GPU is essential to those related to gaming, graphic, architecture designing, and graphics-intensive disciplines. If you’re a competitive gamer, you must install the best GPU to stay up with the visuals of the most recent games. You may also require a graphics card if you’re a high-end developer or test AI programs. 
 
-A GPU generates pictures more quickly since it employs a parallel processing structure. Even if there is a graphics card, you may face the issue of the blue screen of death, BSoD. It is critical to identify which component is causing this issue if you’re facing it. In BSoD, Microsoft Windows shows some errors on the screen due to system mismanagement. When Windows freezes, the only way to keep it from shutting down is to reboot the computer. But **can graphics card cause blue screen**? Let’s explore this mystery!
+A GPU generates pictures more quickly since it employs a parallel processing structure. Even if there is a graphics card, you may face the issue of the blue screen of death, BSoD. It is critical to identify which component is causing this issue if you’re facing it. In BSoD, Microsoft Windows shows some errors on the screen due to system mismanagement. [When Windows freezes](https://pcideaz.com/graphics-cards/can-graphics-card-cause-freezing/), the only way to keep it from shutting down is to reboot the computer. But **can graphics card cause blue screen**? Let’s explore this mystery!
 
 ## What is the purpose of a graphic card?
 
@@ -48,19 +48,11 @@ Suppose you’re facing the  BSoD issue. In such a case, you can follow a few s
 
 **Step 1**: The first step is to **confirm** that the **problem** is, in fact, a hardware one. Through troubleshooting, you can rule this out. Try updating the drivers to overcome the issue if it’s happening due to software. If none of your attempts are working to resolve the issue, there could be a hardware issue.
 
-
-
 **Step 3**: You can fix a Blue screen by doing a **system restore** before looking at hardware components. Go to **settings** > **Advanced Options** in your troubleshooter > select **System Restore**.
-
-
 
 **Step 4**: You may put your computer through a **stress test** to find out what might cause the issue if it is overheating. There are other ways to test different hardware parts, but in this article, I'll focus on the approach for the GPU and overheating.
 
-
-
 **Step 5**: What signs indicate an overheated computer? Next, use a built-in program like **SpeedFan** to check your PC’s thermal performance. It reveals the true capabilities of ventilation, dust, or a broken fan.
-
-
 
 **Step 6**: You may need to **delete** and **reinstall your drivers** if you have BSoD issues. These problems should be fixed, and then BSoD should no longer occur. Whether it doesn't, you should see if the app is having any other issues.
 
