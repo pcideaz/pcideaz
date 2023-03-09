@@ -40,7 +40,7 @@ There are several signs that a graphics card may be overheating:
 
 1. **Strange noises**: If you hear strange noises from the computer, such as whistling or whirring sounds, it could indicate that the cooling fan on the graphics card is not functioning correctly.
 2. **Random shutdowns**: If the computer randomly shuts downs, it could indicate that the graphics card is overheating and shutting down to prevent damage.
-3. **[Blue screen of death](https://pcideaz.com/graphics-cards/can-graphics-card-cause-blue-screen/)**: A blue screen of death (BSOD) can occur when a serious error occurs, such as a problem with the graphics card. It can also occur when the GPU overheats.
+3. **Blue screen of death**: [A blue screen of death (BSOD)](https://pcideaz.com/graphics-cards/can-graphics-card-cause-blue-screen/) can occur when a serious error occurs, such as a problem with the graphics card. It can also occur when the GPU overheats.
 4. **Artifacts on screen**: When the GPU is overheating, [it can cause visual artifacts to appear on the screen](https://pcideaz.com/graphics-cards/graphics-card-is-artifacting/), such as lines, dots, or incorrect colors.
 5. **Slow performance**: Overheating can cause the GPU to throttle its performance, meaning it will work at a lower clock speed than it should to prevent overheating. This [can cause the computer to run slowly](https://pcideaz.com/graphics-cards/can-graphics-card-slow-down-computer/) or experience lag.
 
