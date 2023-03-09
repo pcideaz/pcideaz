@@ -89,7 +89,7 @@ A GPU requires a significant amount of power to function optimally. If the power
 
 ### Dust Buildup
 
-Dust buildup on the GPU and its cooling system can reduce airflow and cause overheating. This can cause the GPU to throttle its performance, leading to slowdowns. To prevent this, it's essential to regularly clean the GPU and its cooling system to ensure proper airflow.
+Dust buildup on the GPU and its cooling system can reduce airflow and cause overheating. This can cause the GPU to throttle its performance, [leading to slowdowns or shutdowns](https://pcideaz.com/graphics-cards/can-graphics-card-cause-computer-shut-down/). To prevent this, it's essential to regularly clean the GPU and its cooling system to ensure proper airflow.
 
 ### Viruses or Malware
 
