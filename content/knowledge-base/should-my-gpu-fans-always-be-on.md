@@ -38,7 +38,7 @@ As we previously said, many GPU fans remain off until you hit a specific tempera
 
 ## When a GPU fan should start running?
 
-The fan curve is a graph with a properly curving line. The temperature is shown at the bottom of the graph, and the fan speed percentage is on the side. The fan speed increases as the temperature of your GPU rises. By doing this, you can be confident that your fans will adjust to stop overheating as your GPU heats up. Some fan curves, for instance, may have the fan speed set by default to 0 until you reach 50 degrees Celsius. This is because while your graphics card is not used for anything that needs cooling, you may have a calm PC and no noisy running fans.
+The fan curve is a graph with a properly curving line. The temperature is shown at the bottom of the graph, and the fan speed percentage is on the side. The fan speed increases as the temperature of your GPU rises. By doing this, you can be confident that your fans will adjust to stop overheating as [your GPU heats up](https://pcideaz.com/graphics-cards/graphics-card-is-overheating/). Some fan curves, for instance, may have the fan speed set by default to 0 until you reach 50 degrees Celsius. This is because while your graphics card is not used for anything that needs cooling, you may have a calm PC and no noisy running fans.
 
 You don't need your GPU fans running at an audible 60% fan speed, for instance, when browsing Reddit or viewing some 1080p YouTube videos. This is good but also necessary, given how quiet GPU fans can operate. Even so, one's tolerance for noise varies greatly. The good news is that you can easily alter your fan curve to ensure that your fans run constantly, or if they already do, you can reduce it to make them run less often.
 
