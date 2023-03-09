@@ -50,7 +50,7 @@ There are several signs that a graphics card may be overheating:
 
 The leading causes of GPU overheating are as follows:
 
-1. **Insufficient cooling**: The graphics card has a cooling system that includes one or more fans and a heatsink that helps dissipate heat. Suppose the fans are not functioning correctly or there is poor airflow in the computer case. In that case, the graphics card's heat cannot dissipate effectively, causing the card to overheat.
+1. **Insufficient cooling**: The graphics card has a cooling system that includes one or more fans and a heatsink that helps dissipate heat. Suppose [the fans are not functioning](https://pcideaz.com/graphics-cards/should-my-gpu-fans-always-be-on/) correctly or there is poor airflow in the computer case. In that case, the graphics card's heat cannot dissipate effectively, causing the card to overheat.
 2. **Overclocking**: Overclocking is the process of increasing the clock speed of the graphics card above its factory settings. This can result in higher performance, but it also generates more heat. The graphics card may overheat if the cooling system cannot dissipate this additional heat.
 3. **Dust buildup**: Dust can accumulate on the graphics card and the fans, blocking airflow and preventing proper cooling. This can lead to overheating, as the dust acts as an insulator, trapping heat inside the computer.
 4. **Power supply issues**: A power supply unit (PSU) is responsible for providing power to the various components of a computer, including the graphics card. If the PSU is not providing enough power to the graphics card, it can cause the card to struggle to function correctly, generating more heat.
