@@ -32,7 +32,7 @@ A graphics processing unit (GPU) fan is a piece of hardware that moves air into 
 
 The GPU fans aren’t meant to be always running. The graphics card's temperature typically controls a graphics card fan, so if the temperature is high, the fan will run faster to cool the card down. If the temperature is low, the fan may run slower or not at all. Although your GPU fans can briefly turn on at the computer start-up before turning off, these shouldn’t constantly rotate. The GPU tests everything to ensure everything functions properly before going back to sleep.
 
-As we previously said, many GPU fans remain off until you hit a specific temperature. Activities are apps that heavily utilize your graphics card, causing your GPU to overheat and require cooling. For instance, playing games will force your GPU to start up very quickly. Your GPU fans can be operating by the time you reach the menu screen before you start playing. By the end of the first ten minutes of your session, you'll be sitting at a temperature you'll keep all night.
+As we previously said, many GPU fans remain off until you hit a specific temperature. Activities are apps that heavily utilize your graphics card, [causing your GPU to overheat](https://pcideaz.com/graphics-cards/can-graphics-card-overheat/) and require cooling. For instance, playing games will force your GPU to start up very quickly. Your GPU fans can be operating by the time you reach the menu screen before you start playing. By the end of the first ten minutes of your session, you'll be sitting at a temperature you'll keep all night.
 
 > **Note:** If your GPU fan seems to be running continuously, you need to check the wire connections for looseness. Depending on the circumstances, a broken graphics card may need to be replaced, a BIOS update, a fan adjustment, or both.
 
@@ -59,15 +59,11 @@ Initially, ensure the BIOS driver is updated to the most recent version. The mos
 It’s possible to tweak the GPU fan speed in a few steps. Those are included as follows:
 
 * **Step 1**: Download the GPU brand’s application on your computer, install it, and navigate to the fan tab in the new popup window by clicking the setting cogwheel.
-
-
 * **Step 2**: Select "allow user-defined software automatic fan control" from the drop-down menu.
 
 > **Note:** You should now see a large graph along with a few other options that are not urgent at this time. Some of the points on your graph will be in the form of boxes.
 
 * **Step 3**: To specify a temperature to change, slide these from left to right. Alternatively, you can slide them upward or downward to adjust the fan's speed.
-
-
 * **Step 4**: Click on the line at the desired temperature to add a new node or point to the graph to increase fan speed at a temperature that still needs to be created.
 
 > **Note**: The fan speed should always stay the same as the temperature rises, and the graph should always go from lower to higher. But always increase the fan speed as the temperature rises to avoid overheating and thermal throttling. Depending on the problem you are experiencing, you can either lower or raise your graph. You can increase the fan speed if your GPU fans are not currently running at a speed of under 50 and you want to.
@@ -79,14 +75,8 @@ Moreover, once the temperature reaches 70 degrees Celsius, you can increase the 
 Before adjusting the GPU fans, you should check your system temperatures to ensure your adjustments won't harm your machine. You shouldn't turn down your CPU fans if they constantly run due to your GPU producing excessive heat. If you are involved in an intensive activity and want to change this, you should turn them on. So the following are the process to measure the temperature:
 
 * **Step 1**: Install MSI Afterburner using the installation wizard on the official MSI website.
-
-
 * **Step 2**: When you're done, launch the app and give all the dials and switches a brief look, but hold off on touching anything.
-
-
 * **Step 3**: The GPU temperature measurement should have a black outline check next to it, so click the settings cogwheel, go to the monitoring tab, and then activate "show in the on-screen display" in the boxes below.
-
-
 * **Step 4**: The GPU temperature should be visible in the top left corner of your screen when you launch a game. If not, double-check that MSI Afterburner is still operating and that the adjustments were saved.
 
 ## Conclusion
