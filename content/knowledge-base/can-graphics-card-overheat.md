@@ -17,7 +17,7 @@ categories:
 ---
 A graphics card, also known as a GPU or graphics processing unit, plays a crucial role in the performance of a computer's gaming and visual capabilities. However, like any electronic device, a graphics card can become overheated if it is not adequately cooled. This can lead to various problems, including reduced performance, system crashes, and even permanent damage to the card. Moreover, it’s one of the priciest computer hardware, so it’s crucial to monitor the GPU's temperature to take good care.
 
- Overall, performance will decrease, and frame drops will become more common as a graphic card overheats. This occurs due to a safety feature built into GPUs that will either reduce the GPU's clock speed or cause it to shut down entirely if temperatures rise above a certain point. If you’re facing this issue, don’t worry; you can read this post and use various steps to save your GPU from overheating. This article will discuss the signs, causes, and quick fixes of graphics card overheating. Let’s explore!
+ Overall, performance will decrease, and frame drops will become more common as a graphic card overheats. This occurs due to a safety feature built into GPUs that will either reduce the GPU's clock speed [or cause it to shut down entirely](https://pcideaz.com/graphics-cards/can-graphics-card-cause-computer-shut-down/) if temperatures rise above a certain point. If you’re facing this issue, don’t worry; you can read this post and use various steps to save your GPU from overheating. This article will discuss the signs, causes, and quick fixes of graphics card overheating. Let’s explore!
 
 - - -
 
