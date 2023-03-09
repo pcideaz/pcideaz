@@ -46,20 +46,10 @@ A computer freeze is when the operating system stops responding to user inputs, 
 Here are a few reasons a GPU is causing a computer to freeze:
 
 1. **Overclocking**: Overclocking is one frequent reason for a freeze graphic card. When you overclock a GPU, you raise its clock speed over the factory setting. This may result in instability and a GPU freeze. It is crucial to do it gradually to avoid this problem when overclocking your GPU.
-
-
 2. **Overheating**: Graphics cards generate a significant amount of heat when used, and this heat needs to dissipate effectively. If the cooling system is not working correctly, the graphics card can overheat and cause the computer to freeze. Dust accumulation on the graphics card or within the computer case can also contribute to overheating. The dust can clog the cooling system and prevent proper airflow, leading to a freeze.
-
-
 3. **Power supply issues**: A graphics card requires a steady and sufficient power supply to function correctly. If the power supply is inadequate, it can cause the computer to freeze. This can happen if the power supply is too weak or if there is a problem with the connection between the power supply and the graphics card.
-
-
 4. **Driver problems**: The drivers are the software that controls the interaction between the graphics card and the operating system. If the drivers are outdated, incorrect, or poorly installed, it can cause compatibility issues that lead to freezes. Updating the drivers to the latest version or reinstalling them correctly can often resolve these issues.
-
-
 5. **Hardware malfunction**: A faulty graphics card can cause a computer to freeze. This can be due to physical damage to the card, such as a bent or broken component, or problems with the circuits and components inside. In these cases, the graphics card may need to be replaced to resolve the issue.
-
-
 6. **Software conflicts**: The graphics card can cause conflicts with other hardware or software components within the computer, causing a freeze. These conflicts can occur if the graphics card is incompatible with the other components or if there are conflicts between the graphics card drivers and the operating system. Updating the graphics card drivers or other components can often resolve this.
 
 ## Solutions to GPU causing freezing
@@ -86,7 +76,7 @@ You can visit the manufacturer's website or a trusted third-party website like D
 
 ### Check and Clean the Cooling System
 
-Overheating is a common cause of graphics card freezing. If the cooling system of your graphics card is not functioning correctly or is clogged with dust, it can cause the computer to freeze. Check your graphics card's cooling system to resolve this issue. If you find any dust or debris, clean it with a can of compressed air. Ensure to follow the manufacturer's instructions for cleaning the cooling system to avoid damaging the card.
+Overheating is a common cause of graphics card freezing. If the cooling system of your graphics card is not functioning correctly or is clogged with dust, it can cause the computer to freeze. Check your graphics card's cooling system to resolve this issue. If you find any [dust or debris, clean it with](https://pcideaz.com/graphics-cards/how-to-clean-your-graphics-card/) a can of compressed air. Ensure to follow the manufacturer's instructions for cleaning the cooling system to avoid damaging the card.
 
 ### Check the Power Supply
 
