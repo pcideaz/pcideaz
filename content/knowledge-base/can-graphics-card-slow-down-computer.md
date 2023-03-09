@@ -53,7 +53,7 @@ However, when playing games or running 3D applications, the graphics card has to
 
 * A graphics card can slow down a computer if it is not functioning correctly or cannot meet the demands of the tasks it’s performing.
 * In such a case, the graphics card stops the other components or the computer from performing at their peak and causing slowdowns.
-* It’s necessary to find out the exact reason for a computer to slow down before trying different fixes or buying a new graphics card.
+* It’s necessary to find out the exact reason for a computer to slow down before trying different fixes or [buying a new graphics card](https://pcideaz.com/graphics-cards/how-to-choose-graphics-card/).
 
 - - -
 
