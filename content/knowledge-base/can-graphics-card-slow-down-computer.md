@@ -93,7 +93,7 @@ Dust buildup on the GPU and its cooling system can reduce airflow and cause over
 
 ### Viruses or Malware
 
-Numerous issues with your PC might be brought on by a virus or malware software. One of them is a slowdown PC.Use an antivirus or malware-scanning application to ensure your computer is not contaminated before using it for business.
+Numerous issues with your PC might be brought on by a virus or malware software. One of them is a slowdown PC. Use an antivirus or malware-scanning application to ensure your computer is not contaminated before using it for business.
 
 The Windows Defender tool offers many of the same protections to home users. A malware prevention tool can delete or quarantine harmful programs or data from your computer. When the infection is eliminated, your computer should operate normally.
 
@@ -101,7 +101,7 @@ The Windows Defender tool offers many of the same protections to home users. A m
 
 Programs on your computer can be operating in the background without your knowledge. Too many background processes can consume system resources and slow down the GPU. For instance, antivirus software typically operates in the background. There may be a good number of others that you can skip.
 
-It's crucial to close unnecessary programs and background processes to free up resources for the GPU to prevent this. Using the Task Manager tool, you may see all the apps now executing on your computer. To access the Task Manager, press Alt + Ctrl + Delete.
+It's crucial to close unnecessary programs and background processes to free up resources for the GPU to prevent this. Using the Task Manager tool, you may see all the apps now executing on your computer. To access the Task Manager, press **Alt + Ctrl + Delete**.
 
 ## Fixes for a slow computer
 
