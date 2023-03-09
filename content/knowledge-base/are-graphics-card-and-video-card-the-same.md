@@ -39,7 +39,7 @@ You may need clarification up to this point and need help finding out the differ
 
 Since they are both technically the same, the terms "graphics card" and "video card" are sometimes used interchangeably. Both cards are expansion cards to produce output graphics and send them to a display device. They are also referred to as GPUs or graphics processing units. They have their memory for the increased processing demands of visual data. 
 
-The sole distinction between integrated and dedicated graphics is that integrated graphics are built-in video cards. On-board or integrated video cards are those that are built into the motherboard. Dedicated cards, which have RAM and a cooling system for unparalleled graphics capabilities and visual processing, perform better than integrated graphics.
+The [sole distinction between integrated and dedicated graphics](https://pcideaz.com/graphics-cards/what-is-discrete-graphics-vs-integrated-graphics/) is that integrated graphics are built-in video cards. On-board or integrated video cards are those that are built into the motherboard. Dedicated cards, which have RAM and a cooling system for unparalleled graphics capabilities and visual processing, perform better than integrated graphics.
 
 ## Do I need a graphics card for video editing?
 
