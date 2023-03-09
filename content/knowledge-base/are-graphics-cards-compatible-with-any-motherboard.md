@@ -22,7 +22,7 @@ Remember, if you’re searching for a graphics card from a different manufacture
 
 ## Are graphics cards compatible with any motherboard?
 
-The short answer is yes, but you must also consider some factors. If a graphics card follows a few compatibility rules, you can pair a graphics card with any motherboard. But it’s recommended to randomly pick up some components and put them together; the graphics card is one of them. How can you tell if a particular graphics card will work with the rest of your system? You have to check a few to determine the compatibility between a motherboard and a graphics card. Those factors include a suitable PCIe slot, form factor, adequate power, and BIOS compatibility. Let’s explore more about these! 
+The short answer is yes, but you must also consider some factors. If a graphics card follows a few compatibility rules, you can pair a graphics card with any motherboard. But it’s recommended to randomly pick up some components and put them together; the graphics card is one of them. How can you tell if a [particular graphics card will work](https://pcideaz.com/graphics-cards/how-graphics-card-work/) with the rest of your system? You have to check a few to determine the compatibility between a motherboard and a graphics card. Those factors include a suitable PCIe slot, form factor, adequate power, and BIOS compatibility. Let’s explore more about these! 
 
 ### 1. Check the expansion slot
 
