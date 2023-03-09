@@ -50,7 +50,7 @@ A power supply unit (PSU) converts AC to DC and delivers the converted DC power 
 
 ## Can I put a new graphics card in my old computer?
 
-You may wonder if you can genuinely install a new graphics card in a computer at least five years old. The answer is yes if the graphics card and motherboard are compatible. Undoubtedly, most of the parts of the older PC would have been outdated. Still, you can get the most out of it if you do everything right. A new graphics card will function properly with the older PC but with a few conditions. It should have a good form factor, use a compatible PCIe express slot, and have updated BIOS, and it can work fine. 
+You may wonder if you can genuinely install a new graphics card in a computer at least five years old. The answer is yes if the graphics card and motherboard are compatible. Undoubtedly, most of the parts of the older PC would have been outdated. Still, you can get the most out of it if you do everything right. A [new graphics card will function properly with the older PC](https://pcideaz.com/motherboards/can-old-motherboard-support-new-gpu/) but with a few conditions. It should have a good form factor, use a compatible PCIe express slot, and have updated BIOS, and it can work fine. 
 
 ## Is integrated graphics good or dedicated graphics?
 
