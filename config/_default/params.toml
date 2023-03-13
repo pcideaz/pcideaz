@@ -38,7 +38,7 @@ scrollcat = "Motherboards"
 scrollcat = "Graphics Cards"
 
 [[scroll_section]]
-scrollcat = "RAM"
+scrollcat = "RAMs"
 
 [post_setting]
 featured_img = true
