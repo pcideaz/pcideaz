@@ -10,13 +10,13 @@ bodyBG = ""
 sectionBG = ""
 
 [amznTracking]
-global = "salesmag-20"
-topProducts = "salesmagtable-20"
-table = "salesmagtable-20"
-review = "salesmagreview-20"
+global = ""
+topProducts = ""
+table = ""
+review = ""
 
 [open_graph]
-meta_Description = "If you're looking to create a professional website that will help you increase your affiliate sales, look no further than this Netlify theme."
+meta_Description = ""
 image = "/images/logo.png"
 
 [verifications]
