@@ -45,7 +45,7 @@ featured_img = true
 show_comments = false
 
 [home_setting]
-footerText = "With built-in conversion tracking and easy integration with your favorite affiliate networks, this is the perfect solution for anyone looking to improve their affiliate marketing efforts."
-headerText = "We are supported by our audience. When you purchase through our links, we may earn an affiliate commission at no additional cost to you."
+footerText = ""
+headerText = ""
 blogSection = false
 headerStyle = "Style 2"
