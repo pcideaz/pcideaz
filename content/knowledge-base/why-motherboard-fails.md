@@ -1,7 +1,7 @@
 ---
 title: Why Motherboard Fails?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Why Motherboard Fails?
 seo_title: Why Motherboard Fails? Common Causes and Their Quick Fixes
@@ -11,7 +11,8 @@ meta_Description: Discover the top reasons why motherboard fails and learn how
 url: motherboards/why-motherboard-fails/
 author: Zohaib Hassan Bhatti
 date: 2023-03-20T13:12:52.898Z
-updateDate: 2023-03-20T13:12:52.940Z
+updateDate: 2023-03-20T13:29:43.630Z
+featured_Image: /uploads/why-motherboard-fails.webp
 categories:
   - Motherboards
 ---
