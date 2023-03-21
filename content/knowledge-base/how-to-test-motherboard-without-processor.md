@@ -1,7 +1,7 @@
 ---
 title: How to Test Motherboard Without Processor?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: How to Test Motherboard Without Processor?
 seo_title: How to Test Motherboard Without Processor?
@@ -12,6 +12,7 @@ url: motherboards/how-to-test-motherboard-without-processor/
 author: Abdullah Sarfraz
 date: 2023-03-21T14:40:41.649Z
 updateDate: 2023-03-21T14:44:58.562Z
+featured_Image: /uploads/how-to-test-motherboard-without-processor.webp
 categories:
   - Motherboards
 ---
