@@ -1,7 +1,7 @@
 ---
 title: What to Do If Motherboard Doesn't Have WiFi?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: What to Do If Motherboard Doesn't Have WiFi?
 seo_title: What to Do If Motherboard Doesn't Have WiFi? (Solutions)
@@ -11,6 +11,7 @@ url: motherboards/what-to-do-if-motherboard-does-not-have-wifi/
 author: Zohaib Hassan Bhatti
 date: 2023-03-23T10:45:38.186Z
 updateDate: 2023-03-23T10:45:38.418Z
+featured_Image: /uploads/what-to-do-if-motherboard-doesn-t-have-wifi.webp
 categories:
   - Motherboards
 ---
