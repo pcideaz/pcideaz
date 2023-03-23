@@ -10,7 +10,7 @@ meta_Description: A motherboard may lack WiFi which isn’t something to panic
 url: motherboards/what-to-do-if-motherboard-does-not-have-wifi/
 author: Zohaib Hassan Bhatti
 date: 2023-03-23T10:45:38.186Z
-updateDate: 2023-03-23T10:45:38.418Z
+updateDate: 2023-03-23T15:48:58.217Z
 featured_Image: /uploads/what-to-do-if-motherboard-doesn-t-have-wifi.webp
 categories:
   - Motherboards
@@ -40,7 +40,7 @@ One of the solutions for a motherboard without wifi is to add a wifi card. This 
 * When adding a wifi card, it is crucial to consider the desired speed of the connection. Higher-end cards can provide faster speeds, while lower-end cards may provide slower speeds.
 * Additionally, it is essential to check whether or not your motherboard has an available slot for the card.
 
- You may need to purchase an expansion card or use another solution if a slot is unavailable.
+You may need to purchase an expansion card or use another solution if a slot is unavailable.
 
 * Adding a wifi card effectively solves a motherboard without wifi. This solution allows for wireless connection without needing additional adapters or cables. 
 
