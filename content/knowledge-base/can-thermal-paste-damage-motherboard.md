@@ -11,7 +11,8 @@ meta_Description: Applying thermal paste, or you have spilled some on the
 url: motherboards/can-thermal-paste-damage-motherboard/
 author: Abdullah Sarfraz
 date: 2023-03-24T18:51:50.301Z
-updateDate: 2023-03-24T18:54:28.488Z
+updateDate: 2023-03-24T19:03:21.069Z
+featured_Image: /uploads/can-thermal-paste-damage-motherboard.webp
 categories:
   - Motherboards
 faqs:
