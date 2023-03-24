@@ -14,6 +14,40 @@ date: 2023-03-24T18:51:50.301Z
 updateDate: 2023-03-24T18:54:28.488Z
 categories:
   - Motherboards
+faqs:
+  - answer: To avoid any potential damage, it is recommended to use a small amount
+      of high-quality, non-conductive thermal paste and apply it carefully and
+      evenly onto the processor. It is also essential to clean off any excess
+      thermal paste before installing the heatsink and ensure it is correctly
+      secured.
+    question: What to do if thermal paste gets on motherboard?
+  - answer: Excess thermal paste can also lead to overheating of the CPU and other
+      components, which can cause your computer to malfunction or be permanently
+      damaged.
+    question: What is the effect of using too much thermal paste?
+  - answer: >-
+      Yes, the thermal paste can cause issues if applied improperly or if the
+      wrong type is used. Some potential issues that can arise from using
+      thermal paste include:
+
+
+      1. **Poor heat transfer:** If the thermal paste is not applied correctly or is of poor quality, it can limit heat transfer from the components, leading to decreased performance and potential overheating.
+
+
+
+      2. **Contamination:** Thermal paste can sometimes contain impurities or other substances that can contaminate other components in the computer, leading to performance issues.
+
+
+
+      3. **Short-circuiting:** If too much thermal paste is applied or comes into contact with other conductive components on the motherboard, it can potentially cause a short circuit, damaging the computer and its components.
+
+
+
+      4. **Overheating:** If the thermal paste is too thick or not applied evenly, it can increase the temperature of the components and potentially cause overheating, which can damage the computer and its components.
+
+
+      To avoid these issues, it is essential to use high-quality, non-conductive thermal paste and to apply it carefully and evenly onto the processor. Excessive application of thermal paste should be avoided, and any excess should be cleaned off before installing the heatsink.
+    question: Can thermal paste cause issues?
 ---
 When applied properly, the thermal paste should not damage a motherboard. However, suppose too much thermal paste is applied. In that case, it can potentially leak out of the sides of the processor and onto other components on the motherboard, causing a short circuit or other damage. 
 
