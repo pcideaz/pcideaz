@@ -11,7 +11,9 @@ meta_Description: Applying thermal paste, or you have spilled some on the
 url: motherboards/can-thermal-paste-damage-motherboard/
 author: Abdullah Sarfraz
 date: 2023-03-24T18:51:50.301Z
-updateDate: 2023-03-24T18:51:50.363Z
+updateDate: 2023-03-24T18:54:28.488Z
+categories:
+  - Motherboards
 ---
 When applied properly, the thermal paste should not damage a motherboard. However, suppose too much thermal paste is applied. In that case, it can potentially leak out of the sides of the processor and onto other components on the motherboard, causing a short circuit or other damage. 
 
