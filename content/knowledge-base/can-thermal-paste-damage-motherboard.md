@@ -1,7 +1,7 @@
 ---
 title: Can Thermal Paste Damage Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: " Can Thermal Paste Damage Motherboard?"
 seo_title: Can Thermal Paste Damage Motherboard? The Hidden Facts
