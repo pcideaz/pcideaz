@@ -12,6 +12,7 @@ url: motherboards/how-many-pcie-slots-does-a-motherboard-have/
 author: Abdullah Sarfraz
 date: 2023-03-25T18:38:55.888Z
 updateDate: 2023-03-25T18:42:44.968Z
+featured_Image: /uploads/how-many-pcie-slots-does-a-motherboard-have.webp
 categories:
   - Motherboards
 faqs:
