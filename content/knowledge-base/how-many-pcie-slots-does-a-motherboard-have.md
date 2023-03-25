@@ -8,9 +8,12 @@ seo_title: How Many PCIe Slots Does a Motherboard Have?
 meta_Description: You may wonder how many PCIe slots does a motherboard have
   when building a PC or connecting different components. Read this guide to
   learn. 
+url: motherboards/how-many-pcie-slots-does-a-motherboard-have/
 author: Abdullah Sarfraz
 date: 2023-03-25T18:38:55.888Z
-updateDate: 2023-03-25T18:38:55.928Z
+updateDate: 2023-03-25T18:42:44.968Z
+categories:
+  - Motherboards
 ---
 A motherboard typically has anywhere from one to seven PCIe slots, depending on the size and feature set. But some motherboards may include additional PCIe slots used for extra expansion cards or specialized features. Moreover, a few may have multiple PCIe slots (2. x, 3. x, etc.). Overall, how many PCIe slots does a motherboard have depends on whether the motherboard is a low-end or high-end model.
 
