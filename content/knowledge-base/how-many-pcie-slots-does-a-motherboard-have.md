@@ -14,6 +14,17 @@ date: 2023-03-25T18:38:55.888Z
 updateDate: 2023-03-25T18:42:44.968Z
 categories:
   - Motherboards
+faqs:
+  - answer: Most motherboards have PCIe slots anywhere between one to seven
+      depending upon the motherboard size, its intended usage, and the space
+      available on the motherboard. Moreover, there may be different types of
+      slots for different use, speeds, and efficiencies.
+    question: How many PCIe slots are available on the motherboard?
+  - answer: ATX motherboards typically support up to seven PCIe slots, while
+      microATX boards have a maximum of four slots, as per the specification.
+      Moreover, the slots available on the ATX motherboard vary in size,
+      utilities, and function.
+    question: How many PCI slots does an ATX motherboard have?
 ---
 A motherboard typically has anywhere from one to seven PCIe slots, depending on the size and feature set. But some motherboards may include additional PCIe slots used for extra expansion cards or specialized features. Moreover, a few may have multiple PCIe slots (2. x, 3. x, etc.). Overall, how many PCIe slots does a motherboard have depends on whether the motherboard is a low-end or high-end model.
 
