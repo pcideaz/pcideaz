@@ -8,6 +8,7 @@ seo_title: How Many PCIe Slots Does a Motherboard Have?
 meta_Description: You may wonder how many PCIe slots does a motherboard have
   when building a PC or connecting different components. Read this guide to
   learn. 
+author: Abdullah Sarfraz
 date: 2023-03-25T18:38:55.888Z
 updateDate: 2023-03-25T18:38:55.928Z
 ---
