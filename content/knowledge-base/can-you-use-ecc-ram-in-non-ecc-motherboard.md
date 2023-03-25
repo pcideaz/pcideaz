@@ -1,7 +1,7 @@
 ---
 title: Can You Use ECC RAM in Non ECC Motherboard
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Can You Use ECC RAM in Non ECC Motherboard
 seo_title: Can You Use ECC RAM in Non ECC Motherboard?
@@ -12,6 +12,7 @@ url: motherboards/can-you-use-ecc-ram-in-non-ecc-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-03-25T18:33:16.063Z
 updateDate: 2023-03-25T18:33:16.105Z
+featured_Image: /uploads/can-you-use-ecc-ram-in-non-ecc-motherboard.webp
 categories:
   - Motherboards
 ---
