@@ -48,9 +48,17 @@ Expansion cards inserted into PCIe slots include graphics cards, sound cards, ne
 The following are the different types of PCI Express (PCIe) slots designed to support different cards.
 
 * **PCIe x1 Slots:** These are usually found on lower-end motherboards and are intended for use with smaller cards, such as sound cards or network adapters.
+
+
 * PCIe x4 Slots: These are usually found on mid-range motherboards and are typically used for video cards or larger cards.
-* **PCIe x16 Slots:** These are usually found on high-end motherboards and are designed to be used with powerful video cards or larger cards that require more bandwidth. 
+
+
+* **PCIe x16 Slots:** These are usually found on high-end motherboards and are designed to be used with powerful video cards or larger cards that require more bandwidth.
+
+
 * **PCIe x8 Slots:** These are less common than the other types but are still sometimes found on mid-range motherboards. They are typically used for larger cards, such as high-end video cards.
+
+
 * **PCIe x32 Slots:** These are rare and usually found on high-end server motherboards. They are used for specialized cards like network adapters or RAID controllers.
 
 ## Factors that determine the number of PCIe slots on a motherboard
@@ -60,6 +68,8 @@ The following are the different types of PCI Express (PCIe) slots designed to su
 One of the most critical factors determining the number of PCIe slots on a motherboard is the size and form factor of the motherboard itself. Generally, the bigger the motherboard, the more slots it can support. This is because larger motherboards usually have more space for expansion cards and components.
 
 * An ATX-size motherboard can typically support up to four PCIe slots, while a smaller mini-ITX motherboard may only be able to support two.
+
+
 *  Similarly, motherboards designed for workstations or servers often have a larger size and form factor than those designed for gaming or home use, allowing them to support more PCIe slots. 
 
 ### Intended Use of the Motherboard
@@ -67,7 +77,11 @@ One of the most critical factors determining the number of PCIe slots on a mothe
 When choosing a motherboard, it is essential to consider its intended use. Each scenario will require different factors to determine the number of PCIe slots on the motherboard.
 
 * If the motherboard is intended for gaming, more expansion slots are likely to be needed than if the motherboard is used as a workstation.
+
+
 * Similarly, if the motherboard is being used as a server, more PCIe slots may be needed to accommodate additional components.
+
+
 *  Knowing the intended use of the motherboard will help you decide how many PCIe slots are required.
 
 ### Available Space on the Motherboard
