@@ -7,6 +7,7 @@ trendname: What is CHA Fan on Motherboard? (Function & How To Connect)
 seo_title: What is CHA Fan on Motherboard? (Function & How To Connect)
 meta_Description: Want to add more fans to your PC? You can utilize CHA fan
   headers on the motherboard. But what is CHA fan on motherboard? Let’s uncover!
+url: motherboards/what-is-cha-fan-on-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-03-28T15:02:38.187Z
 updateDate: 2023-03-28T15:02:38.238Z
