@@ -1,7 +1,7 @@
 ---
 title: What is CHA Fan on Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: What is CHA Fan on Motherboard? (Function & How To Connect)
 seo_title: What is CHA Fan on Motherboard? (Function & How To Connect)
@@ -11,6 +11,7 @@ url: motherboards/what-is-cha-fan-on-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-03-28T15:02:38.187Z
 updateDate: 2023-03-28T15:02:38.238Z
+featured_Image: /uploads/what-is-cha-fan-on-motherboard.webp
 categories:
   - Motherboards
 ---
