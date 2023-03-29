@@ -1,7 +1,7 @@
 ---
 title: Do You Plug Your Monitor Into Graphics Card or Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Do You Plug Your Monitor Into Graphics Card or Motherboard?
 seo_title: Do You Plug Your Monitor Into Graphics Card or Motherboard?
@@ -10,7 +10,8 @@ meta_Description: Many users often ask do you plug your monitor into graphics
 url: motherboards/do-you-plug-your-monitor-into-graphics-card-or-motherboard/
 author: Abdullah Sarfraz
 date: 2023-03-29T13:10:27.306Z
-updateDate: 2023-03-29T13:10:27.341Z
+updateDate: 2023-03-29T13:15:41.808Z
+featured_Image: /uploads/do-you-plug-your-monitor-into-graphics-card-or-motherboard.webp
 categories:
   - Motherboards
 ---
@@ -103,7 +104,7 @@ To connect a monitor to a motherboard, follow these steps:
 
 5. Turn on your computer and monitor. The monitor should automatically detect the input signal and display the image from your computer.
 
-> **Note**: If you are using a discrete graphics card instead of the integrated graphics on your motherboard, you should connect your monitor to the graphics card instead of the motherboard. This will ensure that you are using the more powerful graphics card instead of the integrated graphics.
+**Note**: If you are using a discrete graphics card instead of the integrated graphics on your motherboard, you should connect your monitor to the graphics card instead of the motherboard. This will ensure that you are using the more powerful graphics card instead of the integrated graphics.
 
 ### Advantages
 
