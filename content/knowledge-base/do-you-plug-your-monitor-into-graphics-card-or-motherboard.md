@@ -11,6 +11,8 @@ url: motherboards/do-you-plug-your-monitor-into-graphics-card-or-motherboard/
 author: Abdullah Sarfraz
 date: 2023-03-29T13:10:27.306Z
 updateDate: 2023-03-29T13:10:27.341Z
+categories:
+  - Motherboards
 ---
 If a dedicated graphics card is installed on your computer, it is generally recommended that you plug your monitor into the graphics card instead of the motherboard. This is because the graphics card is designed to handle graphics-intensive tasks. Plugging your monitor into the graphics card can help you get the best possible performance and visual quality from your computer.
 
