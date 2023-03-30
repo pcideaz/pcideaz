@@ -113,6 +113,8 @@ Cleaning agents created especially for use on electronics are known as electroni
 #### Disadvantages
 
 * Some electronic cleansers may present solvents that can harm some components or surfaces.
+
+
 * Electronic cleansers can be more costly and may not be as commonly available as other cleaning agents.
 
 ### Compressed Air 
@@ -122,13 +124,25 @@ Compressed air may remove dust and dirt from ports and other difficult-to-reach 
 #### Advantages
 
 * Compressed air that's clean and dry.
+
+
 * Versatile in a range of uses.
+
+
 * Simple to travel and store.
+
+
 * a High density of energy.
 
 #### Disadvantages
 
 * It takes a lot of energy to make.
+
+
 * Able to be loud.
+
+
 * Need air compressor maintenance.
+
+
 * It might be costly to set up.
