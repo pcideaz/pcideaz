@@ -1,7 +1,7 @@
 ---
 title: Can I Use Isopropyl Alcohol to Clean Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Can I Use Isopropyl Alcohol to Clean Motherboard?
 seo_title: Can I Use Isopropyl Alcohol to Clean Motherboard?
@@ -12,6 +12,7 @@ url: motherboards/can-i-isopropyl-alcohol-to-clean-motherboard/
 author: Abdullah Sarfraz
 date: 2023-03-30T14:49:53.336Z
 updateDate: 2023-03-30T14:49:53.392Z
+featured_Image: /uploads/can-i-use-isopropyl-alcohol-to-clean-motherboard.webp
 categories:
   - Motherboards
 ---
