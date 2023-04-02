@@ -12,6 +12,8 @@ url: motherboards/what-is-a-wifi-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-04-02T18:55:56.705Z
 updateDate: 2023-04-02T18:55:56.749Z
+categories:
+  - Motherboards
 ---
 A WiFi motherboard, also known as a wireless motherboard, is a type of computer motherboard with built-in WiFi capabilities. This means that the motherboard has a built-in wireless network adapter that allows the computer to connect to WiFi networks without needing an additional wireless network card.
 
