@@ -1,7 +1,7 @@
 ---
 title: What is a WiFi motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: What is a WiFi motherboard?
 seo_title: What is a WiFi motherboard? (Pros, Cons & Applications)
@@ -12,6 +12,7 @@ url: motherboards/what-is-a-wifi-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-04-02T18:55:56.705Z
 updateDate: 2023-04-02T18:55:56.749Z
+featured_Image: /uploads/what-is-a-wifi-motherboard.webp
 categories:
   - Motherboards
 ---
