@@ -22,7 +22,7 @@ Such a motherboard can be particularly useful for laptops or desktop computers l
 
 - - -
 
-## Key Takeaways
+> ## Key Takeaways
 
 * A WiFi motherboard is a type of computer motherboard with built-in WiFi capabilities.
 * It offers numerous benefits, including convenience, mobility, flexible networks, cost savings, better performance, and a simple setup.
