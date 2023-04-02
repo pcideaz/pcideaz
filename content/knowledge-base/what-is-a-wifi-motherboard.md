@@ -37,11 +37,23 @@ Such a motherboard can be particularly useful for laptops or desktop computers l
 A wifi motherboard provides numerous benefits to the computer and its user. These benefits include:
 
 * **More convenient:** Using built-in wifi connectivity, users may work anywhere as they no longer need to physically connect their computer to a network with cables.
+
+
 * **Increased mobility:** When the computer is in moving, it can quickly connect to wireless networks, giving users a smooth online experience.
+
+
 * **Flexible networks:** A wide range of wireless networks, including those in the house, workplace, and public hotspots, are accessible to the computer.
+
+
 * **Cost savings:** By reducing the need for a separate wifi card or adapter, built-in wifi lowers the cost of the computer setup for users.
+
+
 * **Better performance:** Compared to wired connections, wireless connections can offer quicker network speeds and reduced latency, improving the computer's overall performance.
+
+
 * **Simple setup:** To make setup and configuration as easy and uncomplicated as possible, the wifi motherboard automatically locates and joins any accessible wireless networks.
+
+
 * **Superior compatibility:** As wifi is a widely accepted standard, many devices and operating systems may use the motherboard.
 
 ## Cons of wifi Motherboard
@@ -49,8 +61,14 @@ A wifi motherboard provides numerous benefits to the computer and its user. Thes
 A few downsides of a WiFi motherboard include as following:
 
 * **Limited upgradability:** The built-in wifi module can only be readily updated or changed if it becomes obsolete or fits the user's expectations.
+
+
 * **Quality variations:** Performance and stability may be impacted by the quality of the included wifi module, which might differ substantially between motherboards and manufacturers.
+
+
 * **Lack of customization:** A built-in wifi module might provide less flexibility or cutting-edge functionality than a separate network card.
+
+
 * **Expansive:** Motherboards with wifi capabilities might cost more than those without. The main benefit of purchasing a wifi motherboard is this.
 
 ## Is It Worth Getting WiFi Motherboard?
