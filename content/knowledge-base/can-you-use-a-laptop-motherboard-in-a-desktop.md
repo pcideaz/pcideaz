@@ -8,6 +8,7 @@ seo_title: Can You Use a Laptop Motherboard in a Desktop?
 meta_Description: Many users often ask can you use a laptop motherboard in a
   desktop? Get the answer to this query and learn about the differences in this
   guide.
+url: motherboards/can-you-use-a-laptop-motherboard-in-a-desktop/
 author: Abdullah Sarfraz
 date: 2023-04-03T14:25:43.647Z
 updateDate: 2023-04-03T14:28:19.121Z
