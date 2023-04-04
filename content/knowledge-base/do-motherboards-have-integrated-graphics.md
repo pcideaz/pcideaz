@@ -1,7 +1,7 @@
 ---
 title: Do Motherboards Have Integrated Graphics?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Do Motherboards Have Integrated Graphics
 seo_title: Do Motherboards Have Integrated Graphics?
@@ -12,6 +12,7 @@ url: motherboards/do-motherboards-have-integrated-graphics/
 author: Abdullah Sarfraz
 date: 2023-04-04T17:38:12.234Z
 updateDate: 2023-04-04T17:38:12.286Z
+featured_Image: /uploads/do-motherboards-have-integrated-graphics.webp
 categories:
   - Motherboards
 ---
@@ -46,15 +47,27 @@ Without integrated graphics, a computer would require a dedicated graphics card 
 The following are the advantages of having integrated graphics.
 
 * **Cost savings:** Since the GPU is integrated into the motherboard, purchasing a separate graphics card is unnecessary, making the build more cost-effective.
+
+
 * **Space savings:** The lack of a separate graphics card can save space in the computer case, allowing for a smaller and more compact build.
+
+
 * **Energy efficiency:** Integrated graphics consume less power than a separate graphics card, reducing energy consumption and lower power bills.
+
+
 * **Suitable for basic tasks:** For basic tasks such as browsing the web, working with text, or watching videos, integrated graphics can provide sufficient performance without needing a separate graphics card.
 
 ## Limitations of integrated graphics
 
 In general, integrated graphics should be considered for basic tasks and applications, while dedicated graphics cards should be used for more demanding tasks that require higher performance. Here are some limitations of integrated graphics.
 
-* One of the main limitations of integrated graphics is that they may not be suitable for demanding applications such as gaming, video editing, and 3D rendering. 
+* One of the main limitations of integrated graphics is that they may not be suitable for demanding applications such as gaming, video editing, and 3D rendering.
+
+
 * Integrated graphics can provide sufficient performance for basic tasks, but their performance may not be sufficient for more demanding tasks requiring higher graphics processing.
+
+
 * These graphics often have lower memory and bandwidth than dedicated graphics cards, limiting their performance.
+
+
 * These may not have the same level of support for advanced features and technologies as dedicated graphics cards, such as support for VR, multiple monitors, and high refresh rates.
