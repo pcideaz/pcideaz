@@ -17,13 +17,17 @@ categories:
 ---
 No, modern motherboards don’t have integrated graphics. Instead, integrated graphics or an onboard graphics processing unit (GPU) is built into the CPU to provide basic graphics capabilities. These built-in graphics are suitable for everyday computing tasks such as web browsing, email, and office applications.
 
-Integrated graphics is important because it provides an affordable and convenient solution for basic visual display needs. But, it is important to note that integrated graphics typically have limited performance compared to dedicated graphics cards and may not be suitable for demanding games or graphic-intensive tasks. 
+Integrated graphics is important because it provides an affordable and convenient solution for basic visual display needs. But, it is important to note that integrated graphics typically have limited performance compared to dedicated graphics cards and may not be suitable for demanding games or graphic-intensive tasks.
 
-## Key Takeaways
+- - -
+
+> ## Key Takeaways
 
 * Modern motherboards do not have integrated graphics, but integrated graphics or an onboard GPU is built into the CPU for basic graphics capabilities.
 * Integrated graphics provide an affordable and convenient solution for basic visual display needs, but have limited performance compared to dedicated graphics cards.
 * These offer cost savings, space savings, and energy efficiency, but may not be suitable for demanding applications and may have lower memory and bandwidth.
+
+- - -
 
 ## Availability of Integrated Graphics on Motherboards
 
