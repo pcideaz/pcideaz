@@ -8,6 +8,7 @@ seo_title: Do Motherboards Have Integrated Graphics?
 meta_Description: Graphics are essential to showcase or display visuals or
   graphics on the screen. But do motherboards have integrated graphics? Let’s
   discover!
+url: motherboards/do-motherboards-have-integrated-graphics/
 author: Abdullah Sarfraz
 date: 2023-04-04T17:38:12.234Z
 updateDate: 2023-04-04T17:38:12.286Z
