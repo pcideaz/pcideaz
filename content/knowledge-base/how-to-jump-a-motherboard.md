@@ -8,9 +8,12 @@ seo_title: How to jump a motherboard? - PCIdeaz
 meta_Description: Learn how to jump a motherboard with our guide. We'll walk you
   through the step-by-step process, Plus, get tips on troubleshooting common
   issues.
+url: motherboards//how-to-jump-a-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-04-05T08:03:02.029Z
 updateDate: 2023-04-05T08:03:02.072Z
+categories:
+  - Motherboards
 ---
 Jumping a motherboard refers to the process of connecting two pins on the motherboard temporarily using a jumper wire or cap. This technique is used to modify the behavior of the motherboard or resolve certain issues. It is important to follow the instructions carefully when jumping a motherboard as improper placement of the jumper can result in damage to the motherboard.
 
