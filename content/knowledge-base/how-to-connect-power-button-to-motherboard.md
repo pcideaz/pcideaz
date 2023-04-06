@@ -7,6 +7,7 @@ trendname: How to Connect Power Button to Motherboard?
 seo_title: How to Connect Power Button to Motherboard? (Explained)
 meta_Description: This comprehensive guide will teach you how to connect power
   button to motherboard, the tools you require, and the necessary precautions.
+url: motherboards/how-to-connect-power-button-to-motherboard/
 author: Abdullah Sarfraz
 date: 2023-04-06T05:58:47.541Z
 updateDate: 2023-04-06T05:58:47.579Z
