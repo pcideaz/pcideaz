@@ -7,8 +7,11 @@ trendname: How to Connect Power Button to Motherboard?
 seo_title: How to Connect Power Button to Motherboard? (Explained)
 meta_Description: This comprehensive guide will teach you how to connect power
   button to motherboard, the tools you require, and the necessary precautions.
+author: Abdullah Sarfraz
 date: 2023-04-06T05:58:47.541Z
 updateDate: 2023-04-06T05:58:47.579Z
+categories:
+  - Motherboards
 ---
 The power button is a small switch located on the front panel of a computer case. The power button is a crucial component in a computer system, allowing the user to turn the system on and off. Connecting the power button to the motherboard is essential in the assembly process.
 
