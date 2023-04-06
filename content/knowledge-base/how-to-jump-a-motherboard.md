@@ -8,7 +8,7 @@ seo_title: How to jump a motherboard? - PCIdeaz
 meta_Description: Learn how to jump a motherboard with our guide. We'll walk you
   through the step-by-step process, Plus, get tips on troubleshooting common
   issues.
-url: motherboards//how-to-jump-a-motherboard/
+url: motherboards/how-to-jump-a-motherboard/
 author: Zohaib Hassan Bhatti
 date: 2023-04-05T08:03:02.029Z
 updateDate: 2023-04-05T08:12:57.676Z
