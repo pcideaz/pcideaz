@@ -17,11 +17,15 @@ The power button is a small switch located on the front panel of a computer case
 
 This is because It ensures that the system can be powered on and off in a controlled manner. Read this in-detail step-by-step guide to learn how to connect the power button to your motherboard in a few simple steps. You will also learn about the necessary tools and precautions. Let’s get started!
 
-## Key Takeaways
+- - -
+
+> ## Key Takeaways
 
 * The power button is crucial in turning a computer system on and off, and connecting the power button to the motherboard is essential in the assembly process.
 * Tools required to connect the power button to the motherboard include a Phillips head screwdriver, a cable, and the motherboard manual.
 * To connect the power button to the motherboard, identify the location of the power button header, access the header, prepare the header for connection, know the correct wiring configuration, connect the power button to the header, secure the connection, and test the connection.
+
+- - -
 
 ## Tools Required to Connect Power Supply to Motherboard
 
