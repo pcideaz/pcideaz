@@ -17,16 +17,26 @@ categories:
 The decision of whether should I upgrade my motherboard depends on several factors. Here are a few questions to help you decide whether or not you should upgrade:
 
 1. Are you experiencing issues with your current motherboard, such as slow performance or compatibility problems with other components?
+
+
 2. Are you looking to upgrade other components in your system, such as the CPU or graphics card, and need a motherboard that can support these upgrades?
+
+
 3. Are you interested in using new technologies or features unavailable on your current motherboard?
+
+
 4. Do you have a budget for the upgrade, and is it worth it for the benefits you will receive?
 
-If you answered yes to any of these questions, it might be worth considering upgrading your motherboard. However, it's essential to carefully consider the compatibility of your current components, the socket type required for your CPU, the memory type and capacity supported by the motherboard, and other factors before making a final decision. 
+If you answered yes to any of these questions, it might be worth considering upgrading your motherboard. However, it's essential to carefully consider the compatibility of your current components, the socket type required for your CPU, the memory type and capacity supported by the motherboard, and other factors before making a final decision.
 
-## Key Takeaways
+- - -
+
+> ## Key Takeaways
 
 * Upgrading a motherboard can give you improved system performance, the ability to use newer and more powerful components, increased storage capacity, improved connectivity options, improved graphics card compatibility, and better power management for energy efficiency. 
 * It is crucial to consider factors such as compatibility with current hardware and components, the available socket type for the CPU, supported memory type and maximum capacity, type and the number of available expansion slots, availability of ports and connectivity options, quality and reliability of the motherboard, and budget for the upgrade.
+
+- - -
 
 ## Benefits of Upgrading a Motherboard
 
