@@ -1,7 +1,7 @@
 ---
 title: Should I upgrade My Motherboard?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Should I upgrade My Motherboard?
 seo_title: Should I upgrade My Motherboard? (Decide With This Guide)
@@ -10,7 +10,7 @@ meta_Description: Many factors must be considered when deciding whether should I
 url: motherboards/should-i-upgrade-my-motherboard/
 author: Abdullah Sarfraz
 date: 2023-04-08T12:52:12.598Z
-updateDate: 2023-04-08T13:01:33.822Z
+updateDate: 2023-04-08T17:28:36.946Z
 featured_Image: /uploads/should-i-upgrade-my-motherboard.webp
 categories:
   - Motherboards
