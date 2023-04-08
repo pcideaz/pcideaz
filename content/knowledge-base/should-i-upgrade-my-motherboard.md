@@ -8,8 +8,11 @@ seo_title: Should I upgrade My Motherboard? (Decide With This Guide)
 meta_Description: Many factors must be considered when deciding whether should I
   upgrade my motherboard. Learn those factors, advantages, disadvantages, etc.
 url: motherboards/should-i-upgrade-my-motherboard/
+author: Abdullah Sarfraz
 date: 2023-04-08T12:52:12.598Z
 updateDate: 2023-04-08T12:52:12.636Z
+categories:
+  - Motherboards
 ---
 The decision of whether should I upgrade my motherboard depends on several factors. Here are a few questions to help you decide whether or not you should upgrade:
 
