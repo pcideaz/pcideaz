@@ -1,7 +1,7 @@
 ---
 title: Are Used Motherboards Good?
 type: knowledge-base
-draft: true
+draft: false
 trending: true
 trendname: Are Used Motherboards Good?
 seo_title: Are Used Motherboards Good? (Let’s Decide In This Guide)
@@ -11,6 +11,7 @@ url: motherboards/are-used-motherboards-good/
 author: Zohaib Hassan Bhatti
 date: 2023-04-09T13:10:38.159Z
 updateDate: 2023-04-09T13:12:47.983Z
+featured_Image: /uploads/are-used-motherboards-good.webp
 categories:
   - Motherboards
 ---
